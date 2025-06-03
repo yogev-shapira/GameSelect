@@ -172,7 +172,7 @@
     loadingDiv.style.display = "block";
     gamesDiv.innerHTML = "";
 
-    fetch(`http://127.0.0.1:5000/api/games_by_date?date=${formattedDate}`)
+    fetch(`/api/games_by_date?date=${formattedDate}`)
       .then(response => response.json())
       .then(data => {
         loadingDiv.style.display = "none";

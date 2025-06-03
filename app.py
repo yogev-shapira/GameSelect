@@ -1,6 +1,6 @@
 import pandas as pd
 from datetime import datetime, timedelta
-from flask import Flask, request, jsonify, render_template
+from flask import Flask, request, jsonify, send_from_directory
 from flask_cors import CORS
 
 from feature_extractor import get_features
@@ -9,6 +9,16 @@ from calc_similarity import recommend_games_cosine
 app = Flask(__name__)
 
 CORS(app)
+
+@app.route('/')
+def serve_landing():
+    return send_from_directory('static', 'landing.html')
+
+
+@app.route('/<path:filename>')
+def serve_static_files(filename):
+    return send_from_directory('static', filename)
+
 
 @app.route('/api/games_by_date')
 def games_by_date():

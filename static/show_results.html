@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Recommended NBA Games</title>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+  <style>
+    .main-content {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      margin: 0 auto;
+    }
+    body {
+      font-family: 'Bebas Neue', sans-serif;
+      margin: 20px;
+      font-size: 20px;
+      background-color: #1a1a1a;
+    }
+
+    h2 {
+      font-size: 32px;
+      letter-spacing: 1px;
+      color:  #ff4500;
+    }
+
+
+   .game-card {
+      border: 1px solid #9f5233;
+      border-radius: 6px;
+      padding: 12px;
+      margin-bottom: 15px;
+      background-color: #fff6f2;
+    }
+
+    .game-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .team-logo {
+      width: 75px;
+      height: 75px;
+      object-fit: contain;
+    }
+
+    .game-title {
+      text-align: center;
+      flex: 1;
+      font-size: 24px;
+    }
+
+    .game-meta {
+      text-align: center;
+      font-size: 16px;
+      color: #666;
+      margin-top: 8px;
+    }
+
+    .game-card:hover {
+      transform: scale(1.05);
+    }
+
+    .card-number {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      background-color: #d77a2d;
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      font-weight: bold;
+      margin-bottom: 8px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+
+    .back-button {
+      margin-top: 30px;
+      padding: 10px 15px;
+      font-size: 18px;
+      background-color: #0077cc;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    p, label {
+      color: #ff4500;
+    }
+  </style>
+</head>
+<body>
+  <div class="main-content">
+    <h2>🏀 Your Recommended Games 🏀</h2>
+    <div id="games"></div>
+    <button class="back-button" onclick="window.location.href='select_range.html'">⬅️ Back</button>
+  </div>
+
+  <script>
+    const teamLogos = {
+      "Atlanta Hawks": "https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg",
+      "Boston Celtics": "https://cdn.nba.com/logos/nba/1610612738/global/L/logo.svg",
+      "Brooklyn Nets": "https://cdn.nba.com/logos/nba/1610612751/global/L/logo.svg",
+      "Charlotte Hornets": "https://cdn.nba.com/logos/nba/1610612766/global/L/logo.svg",
+      "Chicago Bulls": "https://cdn.nba.com/logos/nba/1610612741/global/L/logo.svg",
+      "Cleveland Cavaliers": "https://cdn.nba.com/logos/nba/1610612739/global/L/logo.svg",
+      "Dallas Mavericks": "https://cdn.nba.com/logos/nba/1610612742/global/L/logo.svg",
+      "Denver Nuggets": "https://cdn.nba.com/logos/nba/1610612743/global/L/logo.svg",
+      "Detroit Pistons": "https://cdn.nba.com/logos/nba/1610612765/global/L/logo.svg",
+      "Golden State Warriors": "https://cdn.nba.com/logos/nba/1610612744/global/L/logo.svg",
+      "Houston Rockets": "https://cdn.nba.com/logos/nba/1610612745/global/L/logo.svg",
+      "Indiana Pacers": "https://cdn.nba.com/logos/nba/1610612754/global/L/logo.svg",
+      "LA Clippers": "https://cdn.nba.com/logos/nba/1610612746/global/L/logo.svg",
+      "Los Angeles Lakers": "https://cdn.nba.com/logos/nba/1610612747/global/L/logo.svg",
+      "Memphis Grizzlies": "https://cdn.nba.com/logos/nba/1610612763/global/L/logo.svg",
+      "Miami Heat": "https://cdn.nba.com/logos/nba/1610612748/global/L/logo.svg",
+      "Milwaukee Bucks": "https://cdn.nba.com/logos/nba/1610612749/global/L/logo.svg",
+      "Minnesota Timberwolves": "https://cdn.nba.com/logos/nba/1610612750/global/L/logo.svg",
+      "New Orleans Pelicans": "https://cdn.nba.com/logos/nba/1610612740/global/L/logo.svg",
+      "New York Knicks": "https://cdn.nba.com/logos/nba/1610612752/global/L/logo.svg",
+      "Oklahoma City Thunder": "https://cdn.nba.com/logos/nba/1610612760/global/L/logo.svg",
+      "Orlando Magic": "https://cdn.nba.com/logos/nba/1610612753/global/L/logo.svg",
+      "Philadelphia 76ers": "https://cdn.nba.com/logos/nba/1610612755/global/L/logo.svg",
+      "Phoenix Suns": "https://cdn.nba.com/logos/nba/1610612756/global/L/logo.svg",
+      "Portland Trail Blazers": "https://cdn.nba.com/logos/nba/1610612757/global/L/logo.svg",
+      "Sacramento Kings": "https://cdn.nba.com/logos/nba/1610612758/global/L/logo.svg",
+      "San Antonio Spurs": "https://cdn.nba.com/logos/nba/1610612759/global/L/logo.svg",
+      "Toronto Raptors": "https://cdn.nba.com/logos/nba/1610612761/global/L/logo.svg",
+      "Utah Jazz": "https://cdn.nba.com/logos/nba/1610612762/global/L/logo.svg",
+      "Washington Wizards": "https://cdn.nba.com/logos/nba/1610612764/global/L/logo.svg"
+    };
+    console.log("Reading from localStorage...");
+    console.log("recommendedGames raw:", localStorage.getItem("recommendedGames"));
+    const games = JSON.parse(localStorage.getItem("recommendedGames") || "[]");
+    const container = document.getElementById("games");
+    console.log("Parsed games:", games);
+
+
+    if (games.length === 0) {
+      container.innerHTML = "<p>😕 No games found in your selected dates.</p>";
+    } else {
+      games.forEach((game, index) => {
+        const { game_id, away_team, home_team, location, hour, date } = game;
+
+        const card = document.createElement("div");
+        card.className = "game-card";
+
+        const numberCircle = document.createElement("div");
+        numberCircle.className = "card-number";
+        numberCircle.innerText = index + 1;
+        card.appendChild(numberCircle);
+
+
+        const logo1 = document.createElement("img");
+        logo1.className = "team-logo";
+        logo1.src = teamLogos[away_team] || "";
+        logo1.alt = away_team;
+
+        const logo2 = document.createElement("img");
+        logo2.className = "team-logo";
+        logo2.src = teamLogos[home_team] || "";
+        logo2.alt = home_team;
+
+        const header = document.createElement("div");
+        header.className = "game-header";
+
+        const title = document.createElement("div");
+        title.className = "game-title";
+        title.innerText = `${away_team} vs ${home_team}`;
+
+        header.appendChild(logo1);
+        header.appendChild(title);
+        header.appendChild(logo2);
+        card.appendChild(header);
+
+        const meta = document.createElement("div");
+        meta.className = "game-meta";
+        meta.innerText = `${date} - ${location} - ${hour}`;
+        card.appendChild(meta);
+
+        container.appendChild(card);
+      });
+    }
+  </script>
+</body>
+</html>

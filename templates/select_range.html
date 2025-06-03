@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Select Game Range</title>
+  <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet" />
+
+  <style>
+    body {
+      font-family: 'Anton', sans-serif;
+      background-color: #1a1a1a;
+      color: #222;
+      text-align: center;
+      padding: 2rem;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 2rem;
+      color: #ff4500;
+    }
+
+    .section {
+      margin: 2rem 0;
+    }
+
+    select {
+      font-size: 1.1rem;
+      padding: 0.5rem;
+      margin-top: 1rem;
+    }
+
+    .display {
+      margin-top: 1rem;
+      font-size: 1.2rem;
+    }
+
+    button {
+      padding: 1rem 2rem;
+      font-size: 1.2rem;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+
+    #recommendBtn {
+      background-color: #a44807;
+      color: teal;
+      margin-top: 1.5rem;
+    }
+
+    #recommendBtn:hover {
+      background-color: #d77a2d;
+    }
+
+    #goBackBtn {
+      background-color: #1b8884;
+      color: #222;
+      margin-top: 1.5rem;
+    }
+
+    #goBackBtn:hover {
+      background-color: #21669f;
+    }
+
+    p, label {
+      color: #ff4500;
+    }
+
+    @media (max-width: 600px) {
+      h1 {
+        font-size: 2rem;
+      }
+
+      .display {
+        font-size: 1rem;
+      }
+
+      button {
+        font-size: 1rem;
+        padding: 0.8rem 1.5rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>Select Recommendation Range</h1>
+
+  <div class="section">
+    <label for="daySelect">Choose how many recent days to include:</label><br />
+    <select id="daySelect">
+      <option value="" selected disabled>Select days...</option>
+    </select>
+    <div class="display" id="dateRangeDisplay" style="display: none;"></div>
+  </div>
+
+  <div class="section">
+    <label for="gameSelect">Choose how many games to recommend:</label><br />
+    <select id="gameSelect">
+      <option value="" selected disabled>Select games...</option>
+    </select>
+    <div class="display" id="gameCountDisplay" style="display: none;"></div>
+  </div>
+
+  <!-- Back to favorites button -->
+  <div class="section">
+    <button id="goBackBtn" onclick="window.location.href='./select_games.html'">
+      ⬅️ Back to Choose Favorites
+    </button>
+  </div>
+
+  <!-- Recommend button -->
+  <div class="section">
+    <button id="recommendBtn">Recommend Games ➡️</button>
+  </div>
+
+  <script>
+    // Generate dropdown options
+    const daySelect = document.getElementById("daySelect");
+    const gameSelect = document.getElementById("gameSelect");
+
+    for (let i = 1; i <= 14; i++) {
+      const opt = document.createElement("option");
+      opt.value = i;
+      opt.textContent = i;
+      daySelect.appendChild(opt);
+    }
+
+    for (let i = 1; i <= 20; i++) {
+      const opt = document.createElement("option");
+      opt.value = i;
+      opt.textContent = i;
+      gameSelect.appendChild(opt);
+    }
+
+    const today = new Date();
+    const dateRangeDisplay = document.getElementById("dateRangeDisplay");
+    const gameCountDisplay = document.getElementById("gameCountDisplay");
+
+    daySelect.addEventListener("change", () => {
+      const numDays = parseInt(daySelect.value);
+      const startDate = new Date(today);
+      startDate.setDate(today.getDate() - numDays);
+
+      const formatDate = (date) =>
+        `${date.getDate()}.${date.getMonth() + 1}.${String(date.getFullYear()).slice(2)}`;
+
+      dateRangeDisplay.textContent = `Selected Date Range: ${formatDate(startDate)} – ${formatDate(today)}`;
+      dateRangeDisplay.style.display = "block";
+    });
+
+    gameSelect.addEventListener("change", () => {
+      gameCountDisplay.textContent = `Number of Games to Recommend: ${gameSelect.value}`;
+      gameCountDisplay.style.display = "block";
+    });
+
+    document.getElementById("recommendBtn").addEventListener("click", () => {
+      const days = daySelect.value;
+      const games = gameSelect.value;
+      const likedGameIds = JSON.parse(localStorage.getItem("selectedGameIds") || "[]");
+
+      if (!days || !games) {
+        alert("Please select both number of days and number of games.");
+        return;
+      }
+      //10.5.3.183
+      fetch("http://127.0.0.1:5000/api/recommender", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          liked_game_ids: likedGameIds,
+          days: parseInt(days),
+          games: parseInt(games)
+        })
+      })
+      .then(res => res.json())
+      .then(data => {
+        console.log("Server response:", data);
+        if (data.recommended_games) {
+          console.log("Storing games:", data.recommended_games.length);
+          localStorage.setItem("recommendedGames", JSON.stringify(data.recommended_games));
+          console.log("Stored. Redirecting now...");
+          setTimeout(() => {
+            window.location.href = "./show_results.html";
+          }, 1000); // 500ms delay to ensure storage writes
+        } else {
+          alert("No recommendations found.");
+        }
+      })
+      .catch(err => {
+        console.error("Error sending recommendation request:", err);
+        alert("Failed to get recommendations.");
+      });
+    });
+  </script>
+</body>
+</html>

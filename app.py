@@ -3,7 +3,6 @@ from datetime import datetime, timedelta
 from flask import Flask, request, jsonify, render_template
 from flask_cors import CORS
 
-from get_game_ids import get_games_info_by_date
 from feature_extractor import get_features
 from calc_similarity import recommend_games_cosine
 

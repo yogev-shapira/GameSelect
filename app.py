@@ -78,7 +78,7 @@ def get_games_in_range(start_date, end_date):
 def get_game_dicts(game_ids):
     game_dicts = []
     for game_id in game_ids:
-        game_data = pd.read_csv(f"data\espn_play_by_play_{game_id}.csv")
+        game_data = pd.read_csv(f"data/espn_play_by_play_{game_id}.csv")
         game_dicts.append(get_features(game_id, game_data))
     return game_dicts
 

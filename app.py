@@ -8,7 +8,8 @@ from calc_similarity import recommend_games_cosine
 
 app = Flask(__name__)
 
-CORS(app)
+# CORS(app)
+CORS(app, resources={r"/api/*": {"origins": "https://gameselect.onrender.com"}})
 
 @app.route('/')
 def serve_landing():

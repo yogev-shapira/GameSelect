@@ -2,7 +2,7 @@ import os
 import csv
 import ast
 import pandas as pd
-from datetime import datetime
+from datetime import datetime, timedelta
 
 from get_game_ids import get_game_ids_for_range, get_game_info_from_espn, get_game_string
 from get_game_data import get_game_data
@@ -117,9 +117,11 @@ def update_game_db_with_new_games(start_date, end_date,
 
 
 if __name__ == "__main__":
+    yesterday = datetime.today() - timedelta(days=1)
+
     update_game_db_with_new_games(
-        start_date=datetime.today().strftime('%Y%m%d'),
-        end_date=datetime.today().strftime('%Y%m%d'),
+        start_date=yesterday.strftime('%Y%m%d'),
+        end_date=yesterday.strftime('%Y%m%d'),
         database_path="game_database.csv",
         pbp_folder="data"
     )

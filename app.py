@@ -1,6 +1,6 @@
 import pandas as pd
 from datetime import datetime, timedelta
-from flask import Flask, request, jsonify, send_from_directory
+from flask import Flask, request, jsonify, render_template
 from flask_cors import CORS
 
 from feature_extractor import get_features
@@ -12,13 +12,20 @@ app = Flask(__name__)
 CORS(app, resources={r"/api/*": {"origins": "https://gameselect.onrender.com"}})
 
 @app.route('/')
-def serve_landing():
-    return send_from_directory('static', 'landing.html')
+def landing():
+    return render_template('landing.html')
 
+@app.route('/select-games')
+def select_games():
+    return render_template('select_games.html')
 
-@app.route('/<path:filename>')
-def serve_static_files(filename):
-    return send_from_directory('static', filename)
+@app.route('/select-range')
+def select_range():
+    return render_template('select_range.html')
+
+@app.route('/show-results')
+def show_results():
+    return render_template('show_results.html')
 
 
 @app.route('/api/games_by_date')

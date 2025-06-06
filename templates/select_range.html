@@ -106,7 +106,7 @@
 
   <!-- Back to favorites button -->
   <div class="section">
-    <button id="goBackBtn" onclick="window.location.href='./select_games.html'">
+    <button id="goBackBtn" onclick="window.location.href='/select-games'">
       ⬅️ Back to Choose Favorites
     </button>
   </div>
@@ -185,7 +185,7 @@
           localStorage.setItem("recommendedGames", JSON.stringify(data.recommended_games));
           console.log("Stored. Redirecting now...");
           setTimeout(() => {
-            window.location.href = "./show_results.html";
+            window.location.href = "/show-results";
           }, 1000); // 500ms delay to ensure storage writes
         } else {
           alert("No recommendations found.");

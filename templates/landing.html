@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>GameSelect – Find the NBA Game Worth Watching</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
   <style>
     .landing-container {
       max-width: 700px;
@@ -50,7 +50,7 @@
 <body>
   <div class="landing-container">
     <!-- Logo -->
-    <img src="GameSelect.png" alt="GameSelect Logo" class="logo">
+    <img src="{{ url_for('static', filename='GameSelect.png') }}" alt="GameSelect Logo" class="logo">
 
     <!-- Main Tagline -->
     <div class="main-tagline">Find the NBA game worth watching</div>
@@ -59,7 +59,7 @@
     <div class="qa-block">
       <h2>What is GameSelect?</h2>
       <p>GameSelect is a recommendation system that helps NBA fans discover the most exciting past games worth rewatching -<br>
-        personalized to each personal taste.</p>
+        customized to match their individual preferences.</p>
     </div>
 
     <!-- Q&A Section 2 -->

@@ -100,6 +100,11 @@
       border: none;
       border-radius: 5px;
       cursor: pointer;
+    } 
+
+    .message-text {
+      color: #d3590d;  /* Use the same orange as the header */
+      font-weight: bold;
     }
   </style>
 </head>
@@ -108,7 +113,7 @@
     <h2>Select Games You Liked From The Current Season 🔍 </h2>
     <input type="date" id="dateInput">
 
-    <div id="loading" style="display:none;">Loading... ⌛</div>
+    <div id="loading" class="message-text" style="display:none;">Loading... ⌛</div>
     <div id="games"></div>
 
     <button class="done-button" onclick="goToNextPage()">✅ Done Selecting</button>
@@ -183,7 +188,7 @@
         }
 
         if (data.games.length === 0) {
-          gamesDiv.innerHTML = "<p>No games found for this date.</p>";
+          gamesDiv.innerHTML = "<p class='message-text'>No games found for this date.</p>";
           return;
         }
 

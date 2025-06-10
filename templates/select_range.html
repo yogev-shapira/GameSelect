@@ -166,7 +166,9 @@
         alert("Please select both number of days and number of games.");
         return;
       }
-      //10.5.3.183
+      
+      document.getElementById("recommendBtn").textContent = "Loading... ⌛";
+      
       fetch("/api/recommender", {
         method: "POST",
         headers: {

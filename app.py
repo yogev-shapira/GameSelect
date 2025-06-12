@@ -1,3 +1,5 @@
+import os
+import pickle
 import pandas as pd
 from datetime import datetime, timedelta
 from flask import Flask, request, jsonify, render_template
@@ -5,6 +7,20 @@ from flask_cors import CORS
 
 from feature_extractor import get_features
 from calc_similarity import recommend_games_cosine
+
+CACHE_PATH = "cached_game_features.pkl"
+
+
+def _load_cache() -> dict:
+    if os.path.exists(CACHE_PATH):
+        with open(CACHE_PATH, "rb") as fh:
+            return pickle.load(fh)
+    return {}
+
+def _save_cache(cache: dict) -> None:
+    with open(CACHE_PATH, "wb") as fh:
+        pickle.dump(cache, fh, protocol=pickle.HIGHEST_PROTOCOL)
+
 
 app = Flask(__name__)
 
@@ -84,11 +100,30 @@ def get_games_in_range(start_date, end_date):
 
 
 def get_game_dicts(game_ids):
-    game_dicts = []
-    for game_id in game_ids:
-        game_data = pd.read_csv(f"data/espn_play_by_play_{game_id}.csv")
-        game_dicts.append(get_features(game_id, game_data))
-    return game_dicts
+    cache = _load_cache()
+    dirty = False
+    result = []
+
+    for gid in map(str, game_ids):
+        if gid not in cache:
+            csv_path = f"data/espn_play_by_play_{gid}.csv"
+            if os.path.exists(csv_path):
+                try:
+                    df = pd.read_csv(csv_path)
+                    cache[gid] = get_features(gid, df)
+                    dirty = True
+                    print(f"   ↳ features cached on-the-fly for {gid}")
+                except Exception as e:
+                    print(f"   ⚠️  could not compute features for {gid}: {e}")
+            else:
+                print(f"   ⚠️  missing CSV for {gid} – skipping")
+                continue
+        result.append(cache[gid])
+
+    if dirty:
+        _save_cache(cache)
+
+    return result
 
 
 @app.route('/api/recommender', methods=['POST'])

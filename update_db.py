@@ -6,6 +6,17 @@ from datetime import datetime, timedelta
 
 from get_game_ids import get_game_ids_for_range, get_game_info_from_espn, get_game_string
 from get_game_data import get_game_data
+from feature_extractor import get_features 
+
+CACHE_PATH = "cached_game_features.pkl" 
+
+def _load_cache() -> dict:
+    return pickle.load(open(CACHE_PATH, "rb")) if os.path.exists(CACHE_PATH) else {}
+
+
+def _save_cache(cache: dict):
+    with open(CACHE_PATH, "wb") as fh:
+        pickle.dump(cache, fh, protocol=pickle.HIGHEST_PROTOCOL)
 
 
 def extract_final_scores(game_id, pbp_folder):
@@ -50,7 +61,10 @@ def update_game_db_with_new_games(start_date, end_date,
             reader = csv.DictReader(f)
             for row in reader:
                 existing_game_ids.add(row["game_id"])
-
+    
+    feature_cache = _load_cache()
+    cache_dirty = False
+    
     # Get new game IDs from ESPN
     new_game_ids = get_game_ids_for_range(start_date, end_date)
 
@@ -92,6 +106,19 @@ def update_game_db_with_new_games(start_date, end_date,
 
         except Exception as e:
             print(f"Failed to process game {game_id}: {e}")
+    
+        #ensure features are cached
+        gid_str = str(game_id)
+        if gid_str not in feature_cache:
+            try:
+                pbp_path = os.path.join(pbp_folder, f"espn_play_by_play_{game_id}.csv")
+                if os.path.exists(pbp_path):
+                    df = pd.read_csv(pbp_path)
+                    feature_cache[gid_str] = get_features(game_id, df)
+                    cache_dirty = True
+                    print(f"   ↳ features cached for {game_id}")
+            except Exception as fe:
+                print(f"   ⚠️  could not cache features for {game_id}: {fe}")
 
     # Append new rows to the CSV database
     if new_rows:
@@ -106,6 +133,10 @@ def update_game_db_with_new_games(start_date, end_date,
         print(f"Appended {len(new_rows)} new games to database.")
     else:
         print("No new games were added.")
+
+    if cache_dirty:
+        _save_cache(feature_cache)
+        print(f"Feature cache updated — {len(feature_cache)} games total")
 
 
 # update_game_database_with_new_games(

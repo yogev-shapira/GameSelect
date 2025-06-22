@@ -43,6 +43,9 @@ def select_range():
 def show_results():
     return render_template('show_results.html')
 
+@app.route('/my-games')          
+def my_games():
+    return render_template('my_games.html')
 
 @app.route('/api/games_by_date')
 def games_by_date():

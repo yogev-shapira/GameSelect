@@ -106,6 +106,44 @@
       color: #d3590d;  /* Use the same orange as the header */
       font-weight: bold;
     }
+
+    .see-button {
+      margin-top: 20px;
+      padding: 10px 18px;
+      font-size: 20px;
+      background-color: #ff9500;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .see-button:hover { background-color: #ffa733; }
+
+    /* modal shell */
+    .modal {
+      display: none;               /* keep hidden until opened   */
+      position: fixed;
+      z-index: 1000;
+      inset: 0;                    /* shorthand for top/left…0   */
+      background: rgba(0,0,0,0.6); /* dark overlay               */
+      overflow-y: auto;
+    }
+    /* modal box */
+    .modal-content {
+      background: #fff6f2;
+      margin: 60px auto;
+      padding: 25px 25px 35px;
+      max-width: 680px;
+      border-radius: 8px;
+    }
+    .modal-content h3 { margin-top: 0; text-align: center; }
+    /* close -×- icon */
+    .modal .close {
+      float: right;
+      font-size: 28px;
+      font-weight: bold;
+      cursor: pointer;
+    }
   </style>
 </head>
 <body>
@@ -117,6 +155,9 @@
     <div id="games"></div>
 
     <button class="done-button" onclick="goToNextPage()">✅ Done Selecting</button>
+
+    <button id="seeMyGamesBtn" class="see-button">👀 See My Games</button>
+
   </div>  <!-- END CENTERED AREA -->
 
   <script>
@@ -154,7 +195,9 @@
       "Utah Jazz": "https://cdn.nba.com/logos/nba/1610612762/global/L/logo.svg",
       "Washington Wizards": "https://cdn.nba.com/logos/nba/1610612764/global/L/logo.svg"
     };
-
+  
+  localStorage.setItem("teamLogos", JSON.stringify(teamLogos));
+    
   function formatDateToYYYYMMDD(date) {
     const d = new Date(date);
     const yyyy = d.getFullYear();
@@ -264,11 +307,27 @@
     fetchGames();
   });
 
+  document.getElementById("seeMyGamesBtn")
+        .addEventListener("click", () =>
+            window.open("my_games.html", "myGames",
+                        "width=820,height=640,noopener")
+  );
+
+
   function goToNextPage() {
     localStorage.setItem("selectedGameIds", JSON.stringify(Array.from(selectedGameIds)));
     window.location.href = "/select-range";
   }
-
+  
+  function cacheGameInfo(gameObj) {
+    selectedGamesInfo[gameObj.game_id] = gameObj;
+    localStorage.setItem("selectedGamesInfo", JSON.stringify(selectedGamesInfo));
+  }
+  
+  function uncacheGameInfo(game_id) {
+    delete selectedGamesInfo[game_id];
+    localStorage.setItem("selectedGamesInfo", JSON.stringify(selectedGamesInfo));
+  }
 
 </script>
 </body>

@@ -37,7 +37,7 @@
   /* ---------- pull stored data ---------- */
   const selectedGameIds   = new Set(JSON.parse(localStorage.getItem("selectedGameIds")   || "[]"));
   const selectedGamesInfo =        JSON.parse(localStorage.getItem("selectedGamesInfo") || "{}");
-
+  console.log("Selected Game IDs:", Array.from(selectedGameIds));
   /* optional: logos cached by main page so we don't repeat a huge object here */
   const teamLogos         = JSON.parse(localStorage.getItem("teamLogos") || "{}");
 

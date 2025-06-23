@@ -151,7 +151,7 @@
     <h2>Select Games You Liked From The Current Season 🔍 </h2>
     <input type="date" id="dateInput">
 
-    <div id="loading" class="message-text" style="display:none;">Loading... ⌛</div>
+    <div id="loading" class="message-text" style="display:none;">Loading. ⌛</div>
     <div id="games"></div>
 
     <button class="done-button" onclick="goToNextPage()">✅ Done Selecting</button>
@@ -161,7 +161,9 @@
   </div>  <!-- END CENTERED AREA -->
 
   <script>
-    const selectedGameIds = new Set(JSON.parse(localStorage.getItem("selectedGameIds") || "[]"));
+    const selectedGameIds   = new Set(JSON.parse(localStorage.getItem("selectedGameIds") || "[]"));
+    // ➡️ NEW: full game objects cache to satisfy my_games.html
+    const selectedGamesInfo = JSON.parse(localStorage.getItem("selectedGamesInfo") || "{}");
 
     const teamLogos = {
       "Atlanta Hawks": "https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg",
@@ -277,18 +279,22 @@
 
           if (selectedGameIds.has(game_id)) {
             checkbox.checked = true;
+            selectedGamesInfo[game_id] = game;       // ensure info present on reload
             card.style.backgroundColor = "#cce5ff"; // light blue
           }
 
           checkbox.onchange = () => {
             if (checkbox.checked) {
               selectedGameIds.add(game_id);
+              selectedGamesInfo[game_id] = game;    // store full info
               card.style.backgroundColor = "#cce5ff";
             } else {
               selectedGameIds.delete(game_id);
+              delete selectedGamesInfo[game_id];    // remove info
               card.style.backgroundColor = "#fff6f2";
             }
             localStorage.setItem("selectedGameIds", JSON.stringify(Array.from(selectedGameIds)));
+            localStorage.setItem("selectedGamesInfo", JSON.stringify(selectedGamesInfo));
             console.log("Selected Game IDs:", Array.from(selectedGameIds));
           };
 
@@ -316,14 +322,15 @@
 
   function goToNextPage() {
     localStorage.setItem("selectedGameIds", JSON.stringify(Array.from(selectedGameIds)));
+    localStorage.setItem("selectedGamesInfo", JSON.stringify(selectedGamesInfo));
     window.location.href = "/select-range";
   }
   
+  /* --- not strictly needed now, but kept for compatibility --- */
   function cacheGameInfo(gameObj) {
     selectedGamesInfo[gameObj.game_id] = gameObj;
     localStorage.setItem("selectedGamesInfo", JSON.stringify(selectedGamesInfo));
   }
-  
   function uncacheGameInfo(game_id) {
     delete selectedGamesInfo[game_id];
     localStorage.setItem("selectedGamesInfo", JSON.stringify(selectedGamesInfo));

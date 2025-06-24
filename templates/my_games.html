@@ -36,14 +36,31 @@
   <div id="gamesContainer"></div>
 
 <script>
-/* ---------- pull stored data ---------- */
-const selectedGameIds   = new Set(JSON.parse(localStorage.getItem("selectedGameIds")   || "[]"));
-const selectedGamesInfo =        JSON.parse(localStorage.getItem("selectedGamesInfo") || "{}");
-const teamLogos         =        JSON.parse(localStorage.getItem("teamLogos") || "{}");
+/* keep one copy of the containers & logos */
+const container  = document.getElementById("gamesContainer");
+const teamLogos  = JSON.parse(localStorage.getItem("teamLogos") || "{}");
 
-const container = document.getElementById("gamesContainer");
+/* Helper: pull the latest data from localStorage into memory */
+function loadState() {
+  const ids  = JSON.parse(localStorage.getItem("selectedGameIds")   || "[]");
+  const info = JSON.parse(localStorage.getItem("selectedGamesInfo") || "{}");
 
+  // refresh the Set and the info object in-place
+  selectedGameIds.clear();
+  ids.forEach(id => selectedGameIds.add(id));
+
+  Object.keys(selectedGamesInfo).forEach(k => delete selectedGamesInfo[k]);
+  Object.assign(selectedGamesInfo, info);
+}
+
+/* in-memory caches */
+const selectedGameIds   = new Set();
+const selectedGamesInfo = {};
+
+/* ---------- UI renderer ---------- */
 function renderCards() {
+  loadState();                                   // ① NEW: always refresh state
+
   container.innerHTML = "";
   if (selectedGameIds.size === 0) {
     container.innerHTML = "<p style='color:#ccc'>No games selected.</p>";
@@ -52,31 +69,30 @@ function renderCards() {
 
   selectedGameIds.forEach(id => {
     const g = selectedGamesInfo[id];
-    if (!g) return;   // safety for stale IDs
+    if (!g) return;  // safety
 
     const { game_id, away_team, home_team,
             location, hour, date,
             away_score, home_score } = g;
 
-    /* card shell */
     const card = document.createElement("div");
     card.className = "game-card";
 
-    /* checkbox (pre-checked) */
+    /* checkbox */
     const checkbox = document.createElement("input");
-    checkbox.type  = "checkbox";
+    checkbox.type = "checkbox";
     checkbox.checked = true;
     checkbox.onchange = () => {
       selectedGameIds.delete(game_id);
       delete selectedGamesInfo[game_id];
-      localStorage.setItem("selectedGameIds",   JSON.stringify(Array.from(selectedGameIds)));
+      localStorage.setItem("selectedGameIds",   JSON.stringify([...selectedGameIds]));
       localStorage.setItem("selectedGamesInfo", JSON.stringify(selectedGamesInfo));
       card.remove();
-      /* if (window.opener) window.opener.dispatchEvent(new Event("storage")); */
+      // no manual event needed: the real storage event will notify the opener
     };
     card.appendChild(checkbox);
 
-    /* header with logos & title */
+    /* header */
     const header = document.createElement("div");
     header.className = "game-header";
 
@@ -92,7 +108,6 @@ function renderCards() {
 
     const title = document.createElement("div");
     title.className = "game-title";
-    /* two-line title: matchup + score */
     title.innerHTML = `
         <div>${away_team} vs ${home_team}</div>
         <div class="game-score">${away_score} : ${home_score}</div>
@@ -103,7 +118,7 @@ function renderCards() {
     header.appendChild(logo2);
     card.appendChild(header);
 
-    /* meta line */
+    /* meta */
     const meta = document.createElement("div");
     meta.className = "game-meta";
     meta.innerText = `${date || "-"} – ${location} – ${hour}`;
@@ -113,11 +128,17 @@ function renderCards() {
   });
 }
 
+/* first paint */
 renderCards();
 
-/* refresh if the main window changes selections while this popup is open */
-window.addEventListener("storage", renderCards);
+/* ---------- live sync with other windows ---------- */
+window.addEventListener("storage", (e) => {
+  if (e.key === "selectedGameIds" || e.key === "selectedGamesInfo") {
+    renderCards();         // ② rerender on every relevant change
+  }
+});
 </script>
+
 
 </body>
 </html>

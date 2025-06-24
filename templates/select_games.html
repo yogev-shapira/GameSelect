@@ -277,16 +277,18 @@
           checkbox.name = "liked_games";
           checkbox.value = game_id;
 
+          const gameWithDate = { ...game, date };
+          
           if (selectedGameIds.has(game_id)) {
             checkbox.checked = true;
-            selectedGamesInfo[game_id] = game;       // ensure info present on reload
+            selectedGamesInfo[game_id] = gameWithDate;       // ensure info present on reload
             card.style.backgroundColor = "#cce5ff"; // light blue
           }
 
           checkbox.onchange = () => {
             if (checkbox.checked) {
               selectedGameIds.add(game_id);
-              selectedGamesInfo[game_id] = game;    // store full info
+              selectedGamesInfo[game_id] = gameWithDate;    // store full info
               card.style.backgroundColor = "#cce5ff";
             } else {
               selectedGameIds.delete(game_id);

@@ -25,6 +25,8 @@
     .team-logo     { width:40px; height:40px; }
     .game-title    { font-size:1.05rem; }
     .game-meta     { font-size:0.85rem; opacity:0.80; }
+    .game-score { font-size:1rem; font-weight:bold; color:#000; margin-top:2px; }
+
   </style>
 </head>
 <body>
@@ -33,82 +35,89 @@
   <p>Un-tick any game to remove it from your list.</p>
   <div id="gamesContainer"></div>
 
-  <script>
-  /* ---------- pull stored data ---------- */
-  const selectedGameIds   = new Set(JSON.parse(localStorage.getItem("selectedGameIds")   || "[]"));
-  const selectedGamesInfo =        JSON.parse(localStorage.getItem("selectedGamesInfo") || "{}");
+<script>
+/* ---------- pull stored data ---------- */
+const selectedGameIds   = new Set(JSON.parse(localStorage.getItem("selectedGameIds")   || "[]"));
+const selectedGamesInfo =        JSON.parse(localStorage.getItem("selectedGamesInfo") || "{}");
+const teamLogos         =        JSON.parse(localStorage.getItem("teamLogos") || "{}");
 
-  /* optional: logos cached by main page so we don't repeat a huge object here */
-  const teamLogos         = JSON.parse(localStorage.getItem("teamLogos") || "{}");
+const container = document.getElementById("gamesContainer");
 
-  const container = document.getElementById("gamesContainer");
-
-  function renderCards(){
-      container.innerHTML = "";
-      if (selectedGameIds.size === 0){
-          container.innerHTML = "<p style='color:#ccc'>No games selected.</p>";
-          return;
-      }
-      selectedGameIds.forEach(id => {
-          const g = selectedGamesInfo[id];
-          if (!g) return;              // safety
-          const { game_id, away_team, home_team, location, hour, date } = g;
-
-          /* card shell */
-          const card = document.createElement("div");
-          card.className = "game-card";
-
-          /* checkbox (pre-checked) */
-          const checkbox = document.createElement("input");
-          checkbox.type  = "checkbox";
-          checkbox.checked = true;
-          checkbox.onchange = () => {              // un-ticking ⇒ delete everywhere
-              selectedGameIds.delete(game_id);
-              delete selectedGamesInfo[game_id];
-              localStorage.setItem("selectedGameIds", JSON.stringify(Array.from(selectedGameIds)));
-              localStorage.setItem("selectedGamesInfo", JSON.stringify(selectedGamesInfo));
-              card.remove();                       // vanish instantly
-              /* optional: inform original window so its checkboxes update */
-              if (window.opener) window.opener.dispatchEvent(new Event("storage"));
-          };
-          card.appendChild(checkbox);
-
-          /* header with logos & title */
-          const header = document.createElement("div");
-          header.className = "game-header";
-
-          const logo1 = document.createElement("img");
-          logo1.className = "team-logo";
-          logo1.src = teamLogos[away_team] || "";
-          logo1.alt = away_team;
-
-          const logo2 = document.createElement("img");
-          logo2.className = "team-logo";
-          logo2.src = teamLogos[home_team] || "";
-          logo2.alt = home_team;
-
-          const title = document.createElement("div");
-          title.className = "game-title";
-          title.innerText = `${away_team} vs ${home_team}`;
-
-          header.appendChild(logo1);
-          header.appendChild(title);
-          header.appendChild(logo2);
-          card.appendChild(header);
-
-          /* meta line */
-          const meta = document.createElement("div");
-          meta.className = "game-meta";
-          meta.innerText = `${date} – ${location} – ${hour}`;
-          card.appendChild(meta);
-
-          container.appendChild(card);
-      });
+function renderCards() {
+  container.innerHTML = "";
+  if (selectedGameIds.size === 0) {
+    container.innerHTML = "<p style='color:#ccc'>No games selected.</p>";
+    return;
   }
-  renderCards();
 
-  /* if main window changes storage while popup is open, refresh automatically */
-  window.addEventListener("storage", renderCards);
-  </script>
+  selectedGameIds.forEach(id => {
+    const g = selectedGamesInfo[id];
+    if (!g) return;   // safety for stale IDs
+
+    const { game_id, away_team, home_team,
+            location, hour, date,
+            away_score, home_score } = g;
+
+    /* card shell */
+    const card = document.createElement("div");
+    card.className = "game-card";
+
+    /* checkbox (pre-checked) */
+    const checkbox = document.createElement("input");
+    checkbox.type  = "checkbox";
+    checkbox.checked = true;
+    checkbox.onchange = () => {
+      selectedGameIds.delete(game_id);
+      delete selectedGamesInfo[game_id];
+      localStorage.setItem("selectedGameIds",   JSON.stringify(Array.from(selectedGameIds)));
+      localStorage.setItem("selectedGamesInfo", JSON.stringify(selectedGamesInfo));
+      card.remove();
+      if (window.opener) window.opener.dispatchEvent(new Event("storage"));
+    };
+    card.appendChild(checkbox);
+
+    /* header with logos & title */
+    const header = document.createElement("div");
+    header.className = "game-header";
+
+    const logo1 = document.createElement("img");
+    logo1.className = "team-logo";
+    logo1.src = teamLogos[away_team] || "";
+    logo1.alt = away_team;
+
+    const logo2 = document.createElement("img");
+    logo2.className = "team-logo";
+    logo2.src = teamLogos[home_team] || "";
+    logo2.alt = home_team;
+
+    const title = document.createElement("div");
+    title.className = "game-title";
+    /* two-line title: matchup + score */
+    title.innerHTML = `
+        <div>${away_team} vs ${home_team}</div>
+        <div class="game-score">${away_score} : ${home_score}</div>
+    `;
+
+    header.appendChild(logo1);
+    header.appendChild(title);
+    header.appendChild(logo2);
+    card.appendChild(header);
+
+    /* meta line */
+    const meta = document.createElement("div");
+    meta.className = "game-meta";
+    meta.innerText = `${date || "-"} – ${location} – ${hour}`;
+    card.appendChild(meta);
+
+    container.appendChild(card);
+  });
+}
+
+renderCards();
+
+/* refresh if the main window changes selections while this popup is open */
+window.addEventListener("storage", renderCards);
+</script>
+
 </body>
 </html>

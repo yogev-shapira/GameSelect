@@ -72,7 +72,7 @@ function renderCards() {
       localStorage.setItem("selectedGameIds",   JSON.stringify(Array.from(selectedGameIds)));
       localStorage.setItem("selectedGamesInfo", JSON.stringify(selectedGamesInfo));
       card.remove();
-      if (window.opener) window.opener.dispatchEvent(new Event("storage"));
+      /* if (window.opener) window.opener.dispatchEvent(new Event("storage")); */
     };
     card.appendChild(checkbox);
 

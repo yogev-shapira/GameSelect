@@ -321,6 +321,28 @@
                         "width=820,height=640,noopener")
   );
 
+    
+  /* keep main page in sync if another tab/popup changes localStorage */
+  window.addEventListener("storage", (e) => {
+    if (e.key !== "selectedGameIds") return;         // ignore other keys
+  
+    /* 1️⃣  update the in-memory Set so our code stays consistent */
+    selectedGameIds.clear();
+    (JSON.parse(e.newValue || "[]")).forEach(id => selectedGameIds.add(id));
+  
+    /* 2️⃣  loop over all visible check-boxes and repaint cards */
+    document.querySelectorAll('input[name="liked_games"]').forEach(cb => {
+      const card = cb.parentElement;                 // .game-card
+      if (selectedGameIds.has(cb.value)) {
+        cb.checked = true;
+        card.style.backgroundColor = "#cce5ff";      // light blue (selected)
+      } else {
+        cb.checked = false;
+        card.style.backgroundColor = "#fff6f2";      // default
+        }
+      });
+  });
+
 
   function goToNextPage() {
     localStorage.setItem("selectedGameIds", JSON.stringify(Array.from(selectedGameIds)));

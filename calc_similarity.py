@@ -154,22 +154,6 @@ def team_top_players_overlap_weighted(candidate_team_top_players, liked_games):
     return score / total_count
 
 
-# def top_players_distance(dict1, dict2):
-#     """
-#     Returns a distance metric for 'top_players' feature:
-#     1.0 means no overlap, 0.0 means perfect overlap.
-#     """
-#     players1 = set(dict1.get("top_players", []))
-#     players2 = set(dict2.get("top_players", []))
-#
-#     if not players1 or not players2:
-#         return 1.0  # Max distance if one of the lists is empty
-#
-#     intersection = len(players1 & players2)
-#     union = len(players1 | players2)
-#     return 1.0 - (intersection / union)  # Jaccard distance
-
-
 def calc_cosine_similarity(param_dict1, param_dict2,
                            players_sim, teams_sim, team1_overlap, team2_overlap, alpha=1/NUM_OF_FEATURES):
 
@@ -202,23 +186,6 @@ def calc_cosine_similarity(param_dict1, param_dict2,
     norm2 = np.linalg.norm(vec2)
     cosine_sim = dot_product / (norm1 * norm2) if norm1 > 0 and norm2 > 0 else 0.0
 
-    # # --- Similarity on 'top_players' ---
-    # players_sim = top_players_similarity(param_dict1, param_dict2)
-    # teams_sim = teams_similarity(param_dict1, param_dict2)
-    #
-    # # --- Team-specific top player overlap ---
-    # team1_overlap = team_top_players_overlap(
-    #     param_dict1.get("top_players1", []),
-    #     param_dict2.get("top_players1", []),
-    #     param_dict2.get("top_players2", [])
-    # )
-    # team2_overlap = team_top_players_overlap(
-    #     param_dict1.get("top_players2", []),
-    #     param_dict2.get("top_players1", []),
-    #     param_dict2.get("top_players2", [])
-    # )
-
-    # --- Combined similarity ---
     # TODO: Magic number = 4 non-numeric features now
 
     combined_sim = ((1 - NUM_OF_NON_NUMERIC_FEATURES) * alpha) * cosine_sim \
@@ -228,38 +195,6 @@ def calc_cosine_similarity(param_dict1, param_dict2,
                    + alpha * team2_overlap
 
     return combined_sim
-
-
-# def calc_euclidean_distance(param_dict1, param_dict2, alpha= 1 / NUM_OF_FEATURES):
-#     """
-#     Compute a combined distance between two game parameter dictionaries,
-#     using Euclidean distance for numeric features and a custom distance for 'top_players'.
-#
-#     Args:
-#         param_dict1 (dict): First dictionary of parameters.
-#         param_dict2 (dict): Second dictionary of parameters.
-#         alpha (float): Weight for numeric distance [0.0–1.0]. The rest is for non-numeric.
-#
-#     Returns:
-#         float: Combined distance metric between 0 and 1 (not strictly Euclidean).
-#     """
-#     excluded_keys = {"game_id", "top_players"}
-#
-#     # --- Numeric part ---
-#     numeric_keys = [k for k in param_dict1 if k not in excluded_keys]
-#     filtered_dict1 = {k: param_dict1[k] for k in numeric_keys}
-#     filtered_dict2 = {k: param_dict2.get(k, 0) for k in numeric_keys}
-#
-#     vec1 = np.array([filtered_dict1[k] for k in numeric_keys])
-#     vec2 = np.array([filtered_dict2[k] for k in numeric_keys])
-#     euclidean_dist = np.linalg.norm(vec1 - vec2)
-#
-#     # --- Non-numeric part (top_players) ---
-#     players_dist = top_players_distance(param_dict1, param_dict2)
-#
-#     # --- Combine distances ---
-#     combined_dist = (1 - alpha) * euclidean_dist + alpha * players_dist
-#     return combined_dist
 
 
 def excitement_score(game):
@@ -275,9 +210,10 @@ def excitement_score(game):
     """
     return (
         game.get("lead_changes", 0) +
-        game.get("three_pt_count", 0) +
+        (1 - game.get("three_pt_count", 1)) +
         game.get("dunk_count", 0) +
         game.get("block_count", 0) +
+        game.get("misses_count", 0) +
         game.get("star_score", 0) +
         (1 - game.get("close_score", 1)) +  # Lower close_score means closer game
         game.get("density_score", 0)
@@ -425,5 +361,4 @@ def recommend_games_cosine_top_k(all_games, liked_games, num=3, k=3):
 
     similarity_scores.sort(reverse=True, key=lambda x: x[0])
     return [game for _, game in similarity_scores[:num]]
-
 

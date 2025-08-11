@@ -1,3 +1,29 @@
+"""
+GameSelect Flask Backend (app.py)
+
+This Flask application powers GameSelect, a system that recommends past NBA games worth
+rewatching based on user preferences and game excitement features.
+
+Main roles:
+• Serve HTML pages for selecting liked games, choosing a date range, and viewing recommendations.
+• Provide API endpoints to:
+    – Retrieve games for a specific date from game_database.csv.
+    – Generate top-N recommendations from recent games using cosine similarity or excitement scores.
+• Cache computed features from ESPN play-by-play data to improve performance.
+
+Key endpoints:
+• /api/games_by_date (GET) — returns all games on a given date.
+• /api/recommender   (POST) — returns recommended games for a given user, date range, and count.
+
+Data sources:
+• game_database.csv — metadata for games in the season.
+• ./data/espn_play_by_play_<game_id>.csv — detailed per-game play-by-play data.
+• cached_game_features.pkl — persistent feature cache.
+
+Run:
+    python app.py
+(Dev server defaults to 0.0.0.0:5000 with debug=True)
+"""
 import os
 import pickle
 import pandas as pd
@@ -12,43 +38,76 @@ CACHE_PATH = "cached_game_features.pkl"
 
 
 def _load_cache() -> dict:
+"""
+Load the on-disk feature cache if present.
+
+Returns:
+    dict: Mapping of game_id (str) -> normalized feature dictionary as produced by
+          feature_extractor.get_features(). Returns an empty dict if no cache exists.
+"""
     if os.path.exists(CACHE_PATH):
         with open(CACHE_PATH, "rb") as fh:
             return pickle.load(fh)
     return {}
 
 def _save_cache(cache: dict) -> None:
+ """
+Persist the feature cache to disk.
+
+Args:
+    cache (dict): Mapping of game_id -> feature dict to pickle into CACHE_PATH.
+"""
     with open(CACHE_PATH, "wb") as fh:
         pickle.dump(cache, fh, protocol=pickle.HIGHEST_PROTOCOL)
 
 
 app = Flask(__name__)
 
-# CORS(app)
+# Enable CORS for API routes from the deployed frontend origin.
 CORS(app, resources={r"/api/*": {"origins": "https://gameselect.onrender.com"}})
 
 @app.route('/')
-def landing():
+def landing(): 
+"""
+Render the landing page that introduces GameSelect and links into the flow.
+"""
     return render_template('landing.html')
 
 @app.route('/select-games')
 def select_games():
+"""
+Render the page where a user selects previously enjoyed games by date.
+"""
     return render_template('select_games.html')
 
 @app.route('/select-range')
 def select_range():
+"""
+Render the page where a user chooses the recent-days window and number of recommendations.
+"""
     return render_template('select_range.html')
 
 @app.route('/show-results')
 def show_results():
+"""
+Render the page that displays the recommended games returned by the API.
+"""
     return render_template('show_results.html')
 
 @app.route('/my-games')          
 def my_games():
+"""
+Render a live view of games the user marked as favorites (synced via localStorage).
+"""
     return render_template('my_games.html')
 
+
 @app.route('/api/games_by_date')
-def games_by_date():
+def games_by_date(): 
+"""
+Return all games from game_database.csv that match a given date (YYYY-MM-DD),
+with basic metadata (teams, location, score, time).
+"""
     date = request.args.get('date')
     print("Raw input date:", date)
     if not date:
@@ -81,8 +140,10 @@ def games_by_date():
         return jsonify({"error": str(e)}), 500
 
 
-
 def get_games_in_range(start_date, end_date):
+"""
+Load and return games from game_database.csv whose dates fall within the given range.
+"""
     df = pd.read_csv("game_database.csv")
 
     # ✅ Safe and correct for "12/05/2025" style
@@ -102,7 +163,11 @@ def get_games_in_range(start_date, end_date):
     return filtered
 
 
-def get_game_dicts(game_ids):
+def get_game_dicts(game_ids): 
+"""
+Retrieve feature dictionaries for given game IDs, loading from cache or computing from
+play-by-play CSVs if missing.
+"""
     cache = _load_cache()
     dirty = False
     result = []
@@ -130,7 +195,24 @@ def get_game_dicts(game_ids):
 
 
 @app.route('/api/recommender', methods=['POST'])
-def recommender():
+def recommender(): 
+"""
+Generate personalized game recommendations.
+
+Request JSON:
+    {
+      "liked_game_ids": [str],  # may be empty
+      "days": int,              # look-back window
+      "games": int              # number of recommendations
+    }
+
+Process:
+    1. Load games in the last `days` from game_database.csv.
+    2. Remove liked games from candidates.
+    3. Load/calculate features for candidates and liked games (with caching).
+    4. Rank candidates using cosine similarity (or excitement score if no likes).
+    5. Return top-N games with basic metadata.
+"""
     try:
         data = request.get_json()
 
@@ -190,5 +272,5 @@ def recommender():
 
 
 if __name__ == "__main__":
-    # app.run(debug=True)
     app.run(host='0.0.0.0', port=5000, debug=True)
+

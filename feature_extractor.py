@@ -176,21 +176,6 @@ def determine_close_game(game_data):
     return sum(close_factors) / len(close_factors) if close_factors else float('inf')
 
 
-# Legacy regex-based method for extracting players (commented out)
-"""
-def extract_top_players(game_data, top_n=3):
-    player_pattern = re.compile(r'\b([A-Z][a-z]+\s[A-Z][a-z]+)\b')  # Basic pattern for "First Last"
-    player_mentions = []
-
-    for text in game_data['text']:
-        matches = player_pattern.findall(text)
-        player_mentions.extend(matches)
-
-    counter = Counter(player_mentions)
-    return counter.most_common(top_n)
-"""
-
-
 def get_top_players(game_data, top_n=NUM_OF_TOP_PLAYERS):
     """
     Identify most frequently participating players based on 'participants' entries.
@@ -255,7 +240,6 @@ def get_team_ids(game_data):
     return seen_ids
 
 
-# TODO: check modification to include edge cases of block assists
 def get_top_players_by_team(game_data, team_id, top_n=NUM_OF_TOP_PLAYERS):
     """
     Returns the top players from a given team based only on the first participant in each play.
@@ -350,8 +334,4 @@ if __name__ == "__main__":
     # Load the game ID and CSV file path from command-line args
     game_id, file_path = sys.argv[1], sys.argv[2]
     df = pd.read_csv(file_path)
-
     get_features(game_id, df)
-
-
-

@@ -1,3 +1,17 @@
+"""
+update_db.py
+
+Automates the process of adding newly played NBA games to the system database.
+Designed for use with the project's YAML-based daily update workflow.
+
+Main tasks:
+- Retrieve new game IDs for a given date range from ESPN.
+- Download and store play-by-play (PBP) CSV files.
+- Extract and append final scores and metadata to `game_database.csv`.
+- Generate and cache game feature dictionaries for recommendation use.
+
+Also maintains a local pickle cache of precomputed features to avoid recomputation.
+"""
 import os
 import csv
 import ast 
@@ -12,21 +26,34 @@ from feature_extractor import get_features
 CACHE_PATH = "cached_game_features.pkl" 
 
 def _load_cache() -> dict:
+    """Load the cached game features from disk if the cache file exists, else return an empty dict."""
     return pickle.load(open(CACHE_PATH, "rb")) if os.path.exists(CACHE_PATH) else {}
 
 
 def _save_cache(cache: dict):
+    """Save the given game features dictionary to disk using pickle."""
     with open(CACHE_PATH, "wb") as fh:
         pickle.dump(cache, fh, protocol=pickle.HIGHEST_PROTOCOL)
 
 
 def extract_final_scores(game_id, pbp_folder):
+    """
+    Extract the final away and home team scores from a game's play-by-play CSV file.
+
+    Args:
+        game_id (str or int): The ESPN game ID.
+        pbp_folder (str): Directory path containing play-by-play CSV files.
+
+    Returns:
+        tuple: (away_score, home_score) if found, otherwise (None, None).
+    """
     pbp_path = os.path.join(pbp_folder, f"espn_play_by_play_{game_id}.csv")
     if not os.path.exists(pbp_path):
         return None, None
 
     try:
         pbp = pd.read_csv(pbp_path)
+        # Iterate in reverse to find the "end of game" event type ('402')
         for _, row in pbp[::-1].iterrows():
             event_type = row.get("type")
             if isinstance(event_type, str):
@@ -140,20 +167,13 @@ def update_game_db_with_new_games(start_date, end_date,
         print(f"Feature cache updated — {len(feature_cache)} games total")
 
 
-# update_game_database_with_new_games(
-#     start_date="20250602",
-#     end_date="20250603",
-#     database_path=r"C:/Users/User/Desktop/University/year4/semA/FinalProject/game_database.csv",
-#     pbp_folder=r"C:/Users/User/Desktop/University/year4/semA/FinalProject/data"
-# )
-
-
 if __name__ == "__main__":
     yesterday = datetime.today() - timedelta(days=1)
-
+    # updates data with games that occured yesterday
     update_game_db_with_new_games(
         start_date=yesterday.strftime('%Y%m%d'),
         end_date=yesterday.strftime('%Y%m%d'),
         database_path="game_database.csv",
         pbp_folder="data"
     )
+

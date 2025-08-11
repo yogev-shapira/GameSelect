@@ -1,3 +1,15 @@
+<!--
+select_range.html
+
+Step 2 of the GameSelect flow.
+Allows the user to choose:
+1. How many recent days to consider for recommendations.
+2. How many games to recommend.
+
+Selections are used to send a request to the backend recommender API,
+which returns a list of games based on the user's previously liked games.
+Results are stored in localStorage and the user is redirected to the results page.
+-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -88,7 +100,8 @@
 </head>
 <body>
   <h1>Select Recommendation Range 👇</h1>
-
+  
+  <!-- Days range selection -->
   <div class="section">
     <label for="daySelect">Choose how many recent days to include:</label><br />
     <select id="daySelect">
@@ -97,6 +110,7 @@
     <div class="display" id="dateRangeDisplay" style="display: none;"></div>
   </div>
 
+  <!-- Number of games to recommend -->
   <div class="section">
     <label for="gameSelect">Choose how many games to recommend:</label><br />
     <select id="gameSelect">
@@ -105,30 +119,32 @@
     <div class="display" id="gameCountDisplay" style="display: none;"></div>
   </div>
 
-  <!-- Back to favorites button -->
+  <!-- Navigation buttons -->
   <div class="section">
     <button id="goBackBtn" onclick="window.location.href='/select-games'">
       ⬅️ Back to Choose Favorites
     </button>
   </div>
 
-  <!-- Recommend button -->
   <div class="section">
     <button id="recommendBtn">Recommend Games ➡️</button>
   </div>
 
   <script>
-    // Generate dropdown options
+    // --- DOM element references ---
     const daySelect = document.getElementById("daySelect");
     const gameSelect = document.getElementById("gameSelect");
-
-    for (let i = 1; i <= 30; i++) {
+    
+    // Populate day range dropdown (1–90 days) 
+    // i choose 90 days because the season have already ended so you may still see recommendation results
+    for (let i = 1; i <= 90; i++) {
       const opt = document.createElement("option");
       opt.value = i;
       opt.textContent = i;
       daySelect.appendChild(opt);
     }
 
+    // Populate number of games dropdown (1–20 games)
     for (let i = 1; i <= 20; i++) {
       const opt = document.createElement("option");
       opt.value = i;
@@ -140,6 +156,7 @@
     const dateRangeDisplay = document.getElementById("dateRangeDisplay");
     const gameCountDisplay = document.getElementById("gameCountDisplay");
 
+    // Show the date range when user selects number of days
     daySelect.addEventListener("change", () => {
       const numDays = parseInt(daySelect.value);
       const startDate = new Date(today);
@@ -151,24 +168,29 @@
       dateRangeDisplay.textContent = `Selected Date Range: ${formatDate(startDate)} – ${formatDate(today)}`;
       dateRangeDisplay.style.display = "block";
     });
-
+  
+    // Show number of games selected
     gameSelect.addEventListener("change", () => {
       gameCountDisplay.textContent = `Number of Games to Recommend: ${gameSelect.value}`;
       gameCountDisplay.style.display = "block";
     });
 
+    // Handle recommendation request
     document.getElementById("recommendBtn").addEventListener("click", () => {
       const days = daySelect.value;
       const games = gameSelect.value;
       const likedGameIds = JSON.parse(localStorage.getItem("selectedGameIds") || "[]");
 
+      // Validation
       if (!days || !games) {
         alert("Please select both number of days and number of games.");
         return;
       }
-      
+
+      // Show loading status
       document.getElementById("recommendBtn").textContent = "Loading... ⌛";
-      
+
+      // Send request to backend recommender API
       fetch("/api/recommender", {
         method: "POST",
         headers: {
@@ -183,13 +205,15 @@
       .then(res => res.json())
       .then(data => {
         console.log("Server response:", data);
+        
+        // If recommendations found → store & redirect
         if (data.recommended_games) {
           console.log("Storing games:", data.recommended_games.length);
           localStorage.setItem("recommendedGames", JSON.stringify(data.recommended_games));
           console.log("Stored. Redirecting now...");
           setTimeout(() => {
             window.location.href = "/show-results";
-          }, 1000); // 500ms delay to ensure storage writes
+          }, 1000); // delay ensures storage is written before redirect
         } else {
           alert("No recommendations found.");
         }
@@ -202,3 +226,4 @@
   </script>
 </body>
 </html>
+

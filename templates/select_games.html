@@ -1,3 +1,12 @@
+<!--
+select_games.html
+
+Allows users to browse and select NBA games they enjoyed from the current season.
+Fetches games by date from the backend, displays them as interactive cards with team logos, 
+scores, and metadata. Users can select/unselect games via checkboxes, with selections 
+stored in localStorage for use in later recommendation steps. Includes a link to view 
+currently selected games and a button to proceed to the next step in the flow.
+-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -147,24 +156,27 @@
   </style>
 </head>
 <body>
-  <div class="main-content">  <!-- START CENTERED AREA -->
+  <div class="main-content">  
+    <!-- Page title & date selector -->
     <h2>Select Games You Liked From The Current Season 🔍 </h2>
     <input type="date" id="dateInput">
 
+    <!-- Loading status text -->
     <div id="loading" class="message-text" style="display:none;">Loading. ⌛</div>
+    <!-- Container for dynamically generated game cards -->
     <div id="games"></div>
-
+    <!-- Action buttons -->
     <button class="done-button" onclick="goToNextPage()">✅ Done Selecting</button>
-
     <button id="seeMyGamesBtn" class="see-button">👀 See My Games</button>
 
-  </div>  <!-- END CENTERED AREA -->
+  </div>  
 
-  <script>
+  <script> 
+    // --- Local state & persistent storage ---
     const selectedGameIds   = new Set(JSON.parse(localStorage.getItem("selectedGameIds") || "[]"));
-    // ➡️ NEW: full game objects cache to satisfy my_games.html
     const selectedGamesInfo = JSON.parse(localStorage.getItem("selectedGamesInfo") || "{}");
-
+  
+    // Team logo mapping for card display
     const teamLogos = {
       "Atlanta Hawks": "https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg",
       "Boston Celtics": "https://cdn.nba.com/logos/nba/1610612738/global/L/logo.svg",
@@ -197,9 +209,9 @@
       "Utah Jazz": "https://cdn.nba.com/logos/nba/1610612762/global/L/logo.svg",
       "Washington Wizards": "https://cdn.nba.com/logos/nba/1610612764/global/L/logo.svg"
     };
-  
   localStorage.setItem("teamLogos", JSON.stringify(teamLogos));
-    
+  
+  // Convert date object/string to YYYY-MM-DD format  
   function formatDateToYYYYMMDD(date) {
     const d = new Date(date);
     const yyyy = d.getFullYear();
@@ -208,6 +220,7 @@
     return `${yyyy}-${mm}-${dd}`;
   }
 
+  // Fetch games for the selected date from backend
   function fetchGames() {
     const date = document.getElementById('dateInput').value;
     if (!date) {
@@ -236,13 +249,15 @@
           gamesDiv.innerHTML = "<p class='message-text'>No games found for this date.</p>";
           return;
         }
-
+        
+        // Render each game card
         data.games.forEach(game => {
           const { game_id, away_team, home_team, location, hour, away_score, home_score } = game;
 
           const card = document.createElement("div");
           card.className = "game-card";
-
+          
+          // --- Team logos ---
           const logo1 = document.createElement("img");
           logo1.className = "team-logo";
           logo1.src = teamLogos[away_team] || "";
@@ -253,6 +268,7 @@
           logo2.src = teamLogos[home_team] || "";
           logo2.alt = home_team;
 
+          // --- Header with teams & score ---
           const header = document.createElement("div");
           header.className = "game-header";
 
@@ -266,12 +282,13 @@
           header.appendChild(logo2);
           card.appendChild(header);
 
-
+          // --- Game metadata (date, location, time) ---
           const meta = document.createElement("div");
           meta.className = "game-meta";
           meta.innerText = `${date} - ${location} - ${hour}`;
           card.appendChild(meta);
 
+          // --- Selection checkbox ---
           const checkbox = document.createElement("input");
           checkbox.type = "checkbox";
           checkbox.name = "liked_games";
@@ -285,6 +302,7 @@
             card.style.backgroundColor = "#cce5ff"; // light blue
           }
 
+          // Handle checkbox toggle
           checkbox.onchange = () => {
             if (checkbox.checked) {
               selectedGameIds.add(game_id);
@@ -295,6 +313,7 @@
               delete selectedGamesInfo[game_id];    // remove info
               card.style.backgroundColor = "#fff6f2";
             }
+            // Save state to localStorage
             localStorage.setItem("selectedGameIds", JSON.stringify(Array.from(selectedGameIds)));
             localStorage.setItem("selectedGamesInfo", JSON.stringify(selectedGamesInfo));
             console.log("Selected Game IDs:", Array.from(selectedGameIds));
@@ -314,23 +333,22 @@
   document.getElementById('dateInput').addEventListener('change', () => {
     fetchGames();
   });
-
+  
+  // Open selected games view
   document.getElementById("seeMyGamesBtn")
         .addEventListener("click", () =>
             window.open("/my-games", "myGames",
                         "width=820,height=640,noopener")
   );
-
     
-  /* keep main page in sync if another tab/popup changes localStorage */
+  // Keep UI synced across tabs/windows
   window.addEventListener("storage", (e) => {
     if (e.key !== "selectedGameIds") return;         // ignore other keys
   
-    /* 1️⃣  update the in-memory Set so our code stays consistent */
     selectedGameIds.clear();
     (JSON.parse(e.newValue || "[]")).forEach(id => selectedGameIds.add(id));
   
-    /* 2️⃣  loop over all visible check-boxes and repaint cards */
+    // Update checkboxes & card highlights
     document.querySelectorAll('input[name="liked_games"]').forEach(cb => {
       const card = cb.parentElement;                 // .game-card
       if (selectedGameIds.has(cb.value)) {
@@ -343,14 +361,13 @@
       });
   });
 
-
+  // Proceed to next step (select_range)
   function goToNextPage() {
     localStorage.setItem("selectedGameIds", JSON.stringify(Array.from(selectedGameIds)));
     localStorage.setItem("selectedGamesInfo", JSON.stringify(selectedGamesInfo));
     window.location.href = "/select-range";
   }
   
-  /* --- not strictly needed now, but kept for compatibility --- */
   function cacheGameInfo(gameObj) {
     selectedGamesInfo[gameObj.game_id] = gameObj;
     localStorage.setItem("selectedGamesInfo", JSON.stringify(selectedGamesInfo));
@@ -360,6 +377,7 @@
     localStorage.setItem("selectedGamesInfo", JSON.stringify(selectedGamesInfo));
   }
 
-</script>
+  </script>
 </body>
 </html>
+

@@ -1,3 +1,13 @@
+<!--
+show_results.html
+
+Step 3 of the GameSelect flow.
+Displays the list of recommended NBA games returned by the recommender system.
+Reads recommendations from localStorage (saved in the previous step) and shows them 
+as styled cards with team logos, matchup title, date, time, and location.
+
+If no recommendations are found for the selected range, displays a fallback message.
+-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -106,6 +116,7 @@
   </div>
 
   <script>
+    // --- Predefined team logo map (team name → SVG URL) ---
     const teamLogos = {
       "Atlanta Hawks": "https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg",
       "Boston Celtics": "https://cdn.nba.com/logos/nba/1610612738/global/L/logo.svg",
@@ -138,28 +149,32 @@
       "Utah Jazz": "https://cdn.nba.com/logos/nba/1610612762/global/L/logo.svg",
       "Washington Wizards": "https://cdn.nba.com/logos/nba/1610612764/global/L/logo.svg"
     };
+    
+    // --- Retrieve recommended games list from localStorage ---
     console.log("Reading from localStorage...");
     console.log("recommendedGames raw:", localStorage.getItem("recommendedGames"));
     const games = JSON.parse(localStorage.getItem("recommendedGames") || "[]");
     const container = document.getElementById("games");
     console.log("Parsed games:", games);
 
-
+    // If no recommendations found → show fallback message
     if (games.length === 0) {
       container.innerHTML = "<p>😕 No games found in your selected dates.</p>";
     } else {
-      games.forEach((game, index) => {
+      games.forEach((game, index) => { 
+        // Render each recommended game as a card
         const { game_id, away_team, home_team, location, hour, date } = game;
 
         const card = document.createElement("div");
         card.className = "game-card";
 
+        //used for ranking recommendations by numbers
         const numberCircle = document.createElement("div");
         numberCircle.className = "card-number";
         numberCircle.innerText = index + 1;
         card.appendChild(numberCircle);
 
-
+        // Logos & matchup header
         const logo1 = document.createElement("img");
         logo1.className = "team-logo";
         logo1.src = teamLogos[away_team] || "";
@@ -182,6 +197,7 @@
         header.appendChild(logo2);
         card.appendChild(header);
 
+        // Game metadata (date, location, time)
         const meta = document.createElement("div");
         meta.className = "game-meta";
         meta.innerText = `${date} - ${location} - ${hour}`;
@@ -193,3 +209,4 @@
   </script>
 </body>
 </html>
+

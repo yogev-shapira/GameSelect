@@ -24,7 +24,7 @@
 ---
 
 ## ℹ️ Project Description
-**Why:** Each season includes hundreds of NBA games—too many for fans (especially across time zones) to know what’s worth rewatching.  
+**Why:** Each season includes hundreds of NBA games- which can be too many for fans (especially those across different time zones) to know what’s worth rewatching.  
 **What:** GameSelect recommends past games you’ll likely enjoy by analyzing *in-game action* (lead changes, dunks, blocks, 3PTs, scoring density, game closeness, star power) and combining it with your liked games and team/player overlap.  
 **How (high level):**
 - Parse ESPN play-by-play (PBP) into normalized feature vectors.
@@ -88,7 +88,7 @@ We evaluate with **Recall@k** and **NDCG@k** using real user inputs (liked games
 
 ## ⚙️ Built With
 - **Python**, **Flask**, **pandas**, **NumPy**
-- **HTML/CSS/JS** (vanilla)
+- **HTML/CSS/JS**
 - **GitHub Actions** (daily data updates)
 - **Render** (optional hosting)
 

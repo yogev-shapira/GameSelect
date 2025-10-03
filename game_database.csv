@@ -888,3 +888,5 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401766126,2025-06-17,Oklahoma City Thunder,Indiana Pacers,Paycom Center,2025-06-17,00:30 UTC,"Indiana Pacers vs Oklahoma City Thunder @ Paycom Center, 2025-06-17 00:30 UTC",109,120
 401766127,2025-06-20,Indiana Pacers,Oklahoma City Thunder,Gainbridge Fieldhouse,2025-06-20,00:30 UTC,"Oklahoma City Thunder vs Indiana Pacers @ Gainbridge Fieldhouse, 2025-06-20 00:30 UTC",91,108
 401766128,2025-06-23,Oklahoma City Thunder,Indiana Pacers,Paycom Center,2025-06-23,00:00 UTC,"Indiana Pacers vs Oklahoma City Thunder @ Paycom Center, 2025-06-23 00:00 UTC",91,103
+401812480,2025-10-02,New York Knicks,Philadelphia 76ers,Etihad Arena,2025-10-02,16:00 UTC,"Philadelphia 76ers vs New York Knicks @ Etihad Arena, 2025-10-02 16:00 UTC",84,99
+401812481,2025-10-03,New Orleans Pelicans,Melbourne United,Rod Laver Arena,2025-10-03,09:30 UTC,"Melbourne United vs New Orleans Pelicans @ Rod Laver Arena, 2025-10-03 09:30 UTC",,

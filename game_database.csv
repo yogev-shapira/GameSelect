@@ -891,3 +891,8 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401812480,2025-10-02,New York Knicks,Philadelphia 76ers,Etihad Arena,2025-10-02,16:00 UTC,"Philadelphia 76ers vs New York Knicks @ Etihad Arena, 2025-10-02 16:00 UTC",84,99
 401812481,2025-10-03,New Orleans Pelicans,Melbourne United,Rod Laver Arena,2025-10-03,09:30 UTC,"Melbourne United vs New Orleans Pelicans @ Rod Laver Arena, 2025-10-03 09:30 UTC",,
 401812482,2025-10-04,Los Angeles Lakers,Phoenix Suns,Acrisure Arena,2025-10-04,02:00 UTC,"Phoenix Suns vs Los Angeles Lakers @ Acrisure Arena, 2025-10-04 02:00 UTC",103,81
+401812483,2025-10-04,Philadelphia 76ers,New York Knicks,Etihad Arena,2025-10-04,15:00 UTC,"New York Knicks vs Philadelphia 76ers @ Etihad Arena, 2025-10-04 15:00 UTC",116,104
+401812484,2025-10-05,Brooklyn Nets,Hapoel Jerusalem,Barclays Center,2025-10-05,00:00 UTC,"Hapoel Jerusalem vs Brooklyn Nets @ Barclays Center, 2025-10-05 00:00 UTC",88,123
+401812485,2025-10-05,Miami Heat,Orlando Magic,Coliseo de Puerto Rico,2025-10-05,00:00 UTC,"Orlando Magic vs Miami Heat @ Coliseo de Puerto Rico, 2025-10-05 00:00 UTC",126,118
+401812486,2025-10-05,Denver Nuggets,Minnesota Timberwolves,Pechanga Arena,2025-10-05,01:00 UTC,"Minnesota Timberwolves vs Denver Nuggets @ Pechanga Arena, 2025-10-05 01:00 UTC",126,116
+401812487,2025-10-05,New Orleans Pelicans,Melbourne Pnx,Rod Laver Arena,2025-10-05,03:00 UTC,"Melbourne Pnx vs New Orleans Pelicans @ Rod Laver Arena, 2025-10-05 03:00 UTC",92,127

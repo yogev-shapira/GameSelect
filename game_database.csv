@@ -898,3 +898,9 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401812487,2025-10-05,New Orleans Pelicans,Melbourne Pnx,Rod Laver Arena,2025-10-05,03:00 UTC,"Melbourne Pnx vs New Orleans Pelicans @ Rod Laver Arena, 2025-10-05 03:00 UTC",92,127
 401812676,2025-10-05,Charlotte Hornets,Oklahoma City Thunder,North Charleston Coliseum,2025-10-05,21:00 UTC,"Oklahoma City Thunder vs Charlotte Hornets @ North Charleston Coliseum, 2025-10-05 21:00 UTC",135,114
 401812677,2025-10-06,Golden State Warriors,Los Angeles Lakers,Chase Center,2025-10-06,00:30 UTC,"Los Angeles Lakers vs Golden State Warriors @ Chase Center, 2025-10-06 00:30 UTC",103,111
+401812678,2025-10-06,Miami Heat,Milwaukee Bucks,Kaseya Center,2025-10-06,23:30 UTC,"Milwaukee Bucks vs Miami Heat @ Kaseya Center, 2025-10-06 23:30 UTC",103,93
+401812679,2025-10-07,Houston Rockets,Atlanta Hawks,Toyota Center (Houston),2025-10-07,00:00 UTC,"Atlanta Hawks vs Houston Rockets @ Toyota Center (Houston), 2025-10-07 00:00 UTC",113,122
+401812680,2025-10-07,Memphis Grizzlies,Detroit Pistons,FedExForum,2025-10-07,00:00 UTC,"Detroit Pistons vs Memphis Grizzlies @ FedExForum, 2025-10-07 00:00 UTC",128,112
+401812681,2025-10-07,San Antonio Spurs,Guangzhou Loong-Lions,Frost Bank Center,2025-10-07,00:00 UTC,"Guangzhou Loong-Lions vs San Antonio Spurs @ Frost Bank Center, 2025-10-07 00:00 UTC",88,119
+401812682,2025-10-07,Dallas Mavericks,Oklahoma City Thunder,Dickies Arena,2025-10-07,00:30 UTC,"Oklahoma City Thunder vs Dallas Mavericks @ Dickies Arena, 2025-10-07 00:30 UTC",89,106
+401812683,2025-10-07,Toronto Raptors,Denver Nuggets,Rogers Arena,2025-10-07,02:00 UTC,"Denver Nuggets vs Toronto Raptors @ Rogers Arena, 2025-10-07 02:00 UTC",112,108

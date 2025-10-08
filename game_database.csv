@@ -904,3 +904,5 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401812681,2025-10-07,San Antonio Spurs,Guangzhou Loong-Lions,Frost Bank Center,2025-10-07,00:00 UTC,"Guangzhou Loong-Lions vs San Antonio Spurs @ Frost Bank Center, 2025-10-07 00:00 UTC",88,119
 401812682,2025-10-07,Dallas Mavericks,Oklahoma City Thunder,Dickies Arena,2025-10-07,00:30 UTC,"Oklahoma City Thunder vs Dallas Mavericks @ Dickies Arena, 2025-10-07 00:30 UTC",89,106
 401812683,2025-10-07,Toronto Raptors,Denver Nuggets,Rogers Arena,2025-10-07,02:00 UTC,"Denver Nuggets vs Toronto Raptors @ Rogers Arena, 2025-10-07 02:00 UTC",112,108
+401812684,2025-10-07,Cleveland Cavaliers,Chicago Bulls,Rocket Arena,2025-10-07,23:00 UTC,"Chicago Bulls vs Cleveland Cavaliers @ Rocket Arena, 2025-10-07 23:00 UTC",118,117
+401812685,2025-10-08,Minnesota Timberwolves,Indiana Pacers,Target Center,2025-10-08,00:00 UTC,"Indiana Pacers vs Minnesota Timberwolves @ Target Center, 2025-10-08 00:00 UTC",135,134

@@ -911,3 +911,8 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401812688,2025-10-09,Memphis Grizzlies,Boston Celtics,FedExForum,2025-10-09,00:00 UTC,"Boston Celtics vs Memphis Grizzlies @ FedExForum, 2025-10-09 00:00 UTC",121,103
 401812689,2025-10-09,Golden State Warriors,Portland Trail Blazers,Chase Center,2025-10-09,02:00 UTC,"Portland Trail Blazers vs Golden State Warriors @ Chase Center, 2025-10-09 02:00 UTC",123,129
 401812690,2025-10-09,Sacramento Kings,Toronto Raptors,Golden 1 Center,2025-10-09,02:00 UTC,"Toronto Raptors vs Sacramento Kings @ Golden 1 Center, 2025-10-09 02:00 UTC",130,122
+401812691,2025-10-09,New York Knicks,Minnesota Timberwolves,Madison Square Garden,2025-10-09,23:30 UTC,"Minnesota Timberwolves vs New York Knicks @ Madison Square Garden, 2025-10-09 23:30 UTC",95,100
+401812692,2025-10-10,Chicago Bulls,Cleveland Cavaliers,United Center,2025-10-10,00:00 UTC,"Cleveland Cavaliers vs Chicago Bulls @ United Center, 2025-10-10 00:00 UTC",112,119
+401812693,2025-10-10,Milwaukee Bucks,Detroit Pistons,Fiserv Forum,2025-10-10,00:00 UTC,"Detroit Pistons vs Milwaukee Bucks @ Fiserv Forum, 2025-10-10 00:00 UTC",111,117
+401812694,2025-10-10,Oklahoma City Thunder,Charlotte Hornets,Paycom Center,2025-10-10,00:00 UTC,"Charlotte Hornets vs Oklahoma City Thunder @ Paycom Center, 2025-10-10 00:00 UTC",116,122
+401812695,2025-10-10,LA Clippers,Guangzhou Loong-Lions,Frontwave Arena,2025-10-10,02:30 UTC,"Guangzhou Loong-Lions vs LA Clippers @ Frontwave Arena, 2025-10-10 02:30 UTC",95,142

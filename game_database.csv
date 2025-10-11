@@ -916,3 +916,8 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401812693,2025-10-10,Milwaukee Bucks,Detroit Pistons,Fiserv Forum,2025-10-10,00:00 UTC,"Detroit Pistons vs Milwaukee Bucks @ Fiserv Forum, 2025-10-10 00:00 UTC",111,117
 401812694,2025-10-10,Oklahoma City Thunder,Charlotte Hornets,Paycom Center,2025-10-10,00:00 UTC,"Charlotte Hornets vs Oklahoma City Thunder @ Paycom Center, 2025-10-10 00:00 UTC",116,122
 401812695,2025-10-10,LA Clippers,Guangzhou Loong-Lions,Frontwave Arena,2025-10-10,02:30 UTC,"Guangzhou Loong-Lions vs LA Clippers @ Frontwave Arena, 2025-10-10 02:30 UTC",95,142
+401812696,2025-10-10,Brooklyn Nets,Phoenix Suns,Venetian Arena,2025-10-10,12:00 UTC,"Phoenix Suns vs Brooklyn Nets @ Venetian Arena, 2025-10-10 12:00 UTC",132,127
+401812697,2025-10-10,Toronto Raptors,Boston Celtics,Scotiabank Arena,2025-10-10,23:00 UTC,"Boston Celtics vs Toronto Raptors @ Scotiabank Arena, 2025-10-10 23:00 UTC",105,107
+401812698,2025-10-10,Philadelphia 76ers,Orlando Magic,Xfinity Mobile Arena,2025-10-10,23:00 UTC,"Orlando Magic vs Philadelphia 76ers @ Xfinity Mobile Arena, 2025-10-10 23:00 UTC",128,98
+401812699,2025-10-11,San Antonio Spurs,Utah Jazz,Frost Bank Center,2025-10-11,00:00 UTC,"Utah Jazz vs San Antonio Spurs @ Frost Bank Center, 2025-10-11 00:00 UTC",130,134
+401812700,2025-10-11,Portland Trail Blazers,Sacramento Kings,Moda Center,2025-10-11,02:00 UTC,"Sacramento Kings vs Portland Trail Blazers @ Moda Center, 2025-10-11 02:00 UTC",123,124

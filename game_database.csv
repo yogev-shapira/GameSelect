@@ -921,3 +921,6 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401812698,2025-10-10,Philadelphia 76ers,Orlando Magic,Xfinity Mobile Arena,2025-10-10,23:00 UTC,"Orlando Magic vs Philadelphia 76ers @ Xfinity Mobile Arena, 2025-10-10 23:00 UTC",128,98
 401812699,2025-10-11,San Antonio Spurs,Utah Jazz,Frost Bank Center,2025-10-11,00:00 UTC,"Utah Jazz vs San Antonio Spurs @ Frost Bank Center, 2025-10-11 00:00 UTC",130,134
 401812700,2025-10-11,Portland Trail Blazers,Sacramento Kings,Moda Center,2025-10-11,02:00 UTC,"Sacramento Kings vs Portland Trail Blazers @ Moda Center, 2025-10-11 02:00 UTC",123,124
+401812701,2025-10-11,Indiana Pacers,Oklahoma City Thunder,Gainbridge Fieldhouse,2025-10-11,23:00 UTC,"Oklahoma City Thunder vs Indiana Pacers @ Gainbridge Fieldhouse, 2025-10-11 23:00 UTC",101,116
+401812702,2025-10-12,Memphis Grizzlies,Atlanta Hawks,FedExForum,2025-10-12,00:00 UTC,"Atlanta Hawks vs Memphis Grizzlies @ FedExForum, 2025-10-12 00:00 UTC",122,116
+401812703,2025-10-12,Dallas Mavericks,Charlotte Hornets,American Airlines Center,2025-10-12,00:30 UTC,"Charlotte Hornets vs Dallas Mavericks @ American Airlines Center, 2025-10-12 00:30 UTC",120,116

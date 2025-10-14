@@ -931,3 +931,8 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401812708,2025-10-12,Chicago Bulls,Milwaukee Bucks,United Center,2025-10-12,23:00 UTC,"Milwaukee Bucks vs Chicago Bulls @ United Center, 2025-10-12 23:00 UTC",127,121
 401812709,2025-10-13,LA Clippers,Denver Nuggets,Intuit Dome,2025-10-13,01:30 UTC,"Denver Nuggets vs LA Clippers @ Intuit Dome, 2025-10-13 01:30 UTC",102,94
 401812710,2025-10-13,Los Angeles Lakers,Golden State Warriors,crypto.com Arena,2025-10-13,01:30 UTC,"Golden State Warriors vs Los Angeles Lakers @ crypto.com Arena, 2025-10-13 01:30 UTC",116,126
+401812711,2025-10-13,Atlanta Hawks,Miami Heat,State Farm Arena,2025-10-13,22:00 UTC,"Miami Heat vs Atlanta Hawks @ State Farm Arena, 2025-10-13 22:00 UTC",118,119
+401812712,2025-10-13,Indiana Pacers,San Antonio Spurs,Gainbridge Fieldhouse,2025-10-13,23:00 UTC,"San Antonio Spurs vs Indiana Pacers @ Gainbridge Fieldhouse, 2025-10-13 23:00 UTC",124,108
+401812713,2025-10-13,New York Knicks,Washington Wizards,Madison Square Garden,2025-10-13,23:30 UTC,"Washington Wizards vs New York Knicks @ Madison Square Garden, 2025-10-13 23:30 UTC",120,103
+401812714,2025-10-14,Minnesota Timberwolves,Guangzhou Loong-Lions,Target Center,2025-10-14,00:00 UTC,"Guangzhou Loong-Lions vs Minnesota Timberwolves @ Target Center, 2025-10-14 00:00 UTC",74,134
+401812715,2025-10-14,Utah Jazz,Dallas Mavericks,Delta Center,2025-10-14,01:00 UTC,"Dallas Mavericks vs Utah Jazz @ Delta Center, 2025-10-14 01:00 UTC",114,101

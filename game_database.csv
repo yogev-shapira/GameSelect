@@ -936,3 +936,9 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401812713,2025-10-13,New York Knicks,Washington Wizards,Madison Square Garden,2025-10-13,23:30 UTC,"Washington Wizards vs New York Knicks @ Madison Square Garden, 2025-10-13 23:30 UTC",120,103
 401812714,2025-10-14,Minnesota Timberwolves,Guangzhou Loong-Lions,Target Center,2025-10-14,00:00 UTC,"Guangzhou Loong-Lions vs Minnesota Timberwolves @ Target Center, 2025-10-14 00:00 UTC",74,134
 401812715,2025-10-14,Utah Jazz,Dallas Mavericks,Delta Center,2025-10-14,01:00 UTC,"Dallas Mavericks vs Utah Jazz @ Delta Center, 2025-10-14 01:00 UTC",114,101
+401812716,2025-10-14,Cleveland Cavaliers,Detroit Pistons,Rocket Arena,2025-10-14,23:00 UTC,"Detroit Pistons vs Cleveland Cavaliers @ Rocket Arena, 2025-10-14 23:00 UTC",100,118
+401812717,2025-10-15,New Orleans Pelicans,Houston Rockets,Legacy Arena at BJCC,2025-10-15,00:00 UTC,"Houston Rockets vs New Orleans Pelicans @ Legacy Arena at BJCC, 2025-10-15 00:00 UTC",128,128
+401812718,2025-10-15,Milwaukee Bucks,Oklahoma City Thunder,Fiserv Forum,2025-10-15,00:00 UTC,"Oklahoma City Thunder vs Milwaukee Bucks @ Fiserv Forum, 2025-10-15 00:00 UTC",116,112
+401812719,2025-10-15,Denver Nuggets,Chicago Bulls,Ball Arena,2025-10-15,01:00 UTC,"Chicago Bulls vs Denver Nuggets @ Ball Arena, 2025-10-15 01:00 UTC",117,124
+401812720,2025-10-15,Portland Trail Blazers,Golden State Warriors,Moda Center,2025-10-15,02:00 UTC,"Golden State Warriors vs Portland Trail Blazers @ Moda Center, 2025-10-15 02:00 UTC",118,111
+401812721,2025-10-15,Phoenix Suns,Los Angeles Lakers,Mortgage Matchup Center,2025-10-15,02:00 UTC,"Los Angeles Lakers vs Phoenix Suns @ Mortgage Matchup Center, 2025-10-15 02:00 UTC",104,113

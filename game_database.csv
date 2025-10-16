@@ -942,3 +942,7 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401812719,2025-10-15,Denver Nuggets,Chicago Bulls,Ball Arena,2025-10-15,01:00 UTC,"Chicago Bulls vs Denver Nuggets @ Ball Arena, 2025-10-15 01:00 UTC",117,124
 401812720,2025-10-15,Portland Trail Blazers,Golden State Warriors,Moda Center,2025-10-15,02:00 UTC,"Golden State Warriors vs Portland Trail Blazers @ Moda Center, 2025-10-15 02:00 UTC",118,111
 401812721,2025-10-15,Phoenix Suns,Los Angeles Lakers,Mortgage Matchup Center,2025-10-15,02:00 UTC,"Los Angeles Lakers vs Phoenix Suns @ Mortgage Matchup Center, 2025-10-15 02:00 UTC",104,113
+401812722,2025-10-15,Charlotte Hornets,Memphis Grizzlies,First Horizon Coliseum,2025-10-15,23:00 UTC,"Memphis Grizzlies vs Charlotte Hornets @ First Horizon Coliseum, 2025-10-15 23:00 UTC",116,145
+401812723,2025-10-15,Boston Celtics,Toronto Raptors,TD Garden,2025-10-15,23:30 UTC,"Toronto Raptors vs Boston Celtics @ TD Garden, 2025-10-15 23:30 UTC",108,110
+401812725,2025-10-16,Sacramento Kings,LA Clippers,Golden 1 Center,2025-10-16,02:00 UTC,"LA Clippers vs Sacramento Kings @ Golden 1 Center, 2025-10-16 02:00 UTC",109,91
+401812724,2025-10-16,Los Angeles Lakers,Dallas Mavericks,T-Mobile Arena,2025-10-16,02:30 UTC,"Dallas Mavericks vs Los Angeles Lakers @ T-Mobile Arena, 2025-10-16 02:30 UTC",121,94

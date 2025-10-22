@@ -959,3 +959,5 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401812736,2025-10-18,San Antonio Spurs,Indiana Pacers,Frost Bank Center,2025-10-18,00:00 UTC,"Indiana Pacers vs San Antonio Spurs @ Frost Bank Center, 2025-10-18 00:00 UTC",,
 401812737,2025-10-18,Golden State Warriors,LA Clippers,Chase Center,2025-10-18,02:00 UTC,"LA Clippers vs Golden State Warriors @ Chase Center, 2025-10-18 02:00 UTC",106,103
 401812738,2025-10-18,Los Angeles Lakers,Sacramento Kings,crypto.com Arena,2025-10-18,02:30 UTC,"Sacramento Kings vs Los Angeles Lakers @ crypto.com Arena, 2025-10-18 02:30 UTC",117,116
+401809243,2025-10-21,Oklahoma City Thunder,Houston Rockets,Paycom Center,2025-10-21,23:30 UTC,"Houston Rockets vs Oklahoma City Thunder @ Paycom Center, 2025-10-21 23:30 UTC",124,125
+401809244,2025-10-22,Los Angeles Lakers,Golden State Warriors,crypto.com Arena,2025-10-22,02:00 UTC,"Golden State Warriors vs Los Angeles Lakers @ crypto.com Arena, 2025-10-22 02:00 UTC",119,109

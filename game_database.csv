@@ -961,3 +961,15 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401812738,2025-10-18,Los Angeles Lakers,Sacramento Kings,crypto.com Arena,2025-10-18,02:30 UTC,"Sacramento Kings vs Los Angeles Lakers @ crypto.com Arena, 2025-10-18 02:30 UTC",117,116
 401809243,2025-10-21,Oklahoma City Thunder,Houston Rockets,Paycom Center,2025-10-21,23:30 UTC,"Houston Rockets vs Oklahoma City Thunder @ Paycom Center, 2025-10-21 23:30 UTC",124,125
 401809244,2025-10-22,Los Angeles Lakers,Golden State Warriors,crypto.com Arena,2025-10-22,02:00 UTC,"Golden State Warriors vs Los Angeles Lakers @ crypto.com Arena, 2025-10-22 02:00 UTC",119,109
+401809234,2025-10-22,New York Knicks,Cleveland Cavaliers,Madison Square Garden,2025-10-22,23:00 UTC,"Cleveland Cavaliers vs New York Knicks @ Madison Square Garden, 2025-10-22 23:00 UTC",111,119
+401809933,2025-10-22,Charlotte Hornets,Brooklyn Nets,Spectrum Center,2025-10-22,23:00 UTC,"Brooklyn Nets vs Charlotte Hornets @ Spectrum Center, 2025-10-22 23:00 UTC",117,136
+401809934,2025-10-22,Orlando Magic,Miami Heat,Kia Center,2025-10-22,23:00 UTC,"Miami Heat vs Orlando Magic @ Kia Center, 2025-10-22 23:00 UTC",121,125
+401809935,2025-10-22,Atlanta Hawks,Toronto Raptors,State Farm Arena,2025-10-22,23:30 UTC,"Toronto Raptors vs Atlanta Hawks @ State Farm Arena, 2025-10-22 23:30 UTC",138,118
+401809936,2025-10-22,Boston Celtics,Philadelphia 76ers,TD Garden,2025-10-22,23:30 UTC,"Philadelphia 76ers vs Boston Celtics @ TD Garden, 2025-10-22 23:30 UTC",117,116
+401809937,2025-10-23,Chicago Bulls,Detroit Pistons,United Center,2025-10-23,00:00 UTC,"Detroit Pistons vs Chicago Bulls @ United Center, 2025-10-23 00:00 UTC",111,115
+401809938,2025-10-23,Memphis Grizzlies,New Orleans Pelicans,FedExForum,2025-10-23,00:00 UTC,"New Orleans Pelicans vs Memphis Grizzlies @ FedExForum, 2025-10-23 00:00 UTC",122,128
+401809939,2025-10-23,Milwaukee Bucks,Washington Wizards,Fiserv Forum,2025-10-23,00:00 UTC,"Washington Wizards vs Milwaukee Bucks @ Fiserv Forum, 2025-10-23 00:00 UTC",120,133
+401809940,2025-10-23,Utah Jazz,LA Clippers,Delta Center,2025-10-23,01:00 UTC,"LA Clippers vs Utah Jazz @ Delta Center, 2025-10-23 01:00 UTC",108,129
+401809235,2025-10-23,Dallas Mavericks,San Antonio Spurs,American Airlines Center,2025-10-23,01:47 UTC,"San Antonio Spurs vs Dallas Mavericks @ American Airlines Center, 2025-10-23 01:47 UTC",125,92
+401809941,2025-10-23,Phoenix Suns,Sacramento Kings,Mortgage Matchup Center,2025-10-23,02:00 UTC,"Sacramento Kings vs Phoenix Suns @ Mortgage Matchup Center, 2025-10-23 02:00 UTC",116,120
+401809942,2025-10-23,Portland Trail Blazers,Minnesota Timberwolves,Moda Center,2025-10-23,02:00 UTC,"Minnesota Timberwolves vs Portland Trail Blazers @ Moda Center, 2025-10-23 02:00 UTC",118,114

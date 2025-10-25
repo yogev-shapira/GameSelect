@@ -975,3 +975,15 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401809942,2025-10-23,Portland Trail Blazers,Minnesota Timberwolves,Moda Center,2025-10-23,02:00 UTC,"Minnesota Timberwolves vs Portland Trail Blazers @ Moda Center, 2025-10-23 02:00 UTC",118,114
 401809236,2025-10-23,Indiana Pacers,Oklahoma City Thunder,Gainbridge Fieldhouse,2025-10-23,23:30 UTC,"Oklahoma City Thunder vs Indiana Pacers @ Gainbridge Fieldhouse, 2025-10-23 23:30 UTC",141,135
 401809237,2025-10-24,Golden State Warriors,Denver Nuggets,Chase Center,2025-10-24,02:17 UTC,"Denver Nuggets vs Golden State Warriors @ Chase Center, 2025-10-24 02:17 UTC",131,137
+401809946,2025-10-24,Toronto Raptors,Milwaukee Bucks,Scotiabank Arena,2025-10-24,22:30 UTC,"Milwaukee Bucks vs Toronto Raptors @ Scotiabank Arena, 2025-10-24 22:30 UTC",122,116
+401809943,2025-10-24,Orlando Magic,Atlanta Hawks,Kia Center,2025-10-24,23:00 UTC,"Atlanta Hawks vs Orlando Magic @ Kia Center, 2025-10-24 23:00 UTC",111,107
+401809944,2025-10-24,Brooklyn Nets,Cleveland Cavaliers,Barclays Center,2025-10-24,23:30 UTC,"Cleveland Cavaliers vs Brooklyn Nets @ Barclays Center, 2025-10-24 23:30 UTC",131,124
+401809945,2025-10-24,New York Knicks,Boston Celtics,Madison Square Garden,2025-10-24,23:30 UTC,"Boston Celtics vs New York Knicks @ Madison Square Garden, 2025-10-24 23:30 UTC",95,105
+401809947,2025-10-25,Houston Rockets,Detroit Pistons,Toyota Center (Houston),2025-10-25,00:00 UTC,"Detroit Pistons vs Houston Rockets @ Toyota Center (Houston), 2025-10-25 00:00 UTC",115,111
+401809948,2025-10-25,Memphis Grizzlies,Miami Heat,FedExForum,2025-10-25,00:00 UTC,"Miami Heat vs Memphis Grizzlies @ FedExForum, 2025-10-25 00:00 UTC",146,114
+401809949,2025-10-25,New Orleans Pelicans,San Antonio Spurs,Smoothie King Center,2025-10-25,00:00 UTC,"San Antonio Spurs vs New Orleans Pelicans @ Smoothie King Center, 2025-10-25 00:00 UTC",120,116
+401809950,2025-10-25,Dallas Mavericks,Washington Wizards,American Airlines Center,2025-10-25,00:30 UTC,"Washington Wizards vs Dallas Mavericks @ American Airlines Center, 2025-10-25 00:30 UTC",117,107
+401809951,2025-10-25,Los Angeles Lakers,Minnesota Timberwolves,crypto.com Arena,2025-10-25,02:00 UTC,"Minnesota Timberwolves vs Los Angeles Lakers @ crypto.com Arena, 2025-10-25 02:00 UTC",110,128
+401809952,2025-10-25,Portland Trail Blazers,Golden State Warriors,Moda Center,2025-10-25,02:00 UTC,"Golden State Warriors vs Portland Trail Blazers @ Moda Center, 2025-10-25 02:00 UTC",119,139
+401809953,2025-10-25,Sacramento Kings,Utah Jazz,Golden 1 Center,2025-10-25,02:00 UTC,"Utah Jazz vs Sacramento Kings @ Golden 1 Center, 2025-10-25 02:00 UTC",104,105
+401809954,2025-10-25,LA Clippers,Phoenix Suns,Intuit Dome,2025-10-25,02:30 UTC,"Phoenix Suns vs LA Clippers @ Intuit Dome, 2025-10-25 02:30 UTC",102,129

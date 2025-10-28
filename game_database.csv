@@ -1001,3 +1001,14 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401809966,2025-10-26,Dallas Mavericks,Toronto Raptors,American Airlines Center,2025-10-26,23:30 UTC,"Toronto Raptors vs Dallas Mavericks @ American Airlines Center, 2025-10-26 23:30 UTC",129,139
 401809967,2025-10-27,LA Clippers,Portland Trail Blazers,Intuit Dome,2025-10-27,01:00 UTC,"Portland Trail Blazers vs LA Clippers @ Intuit Dome, 2025-10-27 01:00 UTC",107,114
 401809968,2025-10-27,Sacramento Kings,Los Angeles Lakers,Golden 1 Center,2025-10-27,01:00 UTC,"Los Angeles Lakers vs Sacramento Kings @ Golden 1 Center, 2025-10-27 01:00 UTC",127,120
+401809245,2025-10-27,Detroit Pistons,Cleveland Cavaliers,Little Caesars Arena,2025-10-27,23:00 UTC,"Cleveland Cavaliers vs Detroit Pistons @ Little Caesars Arena, 2025-10-27 23:00 UTC",116,95
+401809969,2025-10-27,Philadelphia 76ers,Orlando Magic,Xfinity Mobile Arena,2025-10-27,23:00 UTC,"Orlando Magic vs Philadelphia 76ers @ Xfinity Mobile Arena, 2025-10-27 23:00 UTC",124,136
+401809970,2025-10-28,Chicago Bulls,Atlanta Hawks,United Center,2025-10-28,00:00 UTC,"Atlanta Hawks vs Chicago Bulls @ United Center, 2025-10-28 00:00 UTC",123,128
+401809971,2025-10-28,Houston Rockets,Brooklyn Nets,Toyota Center (Houston),2025-10-28,00:00 UTC,"Brooklyn Nets vs Houston Rockets @ Toyota Center (Houston), 2025-10-28 00:00 UTC",109,137
+401809972,2025-10-28,New Orleans Pelicans,Boston Celtics,Smoothie King Center,2025-10-28,00:00 UTC,"Boston Celtics vs New Orleans Pelicans @ Smoothie King Center, 2025-10-28 00:00 UTC",122,90
+401809973,2025-10-28,San Antonio Spurs,Toronto Raptors,Frost Bank Center,2025-10-28,00:00 UTC,"Toronto Raptors vs San Antonio Spurs @ Frost Bank Center, 2025-10-28 00:00 UTC",103,121
+401809974,2025-10-28,Dallas Mavericks,Oklahoma City Thunder,American Airlines Center,2025-10-28,00:30 UTC,"Oklahoma City Thunder vs Dallas Mavericks @ American Airlines Center, 2025-10-28 00:30 UTC",101,94
+401809975,2025-10-28,Utah Jazz,Phoenix Suns,Delta Center,2025-10-28,01:00 UTC,"Phoenix Suns vs Utah Jazz @ Delta Center, 2025-10-28 01:00 UTC",134,138
+401809246,2025-10-28,Minnesota Timberwolves,Denver Nuggets,Target Center,2025-10-28,01:30 UTC,"Denver Nuggets vs Minnesota Timberwolves @ Target Center, 2025-10-28 01:30 UTC",127,114
+401809976,2025-10-28,Golden State Warriors,Memphis Grizzlies,Chase Center,2025-10-28,02:00 UTC,"Memphis Grizzlies vs Golden State Warriors @ Chase Center, 2025-10-28 02:00 UTC",118,131
+401809977,2025-10-28,Los Angeles Lakers,Portland Trail Blazers,crypto.com Arena,2025-10-28,02:30 UTC,"Portland Trail Blazers vs Los Angeles Lakers @ crypto.com Arena, 2025-10-28 02:30 UTC",122,108

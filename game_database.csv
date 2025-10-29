@@ -1012,3 +1012,8 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401809246,2025-10-28,Minnesota Timberwolves,Denver Nuggets,Target Center,2025-10-28,01:30 UTC,"Denver Nuggets vs Minnesota Timberwolves @ Target Center, 2025-10-28 01:30 UTC",127,114
 401809976,2025-10-28,Golden State Warriors,Memphis Grizzlies,Chase Center,2025-10-28,02:00 UTC,"Memphis Grizzlies vs Golden State Warriors @ Chase Center, 2025-10-28 02:00 UTC",118,131
 401809977,2025-10-28,Los Angeles Lakers,Portland Trail Blazers,crypto.com Arena,2025-10-28,02:30 UTC,"Portland Trail Blazers vs Los Angeles Lakers @ crypto.com Arena, 2025-10-28 02:30 UTC",122,108
+401809978,2025-10-28,Washington Wizards,Philadelphia 76ers,Capital One Arena,2025-10-28,23:00 UTC,"Philadelphia 76ers vs Washington Wizards @ Capital One Arena, 2025-10-28 23:00 UTC",139,134
+401809979,2025-10-28,Miami Heat,Charlotte Hornets,Kaseya Center,2025-10-28,23:30 UTC,"Charlotte Hornets vs Miami Heat @ Kaseya Center, 2025-10-28 23:30 UTC",117,144
+401809980,2025-10-29,Milwaukee Bucks,New York Knicks,Fiserv Forum,2025-10-29,00:00 UTC,"New York Knicks vs Milwaukee Bucks @ Fiserv Forum, 2025-10-29 00:00 UTC",110,121
+401809981,2025-10-29,Oklahoma City Thunder,Sacramento Kings,Paycom Center,2025-10-29,00:00 UTC,"Sacramento Kings vs Oklahoma City Thunder @ Paycom Center, 2025-10-29 00:00 UTC",101,107
+401809982,2025-10-29,Golden State Warriors,LA Clippers,Chase Center,2025-10-29,03:00 UTC,"LA Clippers vs Golden State Warriors @ Chase Center, 2025-10-29 03:00 UTC",79,98

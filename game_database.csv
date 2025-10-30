@@ -1017,3 +1017,13 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401809980,2025-10-29,Milwaukee Bucks,New York Knicks,Fiserv Forum,2025-10-29,00:00 UTC,"New York Knicks vs Milwaukee Bucks @ Fiserv Forum, 2025-10-29 00:00 UTC",110,121
 401809981,2025-10-29,Oklahoma City Thunder,Sacramento Kings,Paycom Center,2025-10-29,00:00 UTC,"Sacramento Kings vs Oklahoma City Thunder @ Paycom Center, 2025-10-29 00:00 UTC",101,107
 401809982,2025-10-29,Golden State Warriors,LA Clippers,Chase Center,2025-10-29,03:00 UTC,"LA Clippers vs Golden State Warriors @ Chase Center, 2025-10-29 03:00 UTC",79,98
+401809986,2025-10-29,Toronto Raptors,Houston Rockets,Scotiabank Arena,2025-10-29,22:30 UTC,"Houston Rockets vs Toronto Raptors @ Scotiabank Arena, 2025-10-29 22:30 UTC",139,121
+401809983,2025-10-29,Boston Celtics,Cleveland Cavaliers,TD Garden,2025-10-29,23:00 UTC,"Cleveland Cavaliers vs Boston Celtics @ TD Garden, 2025-10-29 23:00 UTC",105,125
+401809984,2025-10-29,Detroit Pistons,Orlando Magic,Little Caesars Arena,2025-10-29,23:00 UTC,"Orlando Magic vs Detroit Pistons @ Little Caesars Arena, 2025-10-29 23:00 UTC",116,135
+401809985,2025-10-29,Brooklyn Nets,Atlanta Hawks,Barclays Center,2025-10-29,23:30 UTC,"Atlanta Hawks vs Brooklyn Nets @ Barclays Center, 2025-10-29 23:30 UTC",117,112
+401809987,2025-10-30,Chicago Bulls,Sacramento Kings,United Center,2025-10-30,00:00 UTC,"Sacramento Kings vs Chicago Bulls @ United Center, 2025-10-30 00:00 UTC",113,126
+401809988,2025-10-30,Dallas Mavericks,Indiana Pacers,American Airlines Center,2025-10-30,00:30 UTC,"Indiana Pacers vs Dallas Mavericks @ American Airlines Center, 2025-10-30 00:30 UTC",105,107
+401809989,2025-10-30,Denver Nuggets,New Orleans Pelicans,Ball Arena,2025-10-30,01:00 UTC,"New Orleans Pelicans vs Denver Nuggets @ Ball Arena, 2025-10-30 01:00 UTC",88,122
+401809990,2025-10-30,Utah Jazz,Portland Trail Blazers,Delta Center,2025-10-30,01:00 UTC,"Portland Trail Blazers vs Utah Jazz @ Delta Center, 2025-10-30 01:00 UTC",136,134
+401809991,2025-10-30,Minnesota Timberwolves,Los Angeles Lakers,Target Center,2025-10-30,01:30 UTC,"Los Angeles Lakers vs Minnesota Timberwolves @ Target Center, 2025-10-30 01:30 UTC",116,115
+401809992,2025-10-30,Phoenix Suns,Memphis Grizzlies,Mortgage Matchup Center,2025-10-30,02:00 UTC,"Memphis Grizzlies vs Phoenix Suns @ Mortgage Matchup Center, 2025-10-30 02:00 UTC",114,113

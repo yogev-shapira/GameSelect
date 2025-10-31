@@ -1027,3 +1027,7 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401809990,2025-10-30,Utah Jazz,Portland Trail Blazers,Delta Center,2025-10-30,01:00 UTC,"Portland Trail Blazers vs Utah Jazz @ Delta Center, 2025-10-30 01:00 UTC",136,134
 401809991,2025-10-30,Minnesota Timberwolves,Los Angeles Lakers,Target Center,2025-10-30,01:30 UTC,"Los Angeles Lakers vs Minnesota Timberwolves @ Target Center, 2025-10-30 01:30 UTC",116,115
 401809992,2025-10-30,Phoenix Suns,Memphis Grizzlies,Mortgage Matchup Center,2025-10-30,02:00 UTC,"Memphis Grizzlies vs Phoenix Suns @ Mortgage Matchup Center, 2025-10-30 02:00 UTC",114,113
+401809993,2025-10-30,Charlotte Hornets,Orlando Magic,Spectrum Center,2025-10-30,23:00 UTC,"Orlando Magic vs Charlotte Hornets @ Spectrum Center, 2025-10-30 23:00 UTC",123,107
+401809994,2025-10-31,Milwaukee Bucks,Golden State Warriors,Fiserv Forum,2025-10-31,00:00 UTC,"Golden State Warriors vs Milwaukee Bucks @ Fiserv Forum, 2025-10-31 00:00 UTC",110,120
+401809995,2025-10-31,Oklahoma City Thunder,Washington Wizards,Paycom Center,2025-10-31,00:00 UTC,"Washington Wizards vs Oklahoma City Thunder @ Paycom Center, 2025-10-31 00:00 UTC",108,127
+401809996,2025-10-31,San Antonio Spurs,Miami Heat,Frost Bank Center,2025-10-31,00:30 UTC,"Miami Heat vs San Antonio Spurs @ Frost Bank Center, 2025-10-31 00:30 UTC",101,107

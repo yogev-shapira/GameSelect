@@ -1039,3 +1039,9 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401809507,2025-11-01,Phoenix Suns,Utah Jazz,Mortgage Matchup Center,2025-11-01,02:00 UTC,"Utah Jazz vs Phoenix Suns @ Mortgage Matchup Center, 2025-11-01 02:00 UTC",96,118
 401809508,2025-11-01,Portland Trail Blazers,Denver Nuggets,Moda Center,2025-11-01,02:00 UTC,"Denver Nuggets vs Portland Trail Blazers @ Moda Center, 2025-11-01 02:00 UTC",107,109
 401809509,2025-11-01,LA Clippers,New Orleans Pelicans,Intuit Dome,2025-11-01,02:30 UTC,"New Orleans Pelicans vs LA Clippers @ Intuit Dome, 2025-11-01 02:30 UTC",124,126
+401809997,2025-11-01,Milwaukee Bucks,Sacramento Kings,Fiserv Forum,2025-11-01,21:00 UTC,"Sacramento Kings vs Milwaukee Bucks @ Fiserv Forum, 2025-11-01 21:00 UTC",135,133
+401809998,2025-11-01,Charlotte Hornets,Minnesota Timberwolves,Spectrum Center,2025-11-01,22:00 UTC,"Minnesota Timberwolves vs Charlotte Hornets @ Spectrum Center, 2025-11-01 22:00 UTC",122,105
+401809999,2025-11-01,Indiana Pacers,Golden State Warriors,Gainbridge Fieldhouse,2025-11-01,23:00 UTC,"Golden State Warriors vs Indiana Pacers @ Gainbridge Fieldhouse, 2025-11-01 23:00 UTC",109,114
+401810000,2025-11-01,Washington Wizards,Orlando Magic,Capital One Arena,2025-11-01,23:00 UTC,"Orlando Magic vs Washington Wizards @ Capital One Arena, 2025-11-01 23:00 UTC",125,94
+401810001,2025-11-02,Boston Celtics,Houston Rockets,TD Garden,2025-11-02,00:00 UTC,"Houston Rockets vs Boston Celtics @ TD Garden, 2025-11-02 00:00 UTC",128,101
+401810002,2025-11-02,Detroit Pistons,Dallas Mavericks,Arena CDMX,2025-11-02,02:00 UTC,"Dallas Mavericks vs Detroit Pistons @ Arena CDMX, 2025-11-02 02:00 UTC",110,122

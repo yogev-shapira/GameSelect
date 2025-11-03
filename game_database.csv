@@ -1045,3 +1045,11 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810000,2025-11-01,Washington Wizards,Orlando Magic,Capital One Arena,2025-11-01,23:00 UTC,"Orlando Magic vs Washington Wizards @ Capital One Arena, 2025-11-01 23:00 UTC",125,94
 401810001,2025-11-02,Boston Celtics,Houston Rockets,TD Garden,2025-11-02,00:00 UTC,"Houston Rockets vs Boston Celtics @ TD Garden, 2025-11-02 00:00 UTC",128,101
 401810002,2025-11-02,Detroit Pistons,Dallas Mavericks,Arena CDMX,2025-11-02,02:00 UTC,"Dallas Mavericks vs Detroit Pistons @ Arena CDMX, 2025-11-02 02:00 UTC",110,122
+401810003,2025-11-02,Oklahoma City Thunder,New Orleans Pelicans,Paycom Center,2025-11-02,20:30 UTC,"New Orleans Pelicans vs Oklahoma City Thunder @ Paycom Center, 2025-11-02 20:30 UTC",106,137
+401810004,2025-11-02,Brooklyn Nets,Philadelphia 76ers,Barclays Center,2025-11-02,23:00 UTC,"Philadelphia 76ers vs Brooklyn Nets @ Barclays Center, 2025-11-02 23:00 UTC",129,105
+401810005,2025-11-02,Charlotte Hornets,Utah Jazz,Spectrum Center,2025-11-02,23:00 UTC,"Utah Jazz vs Charlotte Hornets @ Spectrum Center, 2025-11-02 23:00 UTC",103,126
+401810006,2025-11-02,Cleveland Cavaliers,Atlanta Hawks,Rocket Arena,2025-11-02,23:00 UTC,"Atlanta Hawks vs Cleveland Cavaliers @ Rocket Arena, 2025-11-02 23:00 UTC",109,117
+401810007,2025-11-02,Toronto Raptors,Memphis Grizzlies,Scotiabank Arena,2025-11-02,23:00 UTC,"Memphis Grizzlies vs Toronto Raptors @ Scotiabank Arena, 2025-11-02 23:00 UTC",104,117
+401810008,2025-11-03,New York Knicks,Chicago Bulls,Madison Square Garden,2025-11-03,00:00 UTC,"Chicago Bulls vs New York Knicks @ Madison Square Garden, 2025-11-03 00:00 UTC",116,128
+401810009,2025-11-03,Phoenix Suns,San Antonio Spurs,Mortgage Matchup Center,2025-11-03,01:00 UTC,"San Antonio Spurs vs Phoenix Suns @ Mortgage Matchup Center, 2025-11-03 01:00 UTC",118,130
+401810010,2025-11-03,Los Angeles Lakers,Miami Heat,crypto.com Arena,2025-11-03,02:30 UTC,"Miami Heat vs Los Angeles Lakers @ crypto.com Arena, 2025-11-03 02:30 UTC",120,130

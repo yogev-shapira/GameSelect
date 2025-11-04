@@ -1053,3 +1053,12 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810008,2025-11-03,New York Knicks,Chicago Bulls,Madison Square Garden,2025-11-03,00:00 UTC,"Chicago Bulls vs New York Knicks @ Madison Square Garden, 2025-11-03 00:00 UTC",116,128
 401810009,2025-11-03,Phoenix Suns,San Antonio Spurs,Mortgage Matchup Center,2025-11-03,01:00 UTC,"San Antonio Spurs vs Phoenix Suns @ Mortgage Matchup Center, 2025-11-03 01:00 UTC",118,130
 401810010,2025-11-03,Los Angeles Lakers,Miami Heat,crypto.com Arena,2025-11-03,02:30 UTC,"Miami Heat vs Los Angeles Lakers @ crypto.com Arena, 2025-11-03 02:30 UTC",120,130
+401810011,2025-11-04,Brooklyn Nets,Minnesota Timberwolves,Barclays Center,2025-11-04,00:00 UTC,"Minnesota Timberwolves vs Brooklyn Nets @ Barclays Center, 2025-11-04 00:00 UTC",125,109
+401810012,2025-11-04,Indiana Pacers,Milwaukee Bucks,Gainbridge Fieldhouse,2025-11-04,00:00 UTC,"Milwaukee Bucks vs Indiana Pacers @ Gainbridge Fieldhouse, 2025-11-04 00:00 UTC",117,115
+401810013,2025-11-04,Boston Celtics,Utah Jazz,TD Garden,2025-11-04,00:30 UTC,"Utah Jazz vs Boston Celtics @ TD Garden, 2025-11-04 00:30 UTC",105,103
+401810014,2025-11-04,New York Knicks,Washington Wizards,Madison Square Garden,2025-11-04,00:30 UTC,"Washington Wizards vs New York Knicks @ Madison Square Garden, 2025-11-04 00:30 UTC",102,119
+401810015,2025-11-04,Houston Rockets,Dallas Mavericks,Toyota Center (Houston),2025-11-04,01:00 UTC,"Dallas Mavericks vs Houston Rockets @ Toyota Center (Houston), 2025-11-04 01:00 UTC",102,110
+401810016,2025-11-04,Memphis Grizzlies,Detroit Pistons,FedExForum,2025-11-04,01:00 UTC,"Detroit Pistons vs Memphis Grizzlies @ FedExForum, 2025-11-04 01:00 UTC",114,106
+401810017,2025-11-04,Denver Nuggets,Sacramento Kings,Ball Arena,2025-11-04,02:00 UTC,"Sacramento Kings vs Denver Nuggets @ Ball Arena, 2025-11-04 02:00 UTC",124,130
+401810018,2025-11-04,Portland Trail Blazers,Los Angeles Lakers,Moda Center,2025-11-04,03:00 UTC,"Los Angeles Lakers vs Portland Trail Blazers @ Moda Center, 2025-11-04 03:00 UTC",123,115
+401810019,2025-11-04,LA Clippers,Miami Heat,Intuit Dome,2025-11-04,03:30 UTC,"Miami Heat vs LA Clippers @ Intuit Dome, 2025-11-04 03:30 UTC",120,119

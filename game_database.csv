@@ -1062,3 +1062,9 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810017,2025-11-04,Denver Nuggets,Sacramento Kings,Ball Arena,2025-11-04,02:00 UTC,"Sacramento Kings vs Denver Nuggets @ Ball Arena, 2025-11-04 02:00 UTC",124,130
 401810018,2025-11-04,Portland Trail Blazers,Los Angeles Lakers,Moda Center,2025-11-04,03:00 UTC,"Los Angeles Lakers vs Portland Trail Blazers @ Moda Center, 2025-11-04 03:00 UTC",123,115
 401810019,2025-11-04,LA Clippers,Miami Heat,Intuit Dome,2025-11-04,03:30 UTC,"Miami Heat vs LA Clippers @ Intuit Dome, 2025-11-04 03:30 UTC",120,119
+401810020,2025-11-05,Toronto Raptors,Milwaukee Bucks,Scotiabank Arena,2025-11-05,00:30 UTC,"Milwaukee Bucks vs Toronto Raptors @ Scotiabank Arena, 2025-11-05 00:30 UTC",100,128
+401810021,2025-11-05,Atlanta Hawks,Orlando Magic,State Farm Arena,2025-11-05,01:00 UTC,"Orlando Magic vs Atlanta Hawks @ State Farm Arena, 2025-11-05 01:00 UTC",112,127
+401810022,2025-11-05,Chicago Bulls,Philadelphia 76ers,United Center,2025-11-05,01:00 UTC,"Philadelphia 76ers vs Chicago Bulls @ United Center, 2025-11-05 01:00 UTC",111,113
+401810023,2025-11-05,New Orleans Pelicans,Charlotte Hornets,Smoothie King Center,2025-11-05,01:00 UTC,"Charlotte Hornets vs New Orleans Pelicans @ Smoothie King Center, 2025-11-05 01:00 UTC",112,116
+401810024,2025-11-05,Golden State Warriors,Phoenix Suns,Chase Center,2025-11-05,03:00 UTC,"Phoenix Suns vs Golden State Warriors @ Chase Center, 2025-11-05 03:00 UTC",107,118
+401810025,2025-11-05,LA Clippers,Oklahoma City Thunder,Intuit Dome,2025-11-05,04:00 UTC,"Oklahoma City Thunder vs LA Clippers @ Intuit Dome, 2025-11-05 04:00 UTC",126,107

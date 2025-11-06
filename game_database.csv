@@ -1068,3 +1068,14 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810023,2025-11-05,New Orleans Pelicans,Charlotte Hornets,Smoothie King Center,2025-11-05,01:00 UTC,"Charlotte Hornets vs New Orleans Pelicans @ Smoothie King Center, 2025-11-05 01:00 UTC",112,116
 401810024,2025-11-05,Golden State Warriors,Phoenix Suns,Chase Center,2025-11-05,03:00 UTC,"Phoenix Suns vs Golden State Warriors @ Chase Center, 2025-11-05 03:00 UTC",107,118
 401810025,2025-11-05,LA Clippers,Oklahoma City Thunder,Intuit Dome,2025-11-05,04:00 UTC,"Oklahoma City Thunder vs LA Clippers @ Intuit Dome, 2025-11-05 04:00 UTC",126,107
+401810026,2025-11-06,Cleveland Cavaliers,Philadelphia 76ers,Rocket Arena,2025-11-06,00:00 UTC,"Philadelphia 76ers vs Cleveland Cavaliers @ Rocket Arena, 2025-11-06 00:00 UTC",121,132
+401810027,2025-11-06,Detroit Pistons,Utah Jazz,Little Caesars Arena,2025-11-06,00:00 UTC,"Utah Jazz vs Detroit Pistons @ Little Caesars Arena, 2025-11-06 00:00 UTC",103,114
+401810028,2025-11-06,Indiana Pacers,Brooklyn Nets,Gainbridge Fieldhouse,2025-11-06,00:00 UTC,"Brooklyn Nets vs Indiana Pacers @ Gainbridge Fieldhouse, 2025-11-06 00:00 UTC",112,103
+401810029,2025-11-06,Boston Celtics,Washington Wizards,TD Garden,2025-11-06,00:30 UTC,"Washington Wizards vs Boston Celtics @ TD Garden, 2025-11-06 00:30 UTC",107,136
+401810030,2025-11-06,New York Knicks,Minnesota Timberwolves,Madison Square Garden,2025-11-06,00:30 UTC,"Minnesota Timberwolves vs New York Knicks @ Madison Square Garden, 2025-11-06 00:30 UTC",114,137
+401810031,2025-11-06,Memphis Grizzlies,Houston Rockets,FedExForum,2025-11-06,01:00 UTC,"Houston Rockets vs Memphis Grizzlies @ FedExForum, 2025-11-06 01:00 UTC",124,109
+401810032,2025-11-06,Dallas Mavericks,New Orleans Pelicans,American Airlines Center,2025-11-06,01:30 UTC,"New Orleans Pelicans vs Dallas Mavericks @ American Airlines Center, 2025-11-06 01:30 UTC",101,99
+401810033,2025-11-06,Denver Nuggets,Miami Heat,Ball Arena,2025-11-06,02:00 UTC,"Miami Heat vs Denver Nuggets @ Ball Arena, 2025-11-06 02:00 UTC",112,122
+401810034,2025-11-06,Los Angeles Lakers,San Antonio Spurs,crypto.com Arena,2025-11-06,03:00 UTC,"San Antonio Spurs vs Los Angeles Lakers @ crypto.com Arena, 2025-11-06 03:00 UTC",116,118
+401810035,2025-11-06,Portland Trail Blazers,Oklahoma City Thunder,Moda Center,2025-11-06,03:00 UTC,"Oklahoma City Thunder vs Portland Trail Blazers @ Moda Center, 2025-11-06 03:00 UTC",119,121
+401810036,2025-11-06,Sacramento Kings,Golden State Warriors,Golden 1 Center,2025-11-06,03:00 UTC,"Golden State Warriors vs Sacramento Kings @ Golden 1 Center, 2025-11-06 03:00 UTC",116,121

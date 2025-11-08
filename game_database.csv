@@ -1080,3 +1080,14 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810035,2025-11-06,Portland Trail Blazers,Oklahoma City Thunder,Moda Center,2025-11-06,03:00 UTC,"Oklahoma City Thunder vs Portland Trail Blazers @ Moda Center, 2025-11-06 03:00 UTC",119,121
 401810036,2025-11-06,Sacramento Kings,Golden State Warriors,Golden 1 Center,2025-11-06,03:00 UTC,"Golden State Warriors vs Sacramento Kings @ Golden 1 Center, 2025-11-06 03:00 UTC",116,121
 401810037,2025-11-07,Phoenix Suns,LA Clippers,Mortgage Matchup Center,2025-11-07,02:00 UTC,"LA Clippers vs Phoenix Suns @ Mortgage Matchup Center, 2025-11-07 02:00 UTC",102,115
+401809510,2025-11-08,Orlando Magic,Boston Celtics,Kia Center,2025-11-08,00:00 UTC,"Boston Celtics vs Orlando Magic @ Kia Center, 2025-11-08 00:00 UTC",110,123
+401809511,2025-11-08,Washington Wizards,Cleveland Cavaliers,Capital One Arena,2025-11-08,00:00 UTC,"Cleveland Cavaliers vs Washington Wizards @ Capital One Arena, 2025-11-08 00:00 UTC",148,114
+401809512,2025-11-08,Atlanta Hawks,Toronto Raptors,State Farm Arena,2025-11-08,00:30 UTC,"Toronto Raptors vs Atlanta Hawks @ State Farm Arena, 2025-11-08 00:30 UTC",109,97
+401809773,2025-11-08,Brooklyn Nets,Detroit Pistons,Barclays Center,2025-11-08,00:30 UTC,"Detroit Pistons vs Brooklyn Nets @ Barclays Center, 2025-11-08 00:30 UTC",125,107
+401809774,2025-11-08,San Antonio Spurs,Houston Rockets,Frost Bank Center,2025-11-08,00:30 UTC,"Houston Rockets vs San Antonio Spurs @ Frost Bank Center, 2025-11-08 00:30 UTC",110,121
+401809775,2025-11-08,Miami Heat,Charlotte Hornets,Kaseya Center,2025-11-08,01:00 UTC,"Charlotte Hornets vs Miami Heat @ Kaseya Center, 2025-11-08 01:00 UTC",108,126
+401809776,2025-11-08,Memphis Grizzlies,Dallas Mavericks,FedExForum,2025-11-08,01:00 UTC,"Dallas Mavericks vs Memphis Grizzlies @ FedExForum, 2025-11-08 01:00 UTC",104,118
+401809777,2025-11-08,Milwaukee Bucks,Chicago Bulls,Fiserv Forum,2025-11-08,01:00 UTC,"Chicago Bulls vs Milwaukee Bucks @ Fiserv Forum, 2025-11-08 01:00 UTC",110,126
+401809778,2025-11-08,Minnesota Timberwolves,Utah Jazz,Target Center,2025-11-08,01:00 UTC,"Utah Jazz vs Minnesota Timberwolves @ Target Center, 2025-11-08 01:00 UTC",97,137
+401809779,2025-11-08,Denver Nuggets,Golden State Warriors,Ball Arena,2025-11-08,03:00 UTC,"Golden State Warriors vs Denver Nuggets @ Ball Arena, 2025-11-08 03:00 UTC",104,129
+401809780,2025-11-08,Sacramento Kings,Oklahoma City Thunder,Golden 1 Center,2025-11-08,03:00 UTC,"Oklahoma City Thunder vs Sacramento Kings @ Golden 1 Center, 2025-11-08 03:00 UTC",132,101

@@ -1091,3 +1091,11 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401809778,2025-11-08,Minnesota Timberwolves,Utah Jazz,Target Center,2025-11-08,01:00 UTC,"Utah Jazz vs Minnesota Timberwolves @ Target Center, 2025-11-08 01:00 UTC",97,137
 401809779,2025-11-08,Denver Nuggets,Golden State Warriors,Ball Arena,2025-11-08,03:00 UTC,"Golden State Warriors vs Denver Nuggets @ Ball Arena, 2025-11-08 03:00 UTC",104,129
 401809780,2025-11-08,Sacramento Kings,Oklahoma City Thunder,Golden 1 Center,2025-11-08,03:00 UTC,"Oklahoma City Thunder vs Sacramento Kings @ Golden 1 Center, 2025-11-08 03:00 UTC",132,101
+401810038,2025-11-09,Washington Wizards,Dallas Mavericks,Capital One Arena,2025-11-09,00:00 UTC,"Dallas Mavericks vs Washington Wizards @ Capital One Arena, 2025-11-09 00:00 UTC",111,105
+401810039,2025-11-09,Philadelphia 76ers,Toronto Raptors,Xfinity Mobile Arena,2025-11-09,00:30 UTC,"Toronto Raptors vs Philadelphia 76ers @ Xfinity Mobile Arena, 2025-11-09 00:30 UTC",120,130
+401810040,2025-11-09,Atlanta Hawks,Los Angeles Lakers,State Farm Arena,2025-11-09,01:00 UTC,"Los Angeles Lakers vs Atlanta Hawks @ State Farm Arena, 2025-11-09 01:00 UTC",102,122
+401810041,2025-11-09,Cleveland Cavaliers,Chicago Bulls,Rocket Arena,2025-11-09,01:00 UTC,"Chicago Bulls vs Cleveland Cavaliers @ Rocket Arena, 2025-11-09 01:00 UTC",122,128
+401810042,2025-11-09,Miami Heat,Portland Trail Blazers,Kaseya Center,2025-11-09,01:00 UTC,"Portland Trail Blazers vs Miami Heat @ Kaseya Center, 2025-11-09 01:00 UTC",131,136
+401810043,2025-11-09,San Antonio Spurs,New Orleans Pelicans,Frost Bank Center,2025-11-09,01:00 UTC,"New Orleans Pelicans vs San Antonio Spurs @ Frost Bank Center, 2025-11-09 01:00 UTC",119,126
+401810044,2025-11-09,Denver Nuggets,Indiana Pacers,Ball Arena,2025-11-09,02:00 UTC,"Indiana Pacers vs Denver Nuggets @ Ball Arena, 2025-11-09 02:00 UTC",100,117
+401810045,2025-11-09,LA Clippers,Phoenix Suns,Intuit Dome,2025-11-09,03:30 UTC,"Phoenix Suns vs LA Clippers @ Intuit Dome, 2025-11-09 03:30 UTC",114,103

@@ -1106,3 +1106,12 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810050,2025-11-10,Philadelphia 76ers,Detroit Pistons,Xfinity Mobile Arena,2025-11-10,00:30 UTC,"Detroit Pistons vs Philadelphia 76ers @ Xfinity Mobile Arena, 2025-11-10 00:30 UTC",111,108
 401810051,2025-11-10,Golden State Warriors,Indiana Pacers,Chase Center,2025-11-10,01:30 UTC,"Indiana Pacers vs Golden State Warriors @ Chase Center, 2025-11-10 01:30 UTC",83,114
 401810052,2025-11-10,Sacramento Kings,Minnesota Timberwolves,Golden 1 Center,2025-11-10,02:00 UTC,"Minnesota Timberwolves vs Sacramento Kings @ Golden 1 Center, 2025-11-10 02:00 UTC",144,117
+401810053,2025-11-11,Charlotte Hornets,Los Angeles Lakers,Spectrum Center,2025-11-11,00:00 UTC,"Los Angeles Lakers vs Charlotte Hornets @ Spectrum Center, 2025-11-11 00:00 UTC",121,111
+401810054,2025-11-11,Detroit Pistons,Washington Wizards,Little Caesars Arena,2025-11-11,00:00 UTC,"Washington Wizards vs Detroit Pistons @ Little Caesars Arena, 2025-11-11 00:00 UTC",135,137
+401810055,2025-11-11,Orlando Magic,Portland Trail Blazers,Kia Center,2025-11-11,00:00 UTC,"Portland Trail Blazers vs Orlando Magic @ Kia Center, 2025-11-11 00:00 UTC",112,115
+401810056,2025-11-11,Miami Heat,Cleveland Cavaliers,Kaseya Center,2025-11-11,00:30 UTC,"Cleveland Cavaliers vs Miami Heat @ Kaseya Center, 2025-11-11 00:30 UTC",138,140
+401810057,2025-11-11,Chicago Bulls,San Antonio Spurs,United Center,2025-11-11,01:00 UTC,"San Antonio Spurs vs Chicago Bulls @ United Center, 2025-11-11 01:00 UTC",121,117
+401810058,2025-11-11,Dallas Mavericks,Milwaukee Bucks,American Airlines Center,2025-11-11,01:30 UTC,"Milwaukee Bucks vs Dallas Mavericks @ American Airlines Center, 2025-11-11 01:30 UTC",116,114
+401810059,2025-11-11,Phoenix Suns,New Orleans Pelicans,Mortgage Matchup Center,2025-11-11,02:00 UTC,"New Orleans Pelicans vs Phoenix Suns @ Mortgage Matchup Center, 2025-11-11 02:00 UTC",98,121
+401810060,2025-11-11,Utah Jazz,Minnesota Timberwolves,Delta Center,2025-11-11,02:00 UTC,"Minnesota Timberwolves vs Utah Jazz @ Delta Center, 2025-11-11 02:00 UTC",120,113
+401810061,2025-11-11,LA Clippers,Atlanta Hawks,Intuit Dome,2025-11-11,03:30 UTC,"Atlanta Hawks vs LA Clippers @ Intuit Dome, 2025-11-11 03:30 UTC",105,102

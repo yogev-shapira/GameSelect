@@ -1115,3 +1115,9 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810059,2025-11-11,Phoenix Suns,New Orleans Pelicans,Mortgage Matchup Center,2025-11-11,02:00 UTC,"New Orleans Pelicans vs Phoenix Suns @ Mortgage Matchup Center, 2025-11-11 02:00 UTC",98,121
 401810060,2025-11-11,Utah Jazz,Minnesota Timberwolves,Delta Center,2025-11-11,02:00 UTC,"Minnesota Timberwolves vs Utah Jazz @ Delta Center, 2025-11-11 02:00 UTC",120,113
 401810061,2025-11-11,LA Clippers,Atlanta Hawks,Intuit Dome,2025-11-11,03:30 UTC,"Atlanta Hawks vs LA Clippers @ Intuit Dome, 2025-11-11 03:30 UTC",105,102
+401810062,2025-11-12,Brooklyn Nets,Toronto Raptors,Barclays Center,2025-11-12,00:30 UTC,"Toronto Raptors vs Brooklyn Nets @ Barclays Center, 2025-11-12 00:30 UTC",119,109
+401810063,2025-11-12,New York Knicks,Memphis Grizzlies,Madison Square Garden,2025-11-12,00:30 UTC,"Memphis Grizzlies vs New York Knicks @ Madison Square Garden, 2025-11-12 00:30 UTC",120,133
+401810064,2025-11-12,Philadelphia 76ers,Boston Celtics,Xfinity Mobile Arena,2025-11-12,01:00 UTC,"Boston Celtics vs Philadelphia 76ers @ Xfinity Mobile Arena, 2025-11-12 01:00 UTC",100,102
+401810065,2025-11-12,Oklahoma City Thunder,Golden State Warriors,Paycom Center,2025-11-12,01:00 UTC,"Golden State Warriors vs Oklahoma City Thunder @ Paycom Center, 2025-11-12 01:00 UTC",102,126
+401810066,2025-11-12,Utah Jazz,Indiana Pacers,Delta Center,2025-11-12,02:00 UTC,"Indiana Pacers vs Utah Jazz @ Delta Center, 2025-11-12 02:00 UTC",128,152
+401810067,2025-11-12,Sacramento Kings,Denver Nuggets,Golden 1 Center,2025-11-12,04:00 UTC,"Denver Nuggets vs Sacramento Kings @ Golden 1 Center, 2025-11-12 04:00 UTC",122,108

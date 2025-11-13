@@ -1121,3 +1121,15 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810065,2025-11-12,Oklahoma City Thunder,Golden State Warriors,Paycom Center,2025-11-12,01:00 UTC,"Golden State Warriors vs Oklahoma City Thunder @ Paycom Center, 2025-11-12 01:00 UTC",102,126
 401810066,2025-11-12,Utah Jazz,Indiana Pacers,Delta Center,2025-11-12,02:00 UTC,"Indiana Pacers vs Utah Jazz @ Delta Center, 2025-11-12 02:00 UTC",128,152
 401810067,2025-11-12,Sacramento Kings,Denver Nuggets,Golden 1 Center,2025-11-12,04:00 UTC,"Denver Nuggets vs Sacramento Kings @ Golden 1 Center, 2025-11-12 04:00 UTC",122,108
+401810068,2025-11-13,Charlotte Hornets,Milwaukee Bucks,Spectrum Center,2025-11-13,00:00 UTC,"Milwaukee Bucks vs Charlotte Hornets @ Spectrum Center, 2025-11-13 00:00 UTC",100,111
+401810069,2025-11-13,Detroit Pistons,Chicago Bulls,Little Caesars Arena,2025-11-13,00:00 UTC,"Chicago Bulls vs Detroit Pistons @ Little Caesars Arena, 2025-11-13 00:00 UTC",113,124
+401810070,2025-11-13,New York Knicks,Orlando Magic,Madison Square Garden,2025-11-13,00:00 UTC,"Orlando Magic vs New York Knicks @ Madison Square Garden, 2025-11-13 00:00 UTC",124,107
+401810071,2025-11-13,Boston Celtics,Memphis Grizzlies,TD Garden,2025-11-13,00:30 UTC,"Memphis Grizzlies vs Boston Celtics @ TD Garden, 2025-11-13 00:30 UTC",95,131
+401810072,2025-11-13,Miami Heat,Cleveland Cavaliers,Kaseya Center,2025-11-13,00:30 UTC,"Cleveland Cavaliers vs Miami Heat @ Kaseya Center, 2025-11-13 00:30 UTC",130,116
+401810073,2025-11-13,Houston Rockets,Washington Wizards,Toyota Center (Houston),2025-11-13,01:00 UTC,"Washington Wizards vs Houston Rockets @ Toyota Center (Houston), 2025-11-13 01:00 UTC",112,135
+401810074,2025-11-13,New Orleans Pelicans,Portland Trail Blazers,Smoothie King Center,2025-11-13,01:00 UTC,"Portland Trail Blazers vs New Orleans Pelicans @ Smoothie King Center, 2025-11-13 01:00 UTC",125,117
+401810075,2025-11-13,San Antonio Spurs,Golden State Warriors,Frost Bank Center,2025-11-13,01:00 UTC,"Golden State Warriors vs San Antonio Spurs @ Frost Bank Center, 2025-11-13 01:00 UTC",125,120
+401810076,2025-11-13,Dallas Mavericks,Phoenix Suns,American Airlines Center,2025-11-13,01:30 UTC,"Phoenix Suns vs Dallas Mavericks @ American Airlines Center, 2025-11-13 01:30 UTC",123,114
+401810077,2025-11-13,Oklahoma City Thunder,Los Angeles Lakers,Paycom Center,2025-11-13,02:47 UTC,"Los Angeles Lakers vs Oklahoma City Thunder @ Paycom Center, 2025-11-13 02:47 UTC",92,121
+401810078,2025-11-13,Sacramento Kings,Atlanta Hawks,Golden 1 Center,2025-11-13,03:00 UTC,"Atlanta Hawks vs Sacramento Kings @ Golden 1 Center, 2025-11-13 03:00 UTC",133,100
+401810079,2025-11-13,LA Clippers,Denver Nuggets,Intuit Dome,2025-11-13,03:30 UTC,"Denver Nuggets vs LA Clippers @ Intuit Dome, 2025-11-13 03:30 UTC",130,116

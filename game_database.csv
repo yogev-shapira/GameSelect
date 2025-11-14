@@ -1133,3 +1133,6 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810077,2025-11-13,Oklahoma City Thunder,Los Angeles Lakers,Paycom Center,2025-11-13,02:47 UTC,"Los Angeles Lakers vs Oklahoma City Thunder @ Paycom Center, 2025-11-13 02:47 UTC",92,121
 401810078,2025-11-13,Sacramento Kings,Atlanta Hawks,Golden 1 Center,2025-11-13,03:00 UTC,"Atlanta Hawks vs Sacramento Kings @ Golden 1 Center, 2025-11-13 03:00 UTC",133,100
 401810079,2025-11-13,LA Clippers,Denver Nuggets,Intuit Dome,2025-11-13,03:30 UTC,"Denver Nuggets vs LA Clippers @ Intuit Dome, 2025-11-13 03:30 UTC",130,116
+401810080,2025-11-14,Cleveland Cavaliers,Toronto Raptors,Rocket Arena,2025-11-14,00:00 UTC,"Toronto Raptors vs Cleveland Cavaliers @ Rocket Arena, 2025-11-14 00:00 UTC",126,113
+401810081,2025-11-14,Phoenix Suns,Indiana Pacers,Mortgage Matchup Center,2025-11-14,02:00 UTC,"Indiana Pacers vs Phoenix Suns @ Mortgage Matchup Center, 2025-11-14 02:00 UTC",98,133
+401810082,2025-11-14,Utah Jazz,Atlanta Hawks,Delta Center,2025-11-14,02:00 UTC,"Atlanta Hawks vs Utah Jazz @ Delta Center, 2025-11-14 02:00 UTC",132,122

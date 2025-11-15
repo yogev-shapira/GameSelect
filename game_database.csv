@@ -1136,3 +1136,12 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810080,2025-11-14,Cleveland Cavaliers,Toronto Raptors,Rocket Arena,2025-11-14,00:00 UTC,"Toronto Raptors vs Cleveland Cavaliers @ Rocket Arena, 2025-11-14 00:00 UTC",126,113
 401810081,2025-11-14,Phoenix Suns,Indiana Pacers,Mortgage Matchup Center,2025-11-14,02:00 UTC,"Indiana Pacers vs Phoenix Suns @ Mortgage Matchup Center, 2025-11-14 02:00 UTC",98,133
 401810082,2025-11-14,Utah Jazz,Atlanta Hawks,Delta Center,2025-11-14,02:00 UTC,"Atlanta Hawks vs Utah Jazz @ Delta Center, 2025-11-14 02:00 UTC",132,122
+401809781,2025-11-15,New York Knicks,Miami Heat,Madison Square Garden,2025-11-15,00:00 UTC,"Miami Heat vs New York Knicks @ Madison Square Garden, 2025-11-15 00:00 UTC",132,140
+401809782,2025-11-15,Orlando Magic,Brooklyn Nets,Kia Center,2025-11-15,00:00 UTC,"Brooklyn Nets vs Orlando Magic @ Kia Center, 2025-11-15 00:00 UTC",98,105
+401809783,2025-11-15,Detroit Pistons,Philadelphia 76ers,Little Caesars Arena,2025-11-15,00:30 UTC,"Philadelphia 76ers vs Detroit Pistons @ Little Caesars Arena, 2025-11-15 00:30 UTC",105,114
+401809784,2025-11-15,Houston Rockets,Portland Trail Blazers,Toyota Center (Houston),2025-11-15,01:00 UTC,"Portland Trail Blazers vs Houston Rockets @ Toyota Center (Houston), 2025-11-15 01:00 UTC",116,140
+401809785,2025-11-15,Milwaukee Bucks,Charlotte Hornets,Fiserv Forum,2025-11-15,01:00 UTC,"Charlotte Hornets vs Milwaukee Bucks @ Fiserv Forum, 2025-11-15 01:00 UTC",134,147
+401809786,2025-11-15,Minnesota Timberwolves,Sacramento Kings,Target Center,2025-11-15,01:00 UTC,"Sacramento Kings vs Minnesota Timberwolves @ Target Center, 2025-11-15 01:00 UTC",110,124
+401809787,2025-11-15,New Orleans Pelicans,Los Angeles Lakers,Smoothie King Center,2025-11-15,01:00 UTC,"Los Angeles Lakers vs New Orleans Pelicans @ Smoothie King Center, 2025-11-15 01:00 UTC",118,104
+401809788,2025-11-15,Dallas Mavericks,LA Clippers,American Airlines Center,2025-11-15,01:30 UTC,"LA Clippers vs Dallas Mavericks @ American Airlines Center, 2025-11-15 01:30 UTC",133,127
+401809789,2025-11-15,San Antonio Spurs,Golden State Warriors,Frost Bank Center,2025-11-15,02:30 UTC,"Golden State Warriors vs San Antonio Spurs @ Frost Bank Center, 2025-11-15 02:30 UTC",109,108

@@ -1145,3 +1145,8 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401809787,2025-11-15,New Orleans Pelicans,Los Angeles Lakers,Smoothie King Center,2025-11-15,01:00 UTC,"Los Angeles Lakers vs New Orleans Pelicans @ Smoothie King Center, 2025-11-15 01:00 UTC",118,104
 401809788,2025-11-15,Dallas Mavericks,LA Clippers,American Airlines Center,2025-11-15,01:30 UTC,"LA Clippers vs Dallas Mavericks @ American Airlines Center, 2025-11-15 01:30 UTC",133,127
 401809789,2025-11-15,San Antonio Spurs,Golden State Warriors,Frost Bank Center,2025-11-15,02:30 UTC,"Golden State Warriors vs San Antonio Spurs @ Frost Bank Center, 2025-11-15 02:30 UTC",109,108
+401810083,2025-11-15,Cleveland Cavaliers,Memphis Grizzlies,Rocket Arena,2025-11-15,22:00 UTC,"Memphis Grizzlies vs Cleveland Cavaliers @ Rocket Arena, 2025-11-15 22:00 UTC",100,108
+401810084,2025-11-16,Charlotte Hornets,Oklahoma City Thunder,Spectrum Center,2025-11-16,00:00 UTC,"Oklahoma City Thunder vs Charlotte Hornets @ Spectrum Center, 2025-11-16 00:00 UTC",109,96
+401810085,2025-11-16,Indiana Pacers,Toronto Raptors,Gainbridge Fieldhouse,2025-11-16,00:00 UTC,"Toronto Raptors vs Indiana Pacers @ Gainbridge Fieldhouse, 2025-11-16 00:00 UTC",129,111
+401810086,2025-11-16,Milwaukee Bucks,Los Angeles Lakers,Fiserv Forum,2025-11-16,01:00 UTC,"Los Angeles Lakers vs Milwaukee Bucks @ Fiserv Forum, 2025-11-16 01:00 UTC",119,95
+401810087,2025-11-16,Minnesota Timberwolves,Denver Nuggets,Target Center,2025-11-16,01:00 UTC,"Denver Nuggets vs Minnesota Timberwolves @ Target Center, 2025-11-16 01:00 UTC",123,112

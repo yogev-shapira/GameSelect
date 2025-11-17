@@ -1150,3 +1150,11 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810085,2025-11-16,Indiana Pacers,Toronto Raptors,Gainbridge Fieldhouse,2025-11-16,00:00 UTC,"Toronto Raptors vs Indiana Pacers @ Gainbridge Fieldhouse, 2025-11-16 00:00 UTC",129,111
 401810086,2025-11-16,Milwaukee Bucks,Los Angeles Lakers,Fiserv Forum,2025-11-16,01:00 UTC,"Los Angeles Lakers vs Milwaukee Bucks @ Fiserv Forum, 2025-11-16 01:00 UTC",119,95
 401810087,2025-11-16,Minnesota Timberwolves,Denver Nuggets,Target Center,2025-11-16,01:00 UTC,"Denver Nuggets vs Minnesota Timberwolves @ Target Center, 2025-11-16 01:00 UTC",123,112
+401810088,2025-11-16,Boston Celtics,LA Clippers,TD Garden,2025-11-16,20:30 UTC,"LA Clippers vs Boston Celtics @ TD Garden, 2025-11-16 20:30 UTC",118,121
+401810089,2025-11-16,San Antonio Spurs,Sacramento Kings,Frost Bank Center,2025-11-16,21:00 UTC,"Sacramento Kings vs San Antonio Spurs @ Frost Bank Center, 2025-11-16 21:00 UTC",110,123
+401810090,2025-11-16,Washington Wizards,Brooklyn Nets,Capital One Arena,2025-11-16,23:00 UTC,"Brooklyn Nets vs Washington Wizards @ Capital One Arena, 2025-11-16 23:00 UTC",129,106
+401810091,2025-11-17,Houston Rockets,Orlando Magic,Toyota Center (Houston),2025-11-17,00:00 UTC,"Orlando Magic vs Houston Rockets @ Toyota Center (Houston), 2025-11-17 00:00 UTC",113,117
+401810092,2025-11-17,New Orleans Pelicans,Golden State Warriors,Smoothie King Center,2025-11-17,00:00 UTC,"Golden State Warriors vs New Orleans Pelicans @ Smoothie King Center, 2025-11-17 00:00 UTC",124,106
+401810093,2025-11-17,Dallas Mavericks,Portland Trail Blazers,American Airlines Center,2025-11-17,00:30 UTC,"Portland Trail Blazers vs Dallas Mavericks @ American Airlines Center, 2025-11-17 00:30 UTC",133,138
+401810094,2025-11-17,Phoenix Suns,Atlanta Hawks,Mortgage Matchup Center,2025-11-17,01:00 UTC,"Atlanta Hawks vs Phoenix Suns @ Mortgage Matchup Center, 2025-11-17 01:00 UTC",124,122
+401810095,2025-11-17,Utah Jazz,Chicago Bulls,Delta Center,2025-11-17,01:00 UTC,"Chicago Bulls vs Utah Jazz @ Delta Center, 2025-11-17 01:00 UTC",147,150

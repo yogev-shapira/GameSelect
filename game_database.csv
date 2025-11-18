@@ -1158,3 +1158,11 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810093,2025-11-17,Dallas Mavericks,Portland Trail Blazers,American Airlines Center,2025-11-17,00:30 UTC,"Portland Trail Blazers vs Dallas Mavericks @ American Airlines Center, 2025-11-17 00:30 UTC",133,138
 401810094,2025-11-17,Phoenix Suns,Atlanta Hawks,Mortgage Matchup Center,2025-11-17,01:00 UTC,"Atlanta Hawks vs Phoenix Suns @ Mortgage Matchup Center, 2025-11-17 01:00 UTC",124,122
 401810095,2025-11-17,Utah Jazz,Chicago Bulls,Delta Center,2025-11-17,01:00 UTC,"Chicago Bulls vs Utah Jazz @ Delta Center, 2025-11-17 01:00 UTC",147,150
+401810096,2025-11-18,Cleveland Cavaliers,Milwaukee Bucks,Rocket Arena,2025-11-18,00:00 UTC,"Milwaukee Bucks vs Cleveland Cavaliers @ Rocket Arena, 2025-11-18 00:00 UTC",106,118
+401810097,2025-11-18,Detroit Pistons,Indiana Pacers,Little Caesars Arena,2025-11-18,00:00 UTC,"Indiana Pacers vs Detroit Pistons @ Little Caesars Arena, 2025-11-18 00:00 UTC",112,127
+401810098,2025-11-18,Philadelphia 76ers,LA Clippers,Xfinity Mobile Arena,2025-11-18,00:00 UTC,"LA Clippers vs Philadelphia 76ers @ Xfinity Mobile Arena, 2025-11-18 00:00 UTC",108,110
+401810099,2025-11-18,Miami Heat,New York Knicks,Kaseya Center,2025-11-18,00:30 UTC,"New York Knicks vs Miami Heat @ Kaseya Center, 2025-11-18 00:30 UTC",113,115
+401810100,2025-11-18,Toronto Raptors,Charlotte Hornets,Scotiabank Arena,2025-11-18,00:30 UTC,"Charlotte Hornets vs Toronto Raptors @ Scotiabank Arena, 2025-11-18 00:30 UTC",108,110
+401810101,2025-11-18,Minnesota Timberwolves,Dallas Mavericks,Target Center,2025-11-18,01:00 UTC,"Dallas Mavericks vs Minnesota Timberwolves @ Target Center, 2025-11-18 01:00 UTC",96,120
+401810102,2025-11-18,New Orleans Pelicans,Oklahoma City Thunder,Smoothie King Center,2025-11-18,01:00 UTC,"Oklahoma City Thunder vs New Orleans Pelicans @ Smoothie King Center, 2025-11-18 01:00 UTC",120,109
+401810103,2025-11-18,Denver Nuggets,Chicago Bulls,Ball Arena,2025-11-18,02:00 UTC,"Chicago Bulls vs Denver Nuggets @ Ball Arena, 2025-11-18 02:00 UTC",130,127

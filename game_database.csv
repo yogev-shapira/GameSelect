@@ -1166,3 +1166,9 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810101,2025-11-18,Minnesota Timberwolves,Dallas Mavericks,Target Center,2025-11-18,01:00 UTC,"Dallas Mavericks vs Minnesota Timberwolves @ Target Center, 2025-11-18 01:00 UTC",96,120
 401810102,2025-11-18,New Orleans Pelicans,Oklahoma City Thunder,Smoothie King Center,2025-11-18,01:00 UTC,"Oklahoma City Thunder vs New Orleans Pelicans @ Smoothie King Center, 2025-11-18 01:00 UTC",120,109
 401810103,2025-11-18,Denver Nuggets,Chicago Bulls,Ball Arena,2025-11-18,02:00 UTC,"Chicago Bulls vs Denver Nuggets @ Ball Arena, 2025-11-18 02:00 UTC",130,127
+401810104,2025-11-19,Orlando Magic,Golden State Warriors,Kia Center,2025-11-19,00:00 UTC,"Golden State Warriors vs Orlando Magic @ Kia Center, 2025-11-19 00:00 UTC",113,121
+401810105,2025-11-19,Brooklyn Nets,Boston Celtics,Barclays Center,2025-11-19,00:30 UTC,"Boston Celtics vs Brooklyn Nets @ Barclays Center, 2025-11-19 00:30 UTC",113,99
+401810106,2025-11-19,Atlanta Hawks,Detroit Pistons,State Farm Arena,2025-11-19,00:30 UTC,"Detroit Pistons vs Atlanta Hawks @ State Farm Arena, 2025-11-19 00:30 UTC",120,112
+401810107,2025-11-19,San Antonio Spurs,Memphis Grizzlies,Frost Bank Center,2025-11-19,01:00 UTC,"Memphis Grizzlies vs San Antonio Spurs @ Frost Bank Center, 2025-11-19 01:00 UTC",101,111
+401810108,2025-11-19,Los Angeles Lakers,Utah Jazz,crypto.com Arena,2025-11-19,03:30 UTC,"Utah Jazz vs Los Angeles Lakers @ crypto.com Arena, 2025-11-19 03:30 UTC",126,140
+401810109,2025-11-19,Portland Trail Blazers,Phoenix Suns,Moda Center,2025-11-19,04:00 UTC,"Phoenix Suns vs Portland Trail Blazers @ Moda Center, 2025-11-19 04:00 UTC",127,110

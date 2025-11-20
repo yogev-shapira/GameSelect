@@ -1172,3 +1172,12 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810107,2025-11-19,San Antonio Spurs,Memphis Grizzlies,Frost Bank Center,2025-11-19,01:00 UTC,"Memphis Grizzlies vs San Antonio Spurs @ Frost Bank Center, 2025-11-19 01:00 UTC",101,111
 401810108,2025-11-19,Los Angeles Lakers,Utah Jazz,crypto.com Arena,2025-11-19,03:30 UTC,"Utah Jazz vs Los Angeles Lakers @ crypto.com Arena, 2025-11-19 03:30 UTC",126,140
 401810109,2025-11-19,Portland Trail Blazers,Phoenix Suns,Moda Center,2025-11-19,04:00 UTC,"Phoenix Suns vs Portland Trail Blazers @ Moda Center, 2025-11-19 04:00 UTC",127,110
+401810110,2025-11-20,Cleveland Cavaliers,Houston Rockets,Rocket Arena,2025-11-20,00:00 UTC,"Houston Rockets vs Cleveland Cavaliers @ Rocket Arena, 2025-11-20 00:00 UTC",114,104
+401810111,2025-11-20,Indiana Pacers,Charlotte Hornets,Gainbridge Fieldhouse,2025-11-20,00:00 UTC,"Charlotte Hornets vs Indiana Pacers @ Gainbridge Fieldhouse, 2025-11-20 00:00 UTC",118,127
+401810113,2025-11-20,Philadelphia 76ers,Toronto Raptors,Xfinity Mobile Arena,2025-11-20,00:00 UTC,"Toronto Raptors vs Philadelphia 76ers @ Xfinity Mobile Arena, 2025-11-20 00:00 UTC",121,112
+401810112,2025-11-20,Miami Heat,Golden State Warriors,Kaseya Center,2025-11-20,00:30 UTC,"Golden State Warriors vs Miami Heat @ Kaseya Center, 2025-11-20 00:30 UTC",96,110
+401810114,2025-11-20,Minnesota Timberwolves,Washington Wizards,Target Center,2025-11-20,01:00 UTC,"Washington Wizards vs Minnesota Timberwolves @ Target Center, 2025-11-20 01:00 UTC",109,120
+401810115,2025-11-20,New Orleans Pelicans,Denver Nuggets,Smoothie King Center,2025-11-20,01:00 UTC,"Denver Nuggets vs New Orleans Pelicans @ Smoothie King Center, 2025-11-20 01:00 UTC",125,118
+401810116,2025-11-20,Oklahoma City Thunder,Sacramento Kings,Paycom Center,2025-11-20,01:00 UTC,"Sacramento Kings vs Oklahoma City Thunder @ Paycom Center, 2025-11-20 01:00 UTC",99,113
+401810117,2025-11-20,Dallas Mavericks,New York Knicks,American Airlines Center,2025-11-20,02:30 UTC,"New York Knicks vs Dallas Mavericks @ American Airlines Center, 2025-11-20 02:30 UTC",113,111
+401810118,2025-11-20,Portland Trail Blazers,Chicago Bulls,Moda Center,2025-11-20,03:00 UTC,"Chicago Bulls vs Portland Trail Blazers @ Moda Center, 2025-11-20 03:00 UTC",122,121

@@ -1181,3 +1181,7 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810116,2025-11-20,Oklahoma City Thunder,Sacramento Kings,Paycom Center,2025-11-20,01:00 UTC,"Sacramento Kings vs Oklahoma City Thunder @ Paycom Center, 2025-11-20 01:00 UTC",99,113
 401810117,2025-11-20,Dallas Mavericks,New York Knicks,American Airlines Center,2025-11-20,02:30 UTC,"New York Knicks vs Dallas Mavericks @ American Airlines Center, 2025-11-20 02:30 UTC",113,111
 401810118,2025-11-20,Portland Trail Blazers,Chicago Bulls,Moda Center,2025-11-20,03:00 UTC,"Chicago Bulls vs Portland Trail Blazers @ Moda Center, 2025-11-20 03:00 UTC",122,121
+401810119,2025-11-21,Orlando Magic,LA Clippers,Kia Center,2025-11-21,00:00 UTC,"LA Clippers vs Orlando Magic @ Kia Center, 2025-11-21 00:00 UTC",101,129
+401810120,2025-11-21,Memphis Grizzlies,Sacramento Kings,FedExForum,2025-11-21,01:00 UTC,"Sacramento Kings vs Memphis Grizzlies @ FedExForum, 2025-11-21 01:00 UTC",96,137
+401810121,2025-11-21,Milwaukee Bucks,Philadelphia 76ers,Fiserv Forum,2025-11-21,01:00 UTC,"Philadelphia 76ers vs Milwaukee Bucks @ Fiserv Forum, 2025-11-21 01:00 UTC",123,114
+401810122,2025-11-21,San Antonio Spurs,Atlanta Hawks,Frost Bank Center,2025-11-21,01:00 UTC,"Atlanta Hawks vs San Antonio Spurs @ Frost Bank Center, 2025-11-21 01:00 UTC",126,135

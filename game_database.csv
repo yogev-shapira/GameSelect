@@ -1185,3 +1185,12 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810120,2025-11-21,Memphis Grizzlies,Sacramento Kings,FedExForum,2025-11-21,01:00 UTC,"Sacramento Kings vs Memphis Grizzlies @ FedExForum, 2025-11-21 01:00 UTC",96,137
 401810121,2025-11-21,Milwaukee Bucks,Philadelphia 76ers,Fiserv Forum,2025-11-21,01:00 UTC,"Philadelphia 76ers vs Milwaukee Bucks @ Fiserv Forum, 2025-11-21 01:00 UTC",123,114
 401810122,2025-11-21,San Antonio Spurs,Atlanta Hawks,Frost Bank Center,2025-11-21,01:00 UTC,"Atlanta Hawks vs San Antonio Spurs @ Frost Bank Center, 2025-11-21 01:00 UTC",126,135
+401809790,2025-11-22,Cleveland Cavaliers,Indiana Pacers,Rocket Arena,2025-11-22,00:00 UTC,"Indiana Pacers vs Cleveland Cavaliers @ Rocket Arena, 2025-11-22 00:00 UTC",109,120
+401809791,2025-11-22,Boston Celtics,Brooklyn Nets,TD Garden,2025-11-22,00:30 UTC,"Brooklyn Nets vs Boston Celtics @ TD Garden, 2025-11-22 00:30 UTC",113,105
+401809792,2025-11-22,Toronto Raptors,Washington Wizards,Scotiabank Arena,2025-11-22,00:30 UTC,"Washington Wizards vs Toronto Raptors @ Scotiabank Arena, 2025-11-22 00:30 UTC",110,140
+401809793,2025-11-22,Chicago Bulls,Miami Heat,United Center,2025-11-22,01:00 UTC,"Miami Heat vs Chicago Bulls @ United Center, 2025-11-22 01:00 UTC",143,107
+401809794,2025-11-22,Dallas Mavericks,New Orleans Pelicans,American Airlines Center,2025-11-22,01:30 UTC,"New Orleans Pelicans vs Dallas Mavericks @ American Airlines Center, 2025-11-22 01:30 UTC",115,118
+401809795,2025-11-22,Phoenix Suns,Minnesota Timberwolves,Mortgage Matchup Center,2025-11-22,02:00 UTC,"Minnesota Timberwolves vs Phoenix Suns @ Mortgage Matchup Center, 2025-11-22 02:00 UTC",113,114
+401809796,2025-11-22,Houston Rockets,Denver Nuggets,Toyota Center (Houston),2025-11-22,02:30 UTC,"Denver Nuggets vs Houston Rockets @ Toyota Center (Houston), 2025-11-22 02:30 UTC",112,109
+401809797,2025-11-22,Utah Jazz,Oklahoma City Thunder,Delta Center,2025-11-22,03:00 UTC,"Oklahoma City Thunder vs Utah Jazz @ Delta Center, 2025-11-22 03:00 UTC",144,112
+401809798,2025-11-22,Golden State Warriors,Portland Trail Blazers,Chase Center,2025-11-22,03:00 UTC,"Portland Trail Blazers vs Golden State Warriors @ Chase Center, 2025-11-22 03:00 UTC",127,123

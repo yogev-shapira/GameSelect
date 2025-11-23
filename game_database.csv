@@ -1194,3 +1194,10 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401809796,2025-11-22,Houston Rockets,Denver Nuggets,Toyota Center (Houston),2025-11-22,02:30 UTC,"Denver Nuggets vs Houston Rockets @ Toyota Center (Houston), 2025-11-22 02:30 UTC",112,109
 401809797,2025-11-22,Utah Jazz,Oklahoma City Thunder,Delta Center,2025-11-22,03:00 UTC,"Oklahoma City Thunder vs Utah Jazz @ Delta Center, 2025-11-22 03:00 UTC",144,112
 401809798,2025-11-22,Golden State Warriors,Portland Trail Blazers,Chase Center,2025-11-22,03:00 UTC,"Portland Trail Blazers vs Golden State Warriors @ Chase Center, 2025-11-22 03:00 UTC",127,123
+401810123,2025-11-22,Charlotte Hornets,LA Clippers,Spectrum Center,2025-11-22,18:00 UTC,"LA Clippers vs Charlotte Hornets @ Spectrum Center, 2025-11-22 18:00 UTC",131,116
+401810124,2025-11-22,Orlando Magic,New York Knicks,Kia Center,2025-11-22,22:00 UTC,"New York Knicks vs Orlando Magic @ Kia Center, 2025-11-22 22:00 UTC",121,133
+401810125,2025-11-23,New Orleans Pelicans,Atlanta Hawks,Smoothie King Center,2025-11-23,00:00 UTC,"Atlanta Hawks vs New Orleans Pelicans @ Smoothie King Center, 2025-11-23 00:00 UTC",115,98
+401810126,2025-11-23,Chicago Bulls,Washington Wizards,United Center,2025-11-23,01:00 UTC,"Washington Wizards vs Chicago Bulls @ United Center, 2025-11-23 01:00 UTC",120,121
+401810127,2025-11-23,Milwaukee Bucks,Detroit Pistons,Fiserv Forum,2025-11-23,01:00 UTC,"Detroit Pistons vs Milwaukee Bucks @ Fiserv Forum, 2025-11-23 01:00 UTC",129,116
+401810128,2025-11-23,Dallas Mavericks,Memphis Grizzlies,American Airlines Center,2025-11-23,01:30 UTC,"Memphis Grizzlies vs Dallas Mavericks @ American Airlines Center, 2025-11-23 01:30 UTC",102,96
+401810129,2025-11-23,Denver Nuggets,Sacramento Kings,Ball Arena,2025-11-23,03:00 UTC,"Sacramento Kings vs Denver Nuggets @ Ball Arena, 2025-11-23 03:00 UTC",128,123

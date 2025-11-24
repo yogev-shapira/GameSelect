@@ -1201,3 +1201,11 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810127,2025-11-23,Milwaukee Bucks,Detroit Pistons,Fiserv Forum,2025-11-23,01:00 UTC,"Detroit Pistons vs Milwaukee Bucks @ Fiserv Forum, 2025-11-23 01:00 UTC",129,116
 401810128,2025-11-23,Dallas Mavericks,Memphis Grizzlies,American Airlines Center,2025-11-23,01:30 UTC,"Memphis Grizzlies vs Dallas Mavericks @ American Airlines Center, 2025-11-23 01:30 UTC",102,96
 401810129,2025-11-23,Denver Nuggets,Sacramento Kings,Ball Arena,2025-11-23,03:00 UTC,"Sacramento Kings vs Denver Nuggets @ Ball Arena, 2025-11-23 03:00 UTC",128,123
+401810130,2025-11-23,Philadelphia 76ers,Miami Heat,Xfinity Mobile Arena,2025-11-23,18:00 UTC,"Miami Heat vs Philadelphia 76ers @ Xfinity Mobile Arena, 2025-11-23 18:00 UTC",127,117
+401810131,2025-11-23,Atlanta Hawks,Charlotte Hornets,State Farm Arena,2025-11-23,23:00 UTC,"Charlotte Hornets vs Atlanta Hawks @ State Farm Arena, 2025-11-23 23:00 UTC",110,113
+401810132,2025-11-23,Boston Celtics,Orlando Magic,TD Garden,2025-11-23,23:00 UTC,"Orlando Magic vs Boston Celtics @ TD Garden, 2025-11-23 23:00 UTC",129,138
+401810133,2025-11-23,Cleveland Cavaliers,LA Clippers,Rocket Arena,2025-11-23,23:00 UTC,"LA Clippers vs Cleveland Cavaliers @ Rocket Arena, 2025-11-23 23:00 UTC",105,120
+401810134,2025-11-23,Toronto Raptors,Brooklyn Nets,Scotiabank Arena,2025-11-23,23:00 UTC,"Brooklyn Nets vs Toronto Raptors @ Scotiabank Arena, 2025-11-23 23:00 UTC",109,119
+401810135,2025-11-24,Oklahoma City Thunder,Portland Trail Blazers,Paycom Center,2025-11-24,00:00 UTC,"Portland Trail Blazers vs Oklahoma City Thunder @ Paycom Center, 2025-11-24 00:00 UTC",95,122
+401810136,2025-11-24,Phoenix Suns,San Antonio Spurs,Mortgage Matchup Center,2025-11-24,01:00 UTC,"San Antonio Spurs vs Phoenix Suns @ Mortgage Matchup Center, 2025-11-24 01:00 UTC",102,111
+401810137,2025-11-24,Utah Jazz,Los Angeles Lakers,Delta Center,2025-11-24,01:00 UTC,"Los Angeles Lakers vs Utah Jazz @ Delta Center, 2025-11-24 01:00 UTC",108,106

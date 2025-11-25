@@ -1209,3 +1209,13 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810135,2025-11-24,Oklahoma City Thunder,Portland Trail Blazers,Paycom Center,2025-11-24,00:00 UTC,"Portland Trail Blazers vs Oklahoma City Thunder @ Paycom Center, 2025-11-24 00:00 UTC",95,122
 401810136,2025-11-24,Phoenix Suns,San Antonio Spurs,Mortgage Matchup Center,2025-11-24,01:00 UTC,"San Antonio Spurs vs Phoenix Suns @ Mortgage Matchup Center, 2025-11-24 01:00 UTC",102,111
 401810137,2025-11-24,Utah Jazz,Los Angeles Lakers,Delta Center,2025-11-24,01:00 UTC,"Los Angeles Lakers vs Utah Jazz @ Delta Center, 2025-11-24 01:00 UTC",108,106
+401810138,2025-11-25,Indiana Pacers,Detroit Pistons,Gainbridge Fieldhouse,2025-11-25,00:00 UTC,"Detroit Pistons vs Indiana Pacers @ Gainbridge Fieldhouse, 2025-11-25 00:00 UTC",122,117
+401810139,2025-11-25,Toronto Raptors,Cleveland Cavaliers,Scotiabank Arena,2025-11-25,00:00 UTC,"Cleveland Cavaliers vs Toronto Raptors @ Scotiabank Arena, 2025-11-25 00:00 UTC",99,110
+401810140,2025-11-25,Brooklyn Nets,New York Knicks,Barclays Center,2025-11-25,00:30 UTC,"New York Knicks vs Brooklyn Nets @ Barclays Center, 2025-11-25 00:30 UTC",113,100
+401810141,2025-11-25,Miami Heat,Dallas Mavericks,Kaseya Center,2025-11-25,00:30 UTC,"Dallas Mavericks vs Miami Heat @ Kaseya Center, 2025-11-25 00:30 UTC",102,106
+401810142,2025-11-25,Memphis Grizzlies,Denver Nuggets,FedExForum,2025-11-25,01:00 UTC,"Denver Nuggets vs Memphis Grizzlies @ FedExForum, 2025-11-25 01:00 UTC",125,115
+401810143,2025-11-25,Milwaukee Bucks,Portland Trail Blazers,Fiserv Forum,2025-11-25,01:00 UTC,"Portland Trail Blazers vs Milwaukee Bucks @ Fiserv Forum, 2025-11-25 01:00 UTC",115,103
+401810144,2025-11-25,New Orleans Pelicans,Chicago Bulls,Smoothie King Center,2025-11-25,01:00 UTC,"Chicago Bulls vs New Orleans Pelicans @ Smoothie King Center, 2025-11-25 01:00 UTC",130,143
+401810145,2025-11-25,Phoenix Suns,Houston Rockets,Mortgage Matchup Center,2025-11-25,02:30 UTC,"Houston Rockets vs Phoenix Suns @ Mortgage Matchup Center, 2025-11-25 02:30 UTC",114,92
+401810146,2025-11-25,Golden State Warriors,Utah Jazz,Chase Center,2025-11-25,03:00 UTC,"Utah Jazz vs Golden State Warriors @ Chase Center, 2025-11-25 03:00 UTC",117,134
+401810147,2025-11-25,Sacramento Kings,Minnesota Timberwolves,Golden 1 Center,2025-11-25,03:00 UTC,"Minnesota Timberwolves vs Sacramento Kings @ Golden 1 Center, 2025-11-25 03:00 UTC",112,117

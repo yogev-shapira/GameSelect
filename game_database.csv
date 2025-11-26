@@ -1219,3 +1219,6 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810145,2025-11-25,Phoenix Suns,Houston Rockets,Mortgage Matchup Center,2025-11-25,02:30 UTC,"Houston Rockets vs Phoenix Suns @ Mortgage Matchup Center, 2025-11-25 02:30 UTC",114,92
 401810146,2025-11-25,Golden State Warriors,Utah Jazz,Chase Center,2025-11-25,03:00 UTC,"Utah Jazz vs Golden State Warriors @ Chase Center, 2025-11-25 03:00 UTC",117,134
 401810147,2025-11-25,Sacramento Kings,Minnesota Timberwolves,Golden 1 Center,2025-11-25,03:00 UTC,"Minnesota Timberwolves vs Sacramento Kings @ Golden 1 Center, 2025-11-25 03:00 UTC",112,117
+401809799,2025-11-26,Washington Wizards,Atlanta Hawks,Capital One Arena,2025-11-26,00:00 UTC,"Atlanta Hawks vs Washington Wizards @ Capital One Arena, 2025-11-26 00:00 UTC",113,132
+401809800,2025-11-26,Philadelphia 76ers,Orlando Magic,Xfinity Mobile Arena,2025-11-26,01:00 UTC,"Orlando Magic vs Philadelphia 76ers @ Xfinity Mobile Arena, 2025-11-26 01:00 UTC",144,103
+401809801,2025-11-26,Los Angeles Lakers,LA Clippers,crypto.com Arena,2025-11-26,04:00 UTC,"LA Clippers vs Los Angeles Lakers @ crypto.com Arena, 2025-11-26 04:00 UTC",118,135

@@ -1222,3 +1222,12 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401809799,2025-11-26,Washington Wizards,Atlanta Hawks,Capital One Arena,2025-11-26,00:00 UTC,"Atlanta Hawks vs Washington Wizards @ Capital One Arena, 2025-11-26 00:00 UTC",113,132
 401809800,2025-11-26,Philadelphia 76ers,Orlando Magic,Xfinity Mobile Arena,2025-11-26,01:00 UTC,"Orlando Magic vs Philadelphia 76ers @ Xfinity Mobile Arena, 2025-11-26 01:00 UTC",144,103
 401809801,2025-11-26,Los Angeles Lakers,LA Clippers,crypto.com Arena,2025-11-26,04:00 UTC,"LA Clippers vs Los Angeles Lakers @ crypto.com Arena, 2025-11-26 04:00 UTC",118,135
+401809802,2025-11-26,Boston Celtics,Detroit Pistons,TD Garden,2025-11-26,22:00 UTC,"Detroit Pistons vs Boston Celtics @ TD Garden, 2025-11-26 22:00 UTC",114,117
+401809803,2025-11-27,Charlotte Hornets,New York Knicks,Spectrum Center,2025-11-27,00:00 UTC,"New York Knicks vs Charlotte Hornets @ Spectrum Center, 2025-11-27 00:00 UTC",129,101
+401809804,2025-11-27,Miami Heat,Milwaukee Bucks,Kaseya Center,2025-11-27,00:30 UTC,"Milwaukee Bucks vs Miami Heat @ Kaseya Center, 2025-11-27 00:30 UTC",103,106
+401809805,2025-11-27,Toronto Raptors,Indiana Pacers,Scotiabank Arena,2025-11-27,00:30 UTC,"Indiana Pacers vs Toronto Raptors @ Scotiabank Arena, 2025-11-27 00:30 UTC",95,97
+401809806,2025-11-27,Oklahoma City Thunder,Minnesota Timberwolves,Paycom Center,2025-11-27,00:30 UTC,"Minnesota Timberwolves vs Oklahoma City Thunder @ Paycom Center, 2025-11-27 00:30 UTC",105,113
+401809807,2025-11-27,New Orleans Pelicans,Memphis Grizzlies,Smoothie King Center,2025-11-27,01:00 UTC,"Memphis Grizzlies vs New Orleans Pelicans @ Smoothie King Center, 2025-11-27 01:00 UTC",133,128
+401809808,2025-11-27,Golden State Warriors,Houston Rockets,Chase Center,2025-11-27,03:00 UTC,"Houston Rockets vs Golden State Warriors @ Chase Center, 2025-11-27 03:00 UTC",104,100
+401809809,2025-11-27,Portland Trail Blazers,San Antonio Spurs,Moda Center,2025-11-27,03:00 UTC,"San Antonio Spurs vs Portland Trail Blazers @ Moda Center, 2025-11-27 03:00 UTC",115,102
+401809810,2025-11-27,Sacramento Kings,Phoenix Suns,Golden 1 Center,2025-11-27,03:00 UTC,"Phoenix Suns vs Sacramento Kings @ Golden 1 Center, 2025-11-27 03:00 UTC",112,100

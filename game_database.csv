@@ -1231,3 +1231,14 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401809808,2025-11-27,Golden State Warriors,Houston Rockets,Chase Center,2025-11-27,03:00 UTC,"Houston Rockets vs Golden State Warriors @ Chase Center, 2025-11-27 03:00 UTC",104,100
 401809809,2025-11-27,Portland Trail Blazers,San Antonio Spurs,Moda Center,2025-11-27,03:00 UTC,"San Antonio Spurs vs Portland Trail Blazers @ Moda Center, 2025-11-27 03:00 UTC",115,102
 401809810,2025-11-27,Sacramento Kings,Phoenix Suns,Golden 1 Center,2025-11-27,03:00 UTC,"Phoenix Suns vs Sacramento Kings @ Golden 1 Center, 2025-11-27 03:00 UTC",112,100
+401809811,2025-11-29,Atlanta Hawks,Cleveland Cavaliers,State Farm Arena,2025-11-29,00:30 UTC,"Cleveland Cavaliers vs Atlanta Hawks @ State Farm Arena, 2025-11-29 00:30 UTC",123,130
+401809812,2025-11-29,Brooklyn Nets,Philadelphia 76ers,Barclays Center,2025-11-29,00:30 UTC,"Philadelphia 76ers vs Brooklyn Nets @ Barclays Center, 2025-11-29 00:30 UTC",115,103
+401809813,2025-11-29,Charlotte Hornets,Chicago Bulls,Spectrum Center,2025-11-29,00:30 UTC,"Chicago Bulls vs Charlotte Hornets @ Spectrum Center, 2025-11-29 00:30 UTC",116,123
+401809814,2025-11-29,Detroit Pistons,Orlando Magic,Little Caesars Arena,2025-11-29,00:30 UTC,"Orlando Magic vs Detroit Pistons @ Little Caesars Arena, 2025-11-29 00:30 UTC",112,109
+401809815,2025-11-29,Indiana Pacers,Washington Wizards,Gainbridge Fieldhouse,2025-11-29,00:30 UTC,"Washington Wizards vs Indiana Pacers @ Gainbridge Fieldhouse, 2025-11-29 00:30 UTC",86,119
+401809816,2025-11-29,New York Knicks,Milwaukee Bucks,Madison Square Garden,2025-11-29,00:30 UTC,"Milwaukee Bucks vs New York Knicks @ Madison Square Garden, 2025-11-29 00:30 UTC",109,118
+401809817,2025-11-29,Oklahoma City Thunder,Phoenix Suns,Paycom Center,2025-11-29,02:30 UTC,"Phoenix Suns vs Oklahoma City Thunder @ Paycom Center, 2025-11-29 02:30 UTC",119,123
+401809818,2025-11-29,Denver Nuggets,San Antonio Spurs,Ball Arena,2025-11-29,02:30 UTC,"San Antonio Spurs vs Denver Nuggets @ Ball Arena, 2025-11-29 02:30 UTC",139,136
+401809819,2025-11-29,Utah Jazz,Sacramento Kings,Delta Center,2025-11-29,02:30 UTC,"Sacramento Kings vs Utah Jazz @ Delta Center, 2025-11-29 02:30 UTC",119,128
+401809820,2025-11-29,Los Angeles Lakers,Dallas Mavericks,crypto.com Arena,2025-11-29,03:00 UTC,"Dallas Mavericks vs Los Angeles Lakers @ crypto.com Arena, 2025-11-29 03:00 UTC",119,129
+401809821,2025-11-29,LA Clippers,Memphis Grizzlies,Intuit Dome,2025-11-29,03:00 UTC,"Memphis Grizzlies vs LA Clippers @ Intuit Dome, 2025-11-29 03:00 UTC",112,107

@@ -1242,3 +1242,11 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401809819,2025-11-29,Utah Jazz,Sacramento Kings,Delta Center,2025-11-29,02:30 UTC,"Sacramento Kings vs Utah Jazz @ Delta Center, 2025-11-29 02:30 UTC",119,128
 401809820,2025-11-29,Los Angeles Lakers,Dallas Mavericks,crypto.com Arena,2025-11-29,03:00 UTC,"Dallas Mavericks vs Los Angeles Lakers @ crypto.com Arena, 2025-11-29 03:00 UTC",119,129
 401809821,2025-11-29,LA Clippers,Memphis Grizzlies,Intuit Dome,2025-11-29,03:00 UTC,"Memphis Grizzlies vs LA Clippers @ Intuit Dome, 2025-11-29 03:00 UTC",112,107
+401810148,2025-11-29,Minnesota Timberwolves,Boston Celtics,Target Center,2025-11-29,22:00 UTC,"Boston Celtics vs Minnesota Timberwolves @ Target Center, 2025-11-29 22:00 UTC",115,119
+401810149,2025-11-29,Charlotte Hornets,Toronto Raptors,Spectrum Center,2025-11-29,23:00 UTC,"Toronto Raptors vs Charlotte Hornets @ Spectrum Center, 2025-11-29 23:00 UTC",111,118
+401810150,2025-11-30,Indiana Pacers,Chicago Bulls,Gainbridge Fieldhouse,2025-11-30,00:30 UTC,"Chicago Bulls vs Indiana Pacers @ Gainbridge Fieldhouse, 2025-11-30 00:30 UTC",101,103
+401810151,2025-11-30,Miami Heat,Detroit Pistons,Kaseya Center,2025-11-30,01:00 UTC,"Detroit Pistons vs Miami Heat @ Kaseya Center, 2025-11-30 01:00 UTC",138,135
+401810152,2025-11-30,Milwaukee Bucks,Brooklyn Nets,Fiserv Forum,2025-11-30,01:00 UTC,"Brooklyn Nets vs Milwaukee Bucks @ Fiserv Forum, 2025-11-30 01:00 UTC",99,116
+401810153,2025-11-30,Golden State Warriors,New Orleans Pelicans,Chase Center,2025-11-30,01:30 UTC,"New Orleans Pelicans vs Golden State Warriors @ Chase Center, 2025-11-30 01:30 UTC",96,104
+401810154,2025-11-30,Phoenix Suns,Denver Nuggets,Mortgage Matchup Center,2025-11-30,02:00 UTC,"Denver Nuggets vs Phoenix Suns @ Mortgage Matchup Center, 2025-11-30 02:00 UTC",130,112
+401810155,2025-11-30,LA Clippers,Dallas Mavericks,Intuit Dome,2025-11-30,03:00 UTC,"Dallas Mavericks vs LA Clippers @ Intuit Dome, 2025-11-30 03:00 UTC",114,110

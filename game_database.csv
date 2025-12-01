@@ -1250,3 +1250,11 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810153,2025-11-30,Golden State Warriors,New Orleans Pelicans,Chase Center,2025-11-30,01:30 UTC,"New Orleans Pelicans vs Golden State Warriors @ Chase Center, 2025-11-30 01:30 UTC",96,104
 401810154,2025-11-30,Phoenix Suns,Denver Nuggets,Mortgage Matchup Center,2025-11-30,02:00 UTC,"Denver Nuggets vs Phoenix Suns @ Mortgage Matchup Center, 2025-11-30 02:00 UTC",130,112
 401810155,2025-11-30,LA Clippers,Dallas Mavericks,Intuit Dome,2025-11-30,03:00 UTC,"Dallas Mavericks vs LA Clippers @ Intuit Dome, 2025-11-30 03:00 UTC",114,110
+401810156,2025-11-30,Utah Jazz,Houston Rockets,Delta Center,2025-11-30,20:00 UTC,"Houston Rockets vs Utah Jazz @ Delta Center, 2025-11-30 20:00 UTC",129,101
+401810157,2025-11-30,Cleveland Cavaliers,Boston Celtics,Rocket Arena,2025-11-30,23:00 UTC,"Boston Celtics vs Cleveland Cavaliers @ Rocket Arena, 2025-11-30 23:00 UTC",117,115
+401810158,2025-11-30,New York Knicks,Toronto Raptors,Madison Square Garden,2025-11-30,23:00 UTC,"Toronto Raptors vs New York Knicks @ Madison Square Garden, 2025-11-30 23:00 UTC",94,116
+401810159,2025-11-30,Philadelphia 76ers,Atlanta Hawks,Xfinity Mobile Arena,2025-11-30,23:00 UTC,"Atlanta Hawks vs Philadelphia 76ers @ Xfinity Mobile Arena, 2025-11-30 23:00 UTC",142,134
+401810160,2025-11-30,Portland Trail Blazers,Oklahoma City Thunder,Moda Center,2025-11-30,23:00 UTC,"Oklahoma City Thunder vs Portland Trail Blazers @ Moda Center, 2025-11-30 23:00 UTC",123,115
+401810161,2025-12-01,Minnesota Timberwolves,San Antonio Spurs,Target Center,2025-12-01,00:00 UTC,"San Antonio Spurs vs Minnesota Timberwolves @ Target Center, 2025-12-01 00:00 UTC",112,125
+401810162,2025-12-01,Sacramento Kings,Memphis Grizzlies,Golden 1 Center,2025-12-01,02:00 UTC,"Memphis Grizzlies vs Sacramento Kings @ Golden 1 Center, 2025-12-01 02:00 UTC",115,107
+401810163,2025-12-01,Los Angeles Lakers,New Orleans Pelicans,crypto.com Arena,2025-12-01,02:30 UTC,"New Orleans Pelicans vs Los Angeles Lakers @ crypto.com Arena, 2025-12-01 02:30 UTC",121,133

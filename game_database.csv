@@ -1258,3 +1258,12 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810161,2025-12-01,Minnesota Timberwolves,San Antonio Spurs,Target Center,2025-12-01,00:00 UTC,"San Antonio Spurs vs Minnesota Timberwolves @ Target Center, 2025-12-01 00:00 UTC",112,125
 401810162,2025-12-01,Sacramento Kings,Memphis Grizzlies,Golden 1 Center,2025-12-01,02:00 UTC,"Memphis Grizzlies vs Sacramento Kings @ Golden 1 Center, 2025-12-01 02:00 UTC",115,107
 401810163,2025-12-01,Los Angeles Lakers,New Orleans Pelicans,crypto.com Arena,2025-12-01,02:30 UTC,"New Orleans Pelicans vs Los Angeles Lakers @ crypto.com Arena, 2025-12-01 02:30 UTC",121,133
+401810164,2025-12-02,Detroit Pistons,Atlanta Hawks,Little Caesars Arena,2025-12-02,00:00 UTC,"Atlanta Hawks vs Detroit Pistons @ Little Caesars Arena, 2025-12-02 00:00 UTC",98,99
+401810165,2025-12-02,Indiana Pacers,Cleveland Cavaliers,Gainbridge Fieldhouse,2025-12-02,00:00 UTC,"Cleveland Cavaliers vs Indiana Pacers @ Gainbridge Fieldhouse, 2025-12-02 00:00 UTC",135,119
+401810166,2025-12-02,Washington Wizards,Milwaukee Bucks,Capital One Arena,2025-12-02,00:00 UTC,"Milwaukee Bucks vs Washington Wizards @ Capital One Arena, 2025-12-02 00:00 UTC",126,129
+401810167,2025-12-02,Brooklyn Nets,Charlotte Hornets,Barclays Center,2025-12-02,00:30 UTC,"Charlotte Hornets vs Brooklyn Nets @ Barclays Center, 2025-12-02 00:30 UTC",103,116
+401810168,2025-12-02,Miami Heat,LA Clippers,Kaseya Center,2025-12-02,00:30 UTC,"LA Clippers vs Miami Heat @ Kaseya Center, 2025-12-02 00:30 UTC",123,140
+401810169,2025-12-02,Orlando Magic,Chicago Bulls,Kia Center,2025-12-02,00:30 UTC,"Chicago Bulls vs Orlando Magic @ Kia Center, 2025-12-02 00:30 UTC",120,125
+401810170,2025-12-02,Denver Nuggets,Dallas Mavericks,Ball Arena,2025-12-02,02:00 UTC,"Dallas Mavericks vs Denver Nuggets @ Ball Arena, 2025-12-02 02:00 UTC",131,121
+401810171,2025-12-02,Utah Jazz,Houston Rockets,Delta Center,2025-12-02,02:00 UTC,"Houston Rockets vs Utah Jazz @ Delta Center, 2025-12-02 02:00 UTC",125,133
+401810172,2025-12-02,Los Angeles Lakers,Phoenix Suns,crypto.com Arena,2025-12-02,03:00 UTC,"Phoenix Suns vs Los Angeles Lakers @ crypto.com Arena, 2025-12-02 03:00 UTC",125,108

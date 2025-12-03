@@ -1267,3 +1267,9 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810170,2025-12-02,Denver Nuggets,Dallas Mavericks,Ball Arena,2025-12-02,02:00 UTC,"Dallas Mavericks vs Denver Nuggets @ Ball Arena, 2025-12-02 02:00 UTC",131,121
 401810171,2025-12-02,Utah Jazz,Houston Rockets,Delta Center,2025-12-02,02:00 UTC,"Houston Rockets vs Utah Jazz @ Delta Center, 2025-12-02 02:00 UTC",125,133
 401810172,2025-12-02,Los Angeles Lakers,Phoenix Suns,crypto.com Arena,2025-12-02,03:00 UTC,"Phoenix Suns vs Los Angeles Lakers @ crypto.com Arena, 2025-12-02 03:00 UTC",125,108
+401810173,2025-12-03,Philadelphia 76ers,Washington Wizards,Xfinity Mobile Arena,2025-12-03,00:00 UTC,"Washington Wizards vs Philadelphia 76ers @ Xfinity Mobile Arena, 2025-12-03 00:00 UTC",102,121
+401810174,2025-12-03,Toronto Raptors,Portland Trail Blazers,Scotiabank Arena,2025-12-03,00:30 UTC,"Portland Trail Blazers vs Toronto Raptors @ Scotiabank Arena, 2025-12-03 00:30 UTC",118,121
+401810175,2025-12-03,Boston Celtics,New York Knicks,TD Garden,2025-12-03,01:00 UTC,"New York Knicks vs Boston Celtics @ TD Garden, 2025-12-03 01:00 UTC",117,123
+401810176,2025-12-03,New Orleans Pelicans,Minnesota Timberwolves,Smoothie King Center,2025-12-03,01:00 UTC,"Minnesota Timberwolves vs New Orleans Pelicans @ Smoothie King Center, 2025-12-03 01:00 UTC",149,142
+401810177,2025-12-03,San Antonio Spurs,Memphis Grizzlies,Frost Bank Center,2025-12-03,01:00 UTC,"Memphis Grizzlies vs San Antonio Spurs @ Frost Bank Center, 2025-12-03 01:00 UTC",119,126
+401810178,2025-12-03,Golden State Warriors,Oklahoma City Thunder,Chase Center,2025-12-03,04:00 UTC,"Oklahoma City Thunder vs Golden State Warriors @ Chase Center, 2025-12-03 04:00 UTC",124,112

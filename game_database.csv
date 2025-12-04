@@ -1273,3 +1273,12 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810176,2025-12-03,New Orleans Pelicans,Minnesota Timberwolves,Smoothie King Center,2025-12-03,01:00 UTC,"Minnesota Timberwolves vs New Orleans Pelicans @ Smoothie King Center, 2025-12-03 01:00 UTC",149,142
 401810177,2025-12-03,San Antonio Spurs,Memphis Grizzlies,Frost Bank Center,2025-12-03,01:00 UTC,"Memphis Grizzlies vs San Antonio Spurs @ Frost Bank Center, 2025-12-03 01:00 UTC",119,126
 401810178,2025-12-03,Golden State Warriors,Oklahoma City Thunder,Chase Center,2025-12-03,04:00 UTC,"Oklahoma City Thunder vs Golden State Warriors @ Chase Center, 2025-12-03 04:00 UTC",124,112
+401810179,2025-12-04,Cleveland Cavaliers,Portland Trail Blazers,Rocket Arena,2025-12-04,00:00 UTC,"Portland Trail Blazers vs Cleveland Cavaliers @ Rocket Arena, 2025-12-04 00:00 UTC",122,110
+401810180,2025-12-04,Indiana Pacers,Denver Nuggets,Gainbridge Fieldhouse,2025-12-04,00:00 UTC,"Denver Nuggets vs Indiana Pacers @ Gainbridge Fieldhouse, 2025-12-04 00:00 UTC",135,120
+401810181,2025-12-04,Orlando Magic,San Antonio Spurs,Kia Center,2025-12-04,00:00 UTC,"San Antonio Spurs vs Orlando Magic @ Kia Center, 2025-12-04 00:00 UTC",114,112
+401810182,2025-12-04,Atlanta Hawks,LA Clippers,State Farm Arena,2025-12-04,00:30 UTC,"LA Clippers vs Atlanta Hawks @ State Farm Arena, 2025-12-04 00:30 UTC",115,92
+401810183,2025-12-04,New York Knicks,Charlotte Hornets,Madison Square Garden,2025-12-04,00:30 UTC,"Charlotte Hornets vs New York Knicks @ Madison Square Garden, 2025-12-04 00:30 UTC",104,119
+401810184,2025-12-04,Chicago Bulls,Brooklyn Nets,United Center,2025-12-04,01:00 UTC,"Brooklyn Nets vs Chicago Bulls @ United Center, 2025-12-04 01:00 UTC",113,103
+401810185,2025-12-04,Houston Rockets,Sacramento Kings,Toyota Center (Houston),2025-12-04,01:00 UTC,"Sacramento Kings vs Houston Rockets @ Toyota Center (Houston), 2025-12-04 01:00 UTC",95,121
+401810186,2025-12-04,Milwaukee Bucks,Detroit Pistons,Fiserv Forum,2025-12-04,01:00 UTC,"Detroit Pistons vs Milwaukee Bucks @ Fiserv Forum, 2025-12-04 01:00 UTC",109,113
+401810187,2025-12-04,Dallas Mavericks,Miami Heat,American Airlines Center,2025-12-04,01:30 UTC,"Miami Heat vs Dallas Mavericks @ American Airlines Center, 2025-12-04 01:30 UTC",108,118

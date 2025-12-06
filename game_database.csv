@@ -1287,3 +1287,15 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810190,2025-12-05,Brooklyn Nets,Utah Jazz,Barclays Center,2025-12-05,00:30 UTC,"Utah Jazz vs Brooklyn Nets @ Barclays Center, 2025-12-05 00:30 UTC",123,110
 401810191,2025-12-05,Toronto Raptors,Los Angeles Lakers,Scotiabank Arena,2025-12-05,00:30 UTC,"Los Angeles Lakers vs Toronto Raptors @ Scotiabank Arena, 2025-12-05 00:30 UTC",123,120
 401810192,2025-12-05,New Orleans Pelicans,Minnesota Timberwolves,Smoothie King Center,2025-12-05,01:00 UTC,"Minnesota Timberwolves vs New Orleans Pelicans @ Smoothie King Center, 2025-12-05 01:00 UTC",125,116
+401810193,2025-12-06,Boston Celtics,Los Angeles Lakers,TD Garden,2025-12-06,00:00 UTC,"Los Angeles Lakers vs Boston Celtics @ TD Garden, 2025-12-06 00:00 UTC",105,126
+401810194,2025-12-06,Orlando Magic,Miami Heat,Kia Center,2025-12-06,00:00 UTC,"Miami Heat vs Orlando Magic @ Kia Center, 2025-12-06 00:00 UTC",105,106
+401810195,2025-12-06,Atlanta Hawks,Denver Nuggets,State Farm Arena,2025-12-06,00:30 UTC,"Denver Nuggets vs Atlanta Hawks @ State Farm Arena, 2025-12-06 00:30 UTC",134,133
+401810196,2025-12-06,Cleveland Cavaliers,San Antonio Spurs,Rocket Arena,2025-12-06,00:30 UTC,"San Antonio Spurs vs Cleveland Cavaliers @ Rocket Arena, 2025-12-06 00:30 UTC",117,130
+401810197,2025-12-06,Detroit Pistons,Portland Trail Blazers,Little Caesars Arena,2025-12-06,00:30 UTC,"Portland Trail Blazers vs Detroit Pistons @ Little Caesars Arena, 2025-12-06 00:30 UTC",116,122
+401810198,2025-12-06,New York Knicks,Utah Jazz,Madison Square Garden,2025-12-06,00:30 UTC,"Utah Jazz vs New York Knicks @ Madison Square Garden, 2025-12-06 00:30 UTC",112,146
+401810199,2025-12-06,Toronto Raptors,Charlotte Hornets,Scotiabank Arena,2025-12-06,00:30 UTC,"Charlotte Hornets vs Toronto Raptors @ Scotiabank Arena, 2025-12-06 00:30 UTC",111,86
+401810200,2025-12-06,Chicago Bulls,Indiana Pacers,United Center,2025-12-06,01:00 UTC,"Indiana Pacers vs Chicago Bulls @ United Center, 2025-12-06 01:00 UTC",120,105
+401810201,2025-12-06,Houston Rockets,Phoenix Suns,Toyota Center (Houston),2025-12-06,01:00 UTC,"Phoenix Suns vs Houston Rockets @ Toyota Center (Houston), 2025-12-06 01:00 UTC",98,117
+401810202,2025-12-06,Memphis Grizzlies,LA Clippers,FedExForum,2025-12-06,01:00 UTC,"LA Clippers vs Memphis Grizzlies @ FedExForum, 2025-12-06 01:00 UTC",98,107
+401810203,2025-12-06,Milwaukee Bucks,Philadelphia 76ers,Fiserv Forum,2025-12-06,01:00 UTC,"Philadelphia 76ers vs Milwaukee Bucks @ Fiserv Forum, 2025-12-06 01:00 UTC",116,99
+401810204,2025-12-06,Oklahoma City Thunder,Dallas Mavericks,Paycom Center,2025-12-06,02:30 UTC,"Dallas Mavericks vs Oklahoma City Thunder @ Paycom Center, 2025-12-06 02:30 UTC",111,132

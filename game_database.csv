@@ -1299,3 +1299,10 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810202,2025-12-06,Memphis Grizzlies,LA Clippers,FedExForum,2025-12-06,01:00 UTC,"LA Clippers vs Memphis Grizzlies @ FedExForum, 2025-12-06 01:00 UTC",98,107
 401810203,2025-12-06,Milwaukee Bucks,Philadelphia 76ers,Fiserv Forum,2025-12-06,01:00 UTC,"Philadelphia 76ers vs Milwaukee Bucks @ Fiserv Forum, 2025-12-06 01:00 UTC",116,99
 401810204,2025-12-06,Oklahoma City Thunder,Dallas Mavericks,Paycom Center,2025-12-06,02:30 UTC,"Dallas Mavericks vs Oklahoma City Thunder @ Paycom Center, 2025-12-06 02:30 UTC",111,132
+401810205,2025-12-06,Brooklyn Nets,New Orleans Pelicans,Barclays Center,2025-12-06,22:00 UTC,"New Orleans Pelicans vs Brooklyn Nets @ Barclays Center, 2025-12-06 22:00 UTC",101,119
+401810206,2025-12-07,Washington Wizards,Atlanta Hawks,Capital One Arena,2025-12-07,00:00 UTC,"Atlanta Hawks vs Washington Wizards @ Capital One Arena, 2025-12-07 00:00 UTC",131,116
+401810207,2025-12-07,Cleveland Cavaliers,Golden State Warriors,Rocket Arena,2025-12-07,00:30 UTC,"Golden State Warriors vs Cleveland Cavaliers @ Rocket Arena, 2025-12-07 00:30 UTC",99,94
+401810208,2025-12-07,Detroit Pistons,Milwaukee Bucks,Little Caesars Arena,2025-12-07,00:30 UTC,"Milwaukee Bucks vs Detroit Pistons @ Little Caesars Arena, 2025-12-07 00:30 UTC",112,124
+401810209,2025-12-07,Miami Heat,Sacramento Kings,Kaseya Center,2025-12-07,01:00 UTC,"Sacramento Kings vs Miami Heat @ Kaseya Center, 2025-12-07 01:00 UTC",127,111
+401810210,2025-12-07,Minnesota Timberwolves,LA Clippers,Target Center,2025-12-07,01:00 UTC,"LA Clippers vs Minnesota Timberwolves @ Target Center, 2025-12-07 01:00 UTC",106,109
+401810211,2025-12-07,Dallas Mavericks,Houston Rockets,American Airlines Center,2025-12-07,01:30 UTC,"Houston Rockets vs Dallas Mavericks @ American Airlines Center, 2025-12-07 01:30 UTC",109,122

@@ -1313,3 +1313,6 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810216,2025-12-08,Chicago Bulls,Golden State Warriors,United Center,2025-12-08,00:00 UTC,"Golden State Warriors vs Chicago Bulls @ United Center, 2025-12-08 00:00 UTC",123,91
 401810217,2025-12-08,Philadelphia 76ers,Los Angeles Lakers,Xfinity Mobile Arena,2025-12-08,00:30 UTC,"Los Angeles Lakers vs Philadelphia 76ers @ Xfinity Mobile Arena, 2025-12-08 00:30 UTC",112,108
 401810218,2025-12-08,Utah Jazz,Oklahoma City Thunder,Delta Center,2025-12-08,01:00 UTC,"Oklahoma City Thunder vs Utah Jazz @ Delta Center, 2025-12-08 01:00 UTC",131,101
+401810219,2025-12-09,Indiana Pacers,Sacramento Kings,Gainbridge Fieldhouse,2025-12-09,00:00 UTC,"Sacramento Kings vs Indiana Pacers @ Gainbridge Fieldhouse, 2025-12-09 00:00 UTC",105,116
+401810220,2025-12-09,Minnesota Timberwolves,Phoenix Suns,Target Center,2025-12-09,00:30 UTC,"Phoenix Suns vs Minnesota Timberwolves @ Target Center, 2025-12-09 00:30 UTC",108,105
+401810221,2025-12-09,New Orleans Pelicans,San Antonio Spurs,Smoothie King Center,2025-12-09,01:00 UTC,"San Antonio Spurs vs New Orleans Pelicans @ Smoothie King Center, 2025-12-09 01:00 UTC",135,132

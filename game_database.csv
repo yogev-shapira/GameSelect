@@ -1318,3 +1318,5 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810221,2025-12-09,New Orleans Pelicans,San Antonio Spurs,Smoothie King Center,2025-12-09,01:00 UTC,"San Antonio Spurs vs New Orleans Pelicans @ Smoothie King Center, 2025-12-09 01:00 UTC",135,132
 401809833,2025-12-09,Orlando Magic,Miami Heat,Kia Center,2025-12-09,23:00 UTC,"Miami Heat vs Orlando Magic @ Kia Center, 2025-12-09 23:00 UTC",108,117
 401809834,2025-12-10,Toronto Raptors,New York Knicks,Scotiabank Arena,2025-12-10,01:30 UTC,"New York Knicks vs Toronto Raptors @ Scotiabank Arena, 2025-12-10 01:30 UTC",117,101
+401809835,2025-12-11,Oklahoma City Thunder,Phoenix Suns,Paycom Center,2025-12-11,00:30 UTC,"Phoenix Suns vs Oklahoma City Thunder @ Paycom Center, 2025-12-11 00:30 UTC",89,138
+401809836,2025-12-11,Los Angeles Lakers,San Antonio Spurs,crypto.com Arena,2025-12-11,03:00 UTC,"San Antonio Spurs vs Los Angeles Lakers @ crypto.com Arena, 2025-12-11 03:00 UTC",132,119

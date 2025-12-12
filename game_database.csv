@@ -1320,3 +1320,7 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401809834,2025-12-10,Toronto Raptors,New York Knicks,Scotiabank Arena,2025-12-10,01:30 UTC,"New York Knicks vs Toronto Raptors @ Scotiabank Arena, 2025-12-10 01:30 UTC",117,101
 401809835,2025-12-11,Oklahoma City Thunder,Phoenix Suns,Paycom Center,2025-12-11,00:30 UTC,"Phoenix Suns vs Oklahoma City Thunder @ Paycom Center, 2025-12-11 00:30 UTC",89,138
 401809836,2025-12-11,Los Angeles Lakers,San Antonio Spurs,crypto.com Arena,2025-12-11,03:00 UTC,"San Antonio Spurs vs Los Angeles Lakers @ crypto.com Arena, 2025-12-11 03:00 UTC",132,119
+401836746,2025-12-12,Houston Rockets,LA Clippers,Toyota Center (Houston),2025-12-12,01:00 UTC,"LA Clippers vs Houston Rockets @ Toyota Center (Houston), 2025-12-12 01:00 UTC",113,115
+401836747,2025-12-12,Milwaukee Bucks,Boston Celtics,Fiserv Forum,2025-12-12,01:00 UTC,"Boston Celtics vs Milwaukee Bucks @ Fiserv Forum, 2025-12-12 01:00 UTC",101,116
+401836748,2025-12-12,New Orleans Pelicans,Portland Trail Blazers,Smoothie King Center,2025-12-12,01:00 UTC,"Portland Trail Blazers vs New Orleans Pelicans @ Smoothie King Center, 2025-12-12 01:00 UTC",120,143
+401836749,2025-12-12,Sacramento Kings,Denver Nuggets,Golden 1 Center,2025-12-12,03:00 UTC,"Denver Nuggets vs Sacramento Kings @ Golden 1 Center, 2025-12-12 03:00 UTC",136,105

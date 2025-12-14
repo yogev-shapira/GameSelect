@@ -1331,3 +1331,5 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401836754,2025-12-13,Memphis Grizzlies,Utah Jazz,FedExForum,2025-12-13,01:00 UTC,"Utah Jazz vs Memphis Grizzlies @ FedExForum, 2025-12-13 01:00 UTC",130,126
 401836795,2025-12-13,Dallas Mavericks,Brooklyn Nets,American Airlines Center,2025-12-13,01:30 UTC,"Brooklyn Nets vs Dallas Mavericks @ American Airlines Center, 2025-12-13 01:30 UTC",111,119
 401836796,2025-12-13,Golden State Warriors,Minnesota Timberwolves,Chase Center,2025-12-13,03:00 UTC,"Minnesota Timberwolves vs Golden State Warriors @ Chase Center, 2025-12-13 03:00 UTC",127,120
+401809837,2025-12-13,Orlando Magic,New York Knicks,T-Mobile Arena,2025-12-13,22:30 UTC,"New York Knicks vs Orlando Magic @ T-Mobile Arena, 2025-12-13 22:30 UTC",132,120
+401809838,2025-12-14,Oklahoma City Thunder,San Antonio Spurs,T-Mobile Arena,2025-12-14,02:00 UTC,"San Antonio Spurs vs Oklahoma City Thunder @ T-Mobile Arena, 2025-12-14 02:00 UTC",111,109

@@ -1347,3 +1347,5 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401836806,2025-12-16,Denver Nuggets,Houston Rockets,Ball Arena,2025-12-16,02:30 UTC,"Houston Rockets vs Denver Nuggets @ Ball Arena, 2025-12-16 02:30 UTC",125,128
 401836807,2025-12-16,LA Clippers,Memphis Grizzlies,Intuit Dome,2025-12-16,03:30 UTC,"Memphis Grizzlies vs LA Clippers @ Intuit Dome, 2025-12-16 03:30 UTC",121,103
 401809839,2025-12-17,New York Knicks,San Antonio Spurs,T-Mobile Arena,2025-12-17,01:30 UTC,"San Antonio Spurs vs New York Knicks @ T-Mobile Arena, 2025-12-17 01:30 UTC",113,124
+401810222,2025-12-18,Chicago Bulls,Cleveland Cavaliers,United Center,2025-12-18,01:00 UTC,"Cleveland Cavaliers vs Chicago Bulls @ United Center, 2025-12-18 01:00 UTC",111,127
+401810223,2025-12-18,Minnesota Timberwolves,Memphis Grizzlies,Target Center,2025-12-18,01:00 UTC,"Memphis Grizzlies vs Minnesota Timberwolves @ Target Center, 2025-12-18 01:00 UTC",116,110

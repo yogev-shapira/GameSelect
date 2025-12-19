@@ -1349,3 +1349,15 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401809839,2025-12-17,New York Knicks,San Antonio Spurs,T-Mobile Arena,2025-12-17,01:30 UTC,"San Antonio Spurs vs New York Knicks @ T-Mobile Arena, 2025-12-17 01:30 UTC",113,124
 401810222,2025-12-18,Chicago Bulls,Cleveland Cavaliers,United Center,2025-12-18,01:00 UTC,"Cleveland Cavaliers vs Chicago Bulls @ United Center, 2025-12-18 01:00 UTC",111,127
 401810223,2025-12-18,Minnesota Timberwolves,Memphis Grizzlies,Target Center,2025-12-18,01:00 UTC,"Memphis Grizzlies vs Minnesota Timberwolves @ Target Center, 2025-12-18 01:00 UTC",116,110
+401810226,2025-12-19,Charlotte Hornets,Atlanta Hawks,Spectrum Center,2025-12-19,00:00 UTC,"Atlanta Hawks vs Charlotte Hornets @ Spectrum Center, 2025-12-19 00:00 UTC",126,133
+401810227,2025-12-19,Indiana Pacers,New York Knicks,Gainbridge Fieldhouse,2025-12-19,00:00 UTC,"New York Knicks vs Indiana Pacers @ Gainbridge Fieldhouse, 2025-12-19 00:00 UTC",114,113
+401810228,2025-12-19,Brooklyn Nets,Miami Heat,Barclays Center,2025-12-19,00:30 UTC,"Miami Heat vs Brooklyn Nets @ Barclays Center, 2025-12-19 00:30 UTC",106,95
+401810224,2025-12-19,Oklahoma City Thunder,LA Clippers,Paycom Center,2025-12-19,01:00 UTC,"LA Clippers vs Oklahoma City Thunder @ Paycom Center, 2025-12-19 01:00 UTC",101,122
+401810225,2025-12-19,San Antonio Spurs,Washington Wizards,Frost Bank Center,2025-12-19,01:00 UTC,"Washington Wizards vs San Antonio Spurs @ Frost Bank Center, 2025-12-19 01:00 UTC",94,119
+401810229,2025-12-19,Milwaukee Bucks,Toronto Raptors,Fiserv Forum,2025-12-19,01:00 UTC,"Toronto Raptors vs Milwaukee Bucks @ Fiserv Forum, 2025-12-19 01:00 UTC",111,105
+401810230,2025-12-19,New Orleans Pelicans,Houston Rockets,Smoothie King Center,2025-12-19,01:00 UTC,"Houston Rockets vs New Orleans Pelicans @ Smoothie King Center, 2025-12-19 01:00 UTC",128,133
+401810231,2025-12-19,Dallas Mavericks,Detroit Pistons,American Airlines Center,2025-12-19,01:30 UTC,"Detroit Pistons vs Dallas Mavericks @ American Airlines Center, 2025-12-19 01:30 UTC",114,116
+401810232,2025-12-19,Denver Nuggets,Orlando Magic,Ball Arena,2025-12-19,02:00 UTC,"Orlando Magic vs Denver Nuggets @ Ball Arena, 2025-12-19 02:00 UTC",115,126
+401810233,2025-12-19,Phoenix Suns,Golden State Warriors,Mortgage Matchup Center,2025-12-19,02:00 UTC,"Golden State Warriors vs Phoenix Suns @ Mortgage Matchup Center, 2025-12-19 02:00 UTC",98,99
+401810234,2025-12-19,Utah Jazz,Los Angeles Lakers,Delta Center,2025-12-19,02:00 UTC,"Los Angeles Lakers vs Utah Jazz @ Delta Center, 2025-12-19 02:00 UTC",141,135
+401810235,2025-12-19,Portland Trail Blazers,Sacramento Kings,Moda Center,2025-12-19,03:00 UTC,"Sacramento Kings vs Portland Trail Blazers @ Moda Center, 2025-12-19 03:00 UTC",133,134

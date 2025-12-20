@@ -1361,3 +1361,8 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810233,2025-12-19,Phoenix Suns,Golden State Warriors,Mortgage Matchup Center,2025-12-19,02:00 UTC,"Golden State Warriors vs Phoenix Suns @ Mortgage Matchup Center, 2025-12-19 02:00 UTC",98,99
 401810234,2025-12-19,Utah Jazz,Los Angeles Lakers,Delta Center,2025-12-19,02:00 UTC,"Los Angeles Lakers vs Utah Jazz @ Delta Center, 2025-12-19 02:00 UTC",141,135
 401810235,2025-12-19,Portland Trail Blazers,Sacramento Kings,Moda Center,2025-12-19,03:00 UTC,"Sacramento Kings vs Portland Trail Blazers @ Moda Center, 2025-12-19 03:00 UTC",133,134
+401810236,2025-12-20,Boston Celtics,Miami Heat,TD Garden,2025-12-20,00:00 UTC,"Miami Heat vs Boston Celtics @ TD Garden, 2025-12-20 00:00 UTC",116,129
+401810237,2025-12-20,New York Knicks,Philadelphia 76ers,Madison Square Garden,2025-12-20,00:00 UTC,"Philadelphia 76ers vs New York Knicks @ Madison Square Garden, 2025-12-20 00:00 UTC",116,107
+401810238,2025-12-20,Atlanta Hawks,San Antonio Spurs,State Farm Arena,2025-12-20,00:30 UTC,"San Antonio Spurs vs Atlanta Hawks @ State Farm Arena, 2025-12-20 00:30 UTC",126,98
+401810239,2025-12-20,Cleveland Cavaliers,Chicago Bulls,Rocket Arena,2025-12-20,00:30 UTC,"Chicago Bulls vs Cleveland Cavaliers @ Rocket Arena, 2025-12-20 00:30 UTC",136,125
+401810240,2025-12-20,Minnesota Timberwolves,Oklahoma City Thunder,Target Center,2025-12-20,02:30 UTC,"Oklahoma City Thunder vs Minnesota Timberwolves @ Target Center, 2025-12-20 02:30 UTC",107,112

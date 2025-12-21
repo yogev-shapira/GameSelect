@@ -1366,3 +1366,13 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810238,2025-12-20,Atlanta Hawks,San Antonio Spurs,State Farm Arena,2025-12-20,00:30 UTC,"San Antonio Spurs vs Atlanta Hawks @ State Farm Arena, 2025-12-20 00:30 UTC",126,98
 401810239,2025-12-20,Cleveland Cavaliers,Chicago Bulls,Rocket Arena,2025-12-20,00:30 UTC,"Chicago Bulls vs Cleveland Cavaliers @ Rocket Arena, 2025-12-20 00:30 UTC",136,125
 401810240,2025-12-20,Minnesota Timberwolves,Oklahoma City Thunder,Target Center,2025-12-20,02:30 UTC,"Oklahoma City Thunder vs Minnesota Timberwolves @ Target Center, 2025-12-20 02:30 UTC",107,112
+401810241,2025-12-20,Denver Nuggets,Houston Rockets,Ball Arena,2025-12-20,22:00 UTC,"Houston Rockets vs Denver Nuggets @ Ball Arena, 2025-12-20 22:00 UTC",115,101
+401810242,2025-12-21,Philadelphia 76ers,Dallas Mavericks,Xfinity Mobile Arena,2025-12-21,00:00 UTC,"Dallas Mavericks vs Philadelphia 76ers @ Xfinity Mobile Arena, 2025-12-21 00:00 UTC",114,121
+401810243,2025-12-21,Toronto Raptors,Boston Celtics,Scotiabank Arena,2025-12-21,00:00 UTC,"Boston Celtics vs Toronto Raptors @ Scotiabank Arena, 2025-12-21 00:00 UTC",112,96
+401810244,2025-12-21,New Orleans Pelicans,Indiana Pacers,Smoothie King Center,2025-12-21,00:00 UTC,"Indiana Pacers vs New Orleans Pelicans @ Smoothie King Center, 2025-12-21 00:00 UTC",109,128
+401810245,2025-12-21,Detroit Pistons,Charlotte Hornets,Little Caesars Arena,2025-12-21,00:30 UTC,"Charlotte Hornets vs Detroit Pistons @ Little Caesars Arena, 2025-12-21 00:30 UTC",86,112
+401810246,2025-12-21,Memphis Grizzlies,Washington Wizards,FedExForum,2025-12-21,01:00 UTC,"Washington Wizards vs Memphis Grizzlies @ FedExForum, 2025-12-21 01:00 UTC",130,122
+401810247,2025-12-21,Golden State Warriors,Phoenix Suns,Chase Center,2025-12-21,01:30 UTC,"Phoenix Suns vs Golden State Warriors @ Chase Center, 2025-12-21 01:30 UTC",116,119
+401810248,2025-12-21,Utah Jazz,Orlando Magic,Delta Center,2025-12-21,02:30 UTC,"Orlando Magic vs Utah Jazz @ Delta Center, 2025-12-21 02:30 UTC",128,127
+401810249,2025-12-21,Sacramento Kings,Portland Trail Blazers,Golden 1 Center,2025-12-21,03:00 UTC,"Portland Trail Blazers vs Sacramento Kings @ Golden 1 Center, 2025-12-21 03:00 UTC",98,93
+401810250,2025-12-21,LA Clippers,Los Angeles Lakers,Intuit Dome,2025-12-21,03:30 UTC,"Los Angeles Lakers vs LA Clippers @ Intuit Dome, 2025-12-21 03:30 UTC",88,103

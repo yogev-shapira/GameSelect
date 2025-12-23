@@ -1382,3 +1382,10 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810254,2025-12-22,Washington Wizards,San Antonio Spurs,Capital One Arena,2025-12-22,00:00 UTC,"San Antonio Spurs vs Washington Wizards @ Capital One Arena, 2025-12-22 00:00 UTC",124,113
 401810255,2025-12-22,Minnesota Timberwolves,Milwaukee Bucks,Target Center,2025-12-22,00:00 UTC,"Milwaukee Bucks vs Minnesota Timberwolves @ Target Center, 2025-12-22 00:00 UTC",100,103
 401810256,2025-12-22,Sacramento Kings,Houston Rockets,Golden 1 Center,2025-12-22,03:00 UTC,"Houston Rockets vs Sacramento Kings @ Golden 1 Center, 2025-12-22 03:00 UTC",124,125
+401810257,2025-12-23,Cleveland Cavaliers,Charlotte Hornets,Rocket Arena,2025-12-23,00:00 UTC,"Charlotte Hornets vs Cleveland Cavaliers @ Rocket Arena, 2025-12-23 00:00 UTC",132,139
+401810258,2025-12-23,Boston Celtics,Indiana Pacers,TD Garden,2025-12-23,00:30 UTC,"Indiana Pacers vs Boston Celtics @ TD Garden, 2025-12-23 00:30 UTC",95,103
+401810259,2025-12-23,New Orleans Pelicans,Dallas Mavericks,Smoothie King Center,2025-12-23,01:00 UTC,"Dallas Mavericks vs New Orleans Pelicans @ Smoothie King Center, 2025-12-23 01:00 UTC",113,119
+401810260,2025-12-23,Denver Nuggets,Utah Jazz,Ball Arena,2025-12-23,02:00 UTC,"Utah Jazz vs Denver Nuggets @ Ball Arena, 2025-12-23 02:00 UTC",112,135
+401810261,2025-12-23,Oklahoma City Thunder,Memphis Grizzlies,Paycom Center,2025-12-23,02:30 UTC,"Memphis Grizzlies vs Oklahoma City Thunder @ Paycom Center, 2025-12-23 02:30 UTC",103,119
+401810262,2025-12-23,Golden State Warriors,Orlando Magic,Chase Center,2025-12-23,03:00 UTC,"Orlando Magic vs Golden State Warriors @ Chase Center, 2025-12-23 03:00 UTC",97,120
+401810263,2025-12-23,Portland Trail Blazers,Detroit Pistons,Moda Center,2025-12-23,03:00 UTC,"Detroit Pistons vs Portland Trail Blazers @ Moda Center, 2025-12-23 03:00 UTC",110,102

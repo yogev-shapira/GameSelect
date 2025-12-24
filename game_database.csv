@@ -1389,3 +1389,17 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810261,2025-12-23,Oklahoma City Thunder,Memphis Grizzlies,Paycom Center,2025-12-23,02:30 UTC,"Memphis Grizzlies vs Oklahoma City Thunder @ Paycom Center, 2025-12-23 02:30 UTC",103,119
 401810262,2025-12-23,Golden State Warriors,Orlando Magic,Chase Center,2025-12-23,03:00 UTC,"Orlando Magic vs Golden State Warriors @ Chase Center, 2025-12-23 03:00 UTC",97,120
 401810263,2025-12-23,Portland Trail Blazers,Detroit Pistons,Moda Center,2025-12-23,03:00 UTC,"Detroit Pistons vs Portland Trail Blazers @ Moda Center, 2025-12-23 03:00 UTC",110,102
+401810264,2025-12-24,Charlotte Hornets,Washington Wizards,Spectrum Center,2025-12-24,00:00 UTC,"Washington Wizards vs Charlotte Hornets @ Spectrum Center, 2025-12-24 00:00 UTC",109,126
+401810265,2025-12-24,Philadelphia 76ers,Brooklyn Nets,Xfinity Mobile Arena,2025-12-24,00:00 UTC,"Brooklyn Nets vs Philadelphia 76ers @ Xfinity Mobile Arena, 2025-12-24 00:00 UTC",114,106
+401810266,2025-12-24,Atlanta Hawks,Chicago Bulls,State Farm Arena,2025-12-24,00:30 UTC,"Chicago Bulls vs Atlanta Hawks @ State Farm Arena, 2025-12-24 00:30 UTC",126,123
+401810267,2025-12-24,Cleveland Cavaliers,New Orleans Pelicans,Rocket Arena,2025-12-24,00:30 UTC,"New Orleans Pelicans vs Cleveland Cavaliers @ Rocket Arena, 2025-12-24 00:30 UTC",118,141
+401810268,2025-12-24,Indiana Pacers,Milwaukee Bucks,Gainbridge Fieldhouse,2025-12-24,00:30 UTC,"Milwaukee Bucks vs Indiana Pacers @ Gainbridge Fieldhouse, 2025-12-24 00:30 UTC",111,94
+401810269,2025-12-24,Miami Heat,Toronto Raptors,Kaseya Center,2025-12-24,00:30 UTC,"Toronto Raptors vs Miami Heat @ Kaseya Center, 2025-12-24 00:30 UTC",112,91
+401810270,2025-12-24,Dallas Mavericks,Denver Nuggets,American Airlines Center,2025-12-24,01:00 UTC,"Denver Nuggets vs Dallas Mavericks @ American Airlines Center, 2025-12-24 01:00 UTC",130,131
+401810271,2025-12-24,Minnesota Timberwolves,New York Knicks,Target Center,2025-12-24,01:00 UTC,"New York Knicks vs Minnesota Timberwolves @ Target Center, 2025-12-24 01:00 UTC",104,115
+401810272,2025-12-24,San Antonio Spurs,Oklahoma City Thunder,Frost Bank Center,2025-12-24,01:30 UTC,"Oklahoma City Thunder vs San Antonio Spurs @ Frost Bank Center, 2025-12-24 01:30 UTC",110,130
+401810273,2025-12-24,Phoenix Suns,Los Angeles Lakers,Mortgage Matchup Center,2025-12-24,02:00 UTC,"Los Angeles Lakers vs Phoenix Suns @ Mortgage Matchup Center, 2025-12-24 02:00 UTC",108,132
+401810274,2025-12-24,Utah Jazz,Memphis Grizzlies,Delta Center,2025-12-24,02:00 UTC,"Memphis Grizzlies vs Utah Jazz @ Delta Center, 2025-12-24 02:00 UTC",137,128
+401810275,2025-12-24,Portland Trail Blazers,Orlando Magic,Moda Center,2025-12-24,03:00 UTC,"Orlando Magic vs Portland Trail Blazers @ Moda Center, 2025-12-24 03:00 UTC",110,106
+401810276,2025-12-24,Sacramento Kings,Detroit Pistons,Golden 1 Center,2025-12-24,03:00 UTC,"Detroit Pistons vs Sacramento Kings @ Golden 1 Center, 2025-12-24 03:00 UTC",136,127
+401810277,2025-12-24,LA Clippers,Houston Rockets,Intuit Dome,2025-12-24,03:30 UTC,"Houston Rockets vs LA Clippers @ Intuit Dome, 2025-12-24 03:30 UTC",108,128

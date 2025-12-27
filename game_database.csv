@@ -1408,3 +1408,12 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401809240,2025-12-25,Golden State Warriors,Dallas Mavericks,Chase Center,2025-12-25,22:17 UTC,"Dallas Mavericks vs Golden State Warriors @ Chase Center, 2025-12-25 22:17 UTC",116,126
 401809241,2025-12-26,Los Angeles Lakers,Houston Rockets,crypto.com Arena,2025-12-26,01:00 UTC,"Houston Rockets vs Los Angeles Lakers @ crypto.com Arena, 2025-12-26 01:00 UTC",119,96
 401809242,2025-12-26,Denver Nuggets,Minnesota Timberwolves,Ball Arena,2025-12-26,03:30 UTC,"Minnesota Timberwolves vs Denver Nuggets @ Ball Arena, 2025-12-26 03:30 UTC",138,141
+401810278,2025-12-27,Atlanta Hawks,Miami Heat,State Farm Arena,2025-12-27,00:00 UTC,"Miami Heat vs Atlanta Hawks @ State Farm Arena, 2025-12-27 00:00 UTC",126,111
+401810279,2025-12-27,Orlando Magic,Charlotte Hornets,Kia Center,2025-12-27,00:00 UTC,"Charlotte Hornets vs Orlando Magic @ Kia Center, 2025-12-27 00:00 UTC",120,105
+401810280,2025-12-27,Washington Wizards,Toronto Raptors,Capital One Arena,2025-12-27,00:00 UTC,"Toronto Raptors vs Washington Wizards @ Capital One Arena, 2025-12-27 00:00 UTC",117,138
+401810281,2025-12-27,Indiana Pacers,Boston Celtics,Gainbridge Fieldhouse,2025-12-27,00:00 UTC,"Boston Celtics vs Indiana Pacers @ Gainbridge Fieldhouse, 2025-12-27 00:00 UTC",140,122
+401810282,2025-12-27,Chicago Bulls,Philadelphia 76ers,United Center,2025-12-27,00:30 UTC,"Philadelphia 76ers vs Chicago Bulls @ United Center, 2025-12-27 00:30 UTC",102,109
+401810283,2025-12-27,Memphis Grizzlies,Milwaukee Bucks,FedExForum,2025-12-27,01:00 UTC,"Milwaukee Bucks vs Memphis Grizzlies @ FedExForum, 2025-12-27 01:00 UTC",104,125
+401810284,2025-12-27,New Orleans Pelicans,Phoenix Suns,Smoothie King Center,2025-12-27,01:00 UTC,"Phoenix Suns vs New Orleans Pelicans @ Smoothie King Center, 2025-12-27 01:00 UTC",115,108
+401810285,2025-12-27,Utah Jazz,Detroit Pistons,Delta Center,2025-12-27,02:30 UTC,"Detroit Pistons vs Utah Jazz @ Delta Center, 2025-12-27 02:30 UTC",129,131
+401810286,2025-12-27,Portland Trail Blazers,LA Clippers,Moda Center,2025-12-27,03:00 UTC,"LA Clippers vs Portland Trail Blazers @ Moda Center, 2025-12-27 03:00 UTC",119,103

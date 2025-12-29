@@ -1426,3 +1426,9 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810293,2025-12-28,Houston Rockets,Cleveland Cavaliers,Toyota Center (Houston),2025-12-28,01:00 UTC,"Cleveland Cavaliers vs Houston Rockets @ Toyota Center (Houston), 2025-12-28 01:00 UTC",100,117
 401810294,2025-12-28,Minnesota Timberwolves,Brooklyn Nets,Target Center,2025-12-28,01:00 UTC,"Brooklyn Nets vs Minnesota Timberwolves @ Target Center, 2025-12-28 01:00 UTC",123,107
 401810295,2025-12-28,San Antonio Spurs,Utah Jazz,Frost Bank Center,2025-12-28,01:00 UTC,"Utah Jazz vs San Antonio Spurs @ Frost Bank Center, 2025-12-28 01:00 UTC",127,114
+401810296,2025-12-28,Toronto Raptors,Golden State Warriors,Scotiabank Arena,2025-12-28,20:30 UTC,"Golden State Warriors vs Toronto Raptors @ Scotiabank Arena, 2025-12-28 20:30 UTC",127,141
+401810297,2025-12-28,Oklahoma City Thunder,Philadelphia 76ers,Paycom Center,2025-12-28,20:30 UTC,"Philadelphia 76ers vs Oklahoma City Thunder @ Paycom Center, 2025-12-28 20:30 UTC",104,129
+401810298,2025-12-28,Washington Wizards,Memphis Grizzlies,Capital One Arena,2025-12-28,23:00 UTC,"Memphis Grizzlies vs Washington Wizards @ Capital One Arena, 2025-12-28 23:00 UTC",112,116
+401810299,2025-12-28,Portland Trail Blazers,Boston Celtics,Moda Center,2025-12-28,23:00 UTC,"Boston Celtics vs Portland Trail Blazers @ Moda Center, 2025-12-28 23:00 UTC",108,114
+401810300,2025-12-29,LA Clippers,Detroit Pistons,Intuit Dome,2025-12-29,02:00 UTC,"Detroit Pistons vs LA Clippers @ Intuit Dome, 2025-12-29 02:00 UTC",99,112
+401810301,2025-12-29,Los Angeles Lakers,Sacramento Kings,crypto.com Arena,2025-12-29,02:30 UTC,"Sacramento Kings vs Los Angeles Lakers @ crypto.com Arena, 2025-12-29 02:30 UTC",101,125

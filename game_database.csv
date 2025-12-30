@@ -1432,3 +1432,14 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810299,2025-12-28,Portland Trail Blazers,Boston Celtics,Moda Center,2025-12-28,23:00 UTC,"Boston Celtics vs Portland Trail Blazers @ Moda Center, 2025-12-28 23:00 UTC",108,114
 401810300,2025-12-29,LA Clippers,Detroit Pistons,Intuit Dome,2025-12-29,02:00 UTC,"Detroit Pistons vs LA Clippers @ Intuit Dome, 2025-12-29 02:00 UTC",99,112
 401810301,2025-12-29,Los Angeles Lakers,Sacramento Kings,crypto.com Arena,2025-12-29,02:30 UTC,"Sacramento Kings vs Los Angeles Lakers @ crypto.com Arena, 2025-12-29 02:30 UTC",101,125
+401810302,2025-12-30,Charlotte Hornets,Milwaukee Bucks,Spectrum Center,2025-12-30,00:00 UTC,"Milwaukee Bucks vs Charlotte Hornets @ Spectrum Center, 2025-12-30 00:00 UTC",123,113
+401810303,2025-12-30,Washington Wizards,Phoenix Suns,Capital One Arena,2025-12-30,00:00 UTC,"Phoenix Suns vs Washington Wizards @ Capital One Arena, 2025-12-30 00:00 UTC",115,101
+401810304,2025-12-30,Brooklyn Nets,Golden State Warriors,Barclays Center,2025-12-30,00:30 UTC,"Golden State Warriors vs Brooklyn Nets @ Barclays Center, 2025-12-30 00:30 UTC",120,107
+401810305,2025-12-30,Miami Heat,Denver Nuggets,Kaseya Center,2025-12-30,00:30 UTC,"Denver Nuggets vs Miami Heat @ Kaseya Center, 2025-12-30 00:30 UTC",123,147
+401810306,2025-12-30,Toronto Raptors,Orlando Magic,Scotiabank Arena,2025-12-30,00:30 UTC,"Orlando Magic vs Toronto Raptors @ Scotiabank Arena, 2025-12-30 00:30 UTC",106,107
+401810307,2025-12-30,Chicago Bulls,Minnesota Timberwolves,United Center,2025-12-30,01:00 UTC,"Minnesota Timberwolves vs Chicago Bulls @ United Center, 2025-12-30 01:00 UTC",136,101
+401810308,2025-12-30,Houston Rockets,Indiana Pacers,Toyota Center (Houston),2025-12-30,01:00 UTC,"Indiana Pacers vs Houston Rockets @ Toyota Center (Houston), 2025-12-30 01:00 UTC",119,126
+401810309,2025-12-30,New Orleans Pelicans,New York Knicks,Smoothie King Center,2025-12-30,01:00 UTC,"New York Knicks vs New Orleans Pelicans @ Smoothie King Center, 2025-12-30 01:00 UTC",130,125
+401810310,2025-12-30,Oklahoma City Thunder,Atlanta Hawks,Paycom Center,2025-12-30,01:00 UTC,"Atlanta Hawks vs Oklahoma City Thunder @ Paycom Center, 2025-12-30 01:00 UTC",129,140
+401810311,2025-12-30,San Antonio Spurs,Cleveland Cavaliers,Frost Bank Center,2025-12-30,01:00 UTC,"Cleveland Cavaliers vs San Antonio Spurs @ Frost Bank Center, 2025-12-30 01:00 UTC",113,101
+401810312,2025-12-30,Portland Trail Blazers,Dallas Mavericks,Moda Center,2025-12-30,03:30 UTC,"Dallas Mavericks vs Portland Trail Blazers @ Moda Center, 2025-12-30 03:30 UTC",122,125

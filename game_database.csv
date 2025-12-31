@@ -1443,3 +1443,7 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810310,2025-12-30,Oklahoma City Thunder,Atlanta Hawks,Paycom Center,2025-12-30,01:00 UTC,"Atlanta Hawks vs Oklahoma City Thunder @ Paycom Center, 2025-12-30 01:00 UTC",129,140
 401810311,2025-12-30,San Antonio Spurs,Cleveland Cavaliers,Frost Bank Center,2025-12-30,01:00 UTC,"Cleveland Cavaliers vs San Antonio Spurs @ Frost Bank Center, 2025-12-30 01:00 UTC",113,101
 401810312,2025-12-30,Portland Trail Blazers,Dallas Mavericks,Moda Center,2025-12-30,03:30 UTC,"Dallas Mavericks vs Portland Trail Blazers @ Moda Center, 2025-12-30 03:30 UTC",122,125
+401810313,2025-12-31,Memphis Grizzlies,Philadelphia 76ers,FedExForum,2025-12-31,01:00 UTC,"Philadelphia 76ers vs Memphis Grizzlies @ FedExForum, 2025-12-31 01:00 UTC",139,136
+401810314,2025-12-31,Utah Jazz,Boston Celtics,Delta Center,2025-12-31,02:00 UTC,"Boston Celtics vs Utah Jazz @ Delta Center, 2025-12-31 02:00 UTC",129,119
+401810315,2025-12-31,Los Angeles Lakers,Detroit Pistons,crypto.com Arena,2025-12-31,03:30 UTC,"Detroit Pistons vs Los Angeles Lakers @ crypto.com Arena, 2025-12-31 03:30 UTC",128,106
+401810316,2025-12-31,LA Clippers,Sacramento Kings,Intuit Dome,2025-12-31,04:00 UTC,"Sacramento Kings vs LA Clippers @ Intuit Dome, 2025-12-31 04:00 UTC",90,131

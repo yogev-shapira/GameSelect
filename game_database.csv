@@ -1447,3 +1447,12 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810314,2025-12-31,Utah Jazz,Boston Celtics,Delta Center,2025-12-31,02:00 UTC,"Boston Celtics vs Utah Jazz @ Delta Center, 2025-12-31 02:00 UTC",129,119
 401810315,2025-12-31,Los Angeles Lakers,Detroit Pistons,crypto.com Arena,2025-12-31,03:30 UTC,"Detroit Pistons vs Los Angeles Lakers @ crypto.com Arena, 2025-12-31 03:30 UTC",128,106
 401810316,2025-12-31,LA Clippers,Sacramento Kings,Intuit Dome,2025-12-31,04:00 UTC,"Sacramento Kings vs LA Clippers @ Intuit Dome, 2025-12-31 04:00 UTC",90,131
+401810317,2025-12-31,Charlotte Hornets,Golden State Warriors,Spectrum Center,2025-12-31,18:00 UTC,"Golden State Warriors vs Charlotte Hornets @ Spectrum Center, 2025-12-31 18:00 UTC",132,125
+401810318,2025-12-31,Atlanta Hawks,Minnesota Timberwolves,State Farm Arena,2025-12-31,20:00 UTC,"Minnesota Timberwolves vs Atlanta Hawks @ State Farm Arena, 2025-12-31 20:00 UTC",102,126
+401810319,2025-12-31,Indiana Pacers,Orlando Magic,Gainbridge Fieldhouse,2025-12-31,20:00 UTC,"Orlando Magic vs Indiana Pacers @ Gainbridge Fieldhouse, 2025-12-31 20:00 UTC",112,110
+401810320,2025-12-31,Cleveland Cavaliers,Phoenix Suns,Rocket Arena,2025-12-31,20:30 UTC,"Phoenix Suns vs Cleveland Cavaliers @ Rocket Arena, 2025-12-31 20:30 UTC",113,129
+401810321,2026-01-01,Chicago Bulls,New Orleans Pelicans,United Center,2026-01-01,00:00 UTC,"New Orleans Pelicans vs Chicago Bulls @ United Center, 2026-01-01 00:00 UTC",118,134
+401810322,2026-01-01,San Antonio Spurs,New York Knicks,Frost Bank Center,2026-01-01,00:00 UTC,"New York Knicks vs San Antonio Spurs @ Frost Bank Center, 2026-01-01 00:00 UTC",132,134
+401810323,2026-01-01,Toronto Raptors,Denver Nuggets,Scotiabank Arena,2026-01-01,00:30 UTC,"Denver Nuggets vs Toronto Raptors @ Scotiabank Arena, 2026-01-01 00:30 UTC",106,103
+401810324,2026-01-01,Milwaukee Bucks,Washington Wizards,Fiserv Forum,2026-01-01,01:00 UTC,"Washington Wizards vs Milwaukee Bucks @ Fiserv Forum, 2026-01-01 01:00 UTC",114,113
+401810325,2026-01-01,Oklahoma City Thunder,Portland Trail Blazers,Paycom Center,2026-01-01,01:00 UTC,"Portland Trail Blazers vs Oklahoma City Thunder @ Paycom Center, 2026-01-01 01:00 UTC",95,124

@@ -1456,3 +1456,8 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810323,2026-01-01,Toronto Raptors,Denver Nuggets,Scotiabank Arena,2026-01-01,00:30 UTC,"Denver Nuggets vs Toronto Raptors @ Scotiabank Arena, 2026-01-01 00:30 UTC",106,103
 401810324,2026-01-01,Milwaukee Bucks,Washington Wizards,Fiserv Forum,2026-01-01,01:00 UTC,"Washington Wizards vs Milwaukee Bucks @ Fiserv Forum, 2026-01-01 01:00 UTC",114,113
 401810325,2026-01-01,Oklahoma City Thunder,Portland Trail Blazers,Paycom Center,2026-01-01,01:00 UTC,"Portland Trail Blazers vs Oklahoma City Thunder @ Paycom Center, 2026-01-01 01:00 UTC",95,124
+401810326,2026-01-01,Brooklyn Nets,Houston Rockets,Barclays Center,2026-01-01,23:00 UTC,"Houston Rockets vs Brooklyn Nets @ Barclays Center, 2026-01-01 23:00 UTC",120,96
+401810327,2026-01-02,Detroit Pistons,Miami Heat,Little Caesars Arena,2026-01-02,00:00 UTC,"Miami Heat vs Detroit Pistons @ Little Caesars Arena, 2026-01-02 00:00 UTC",118,112
+401810328,2026-01-02,Dallas Mavericks,Philadelphia 76ers,American Airlines Center,2026-01-02,01:30 UTC,"Philadelphia 76ers vs Dallas Mavericks @ American Airlines Center, 2026-01-02 01:30 UTC",123,108
+401810329,2026-01-02,Sacramento Kings,Boston Celtics,Golden 1 Center,2026-01-02,03:00 UTC,"Boston Celtics vs Sacramento Kings @ Golden 1 Center, 2026-01-02 03:00 UTC",120,106
+401810330,2026-01-02,LA Clippers,Utah Jazz,Intuit Dome,2026-01-02,03:30 UTC,"Utah Jazz vs LA Clippers @ Intuit Dome, 2026-01-02 03:30 UTC",101,118

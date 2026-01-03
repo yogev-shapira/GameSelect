@@ -1461,3 +1461,13 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810328,2026-01-02,Dallas Mavericks,Philadelphia 76ers,American Airlines Center,2026-01-02,01:30 UTC,"Philadelphia 76ers vs Dallas Mavericks @ American Airlines Center, 2026-01-02 01:30 UTC",123,108
 401810329,2026-01-02,Sacramento Kings,Boston Celtics,Golden 1 Center,2026-01-02,03:00 UTC,"Boston Celtics vs Sacramento Kings @ Golden 1 Center, 2026-01-02 03:00 UTC",120,106
 401810330,2026-01-02,LA Clippers,Utah Jazz,Intuit Dome,2026-01-02,03:30 UTC,"Utah Jazz vs LA Clippers @ Intuit Dome, 2026-01-02 03:30 UTC",101,118
+401810331,2026-01-03,Indiana Pacers,San Antonio Spurs,Gainbridge Fieldhouse,2026-01-03,00:00 UTC,"San Antonio Spurs vs Indiana Pacers @ Gainbridge Fieldhouse, 2026-01-03 00:00 UTC",123,113
+401810332,2026-01-03,Washington Wizards,Brooklyn Nets,Capital One Arena,2026-01-03,00:00 UTC,"Brooklyn Nets vs Washington Wizards @ Capital One Arena, 2026-01-03 00:00 UTC",99,119
+401810333,2026-01-03,Cleveland Cavaliers,Denver Nuggets,Rocket Arena,2026-01-03,00:30 UTC,"Denver Nuggets vs Cleveland Cavaliers @ Rocket Arena, 2026-01-03 00:30 UTC",108,112
+401810334,2026-01-03,New York Knicks,Atlanta Hawks,Madison Square Garden,2026-01-03,00:30 UTC,"Atlanta Hawks vs New York Knicks @ Madison Square Garden, 2026-01-03 00:30 UTC",111,99
+401810335,2026-01-03,Chicago Bulls,Orlando Magic,United Center,2026-01-03,01:00 UTC,"Orlando Magic vs Chicago Bulls @ United Center, 2026-01-03 01:00 UTC",114,121
+401810336,2026-01-03,Milwaukee Bucks,Charlotte Hornets,Fiserv Forum,2026-01-03,01:00 UTC,"Charlotte Hornets vs Milwaukee Bucks @ Fiserv Forum, 2026-01-03 01:00 UTC",121,122
+401810337,2026-01-03,New Orleans Pelicans,Portland Trail Blazers,Smoothie King Center,2026-01-03,01:00 UTC,"Portland Trail Blazers vs New Orleans Pelicans @ Smoothie King Center, 2026-01-03 01:00 UTC",122,109
+401810338,2026-01-03,Phoenix Suns,Sacramento Kings,Mortgage Matchup Center,2026-01-03,02:00 UTC,"Sacramento Kings vs Phoenix Suns @ Mortgage Matchup Center, 2026-01-03 02:00 UTC",102,129
+401810339,2026-01-03,Golden State Warriors,Oklahoma City Thunder,Chase Center,2026-01-03,03:00 UTC,"Oklahoma City Thunder vs Golden State Warriors @ Chase Center, 2026-01-03 03:00 UTC",131,94
+401810340,2026-01-03,Los Angeles Lakers,Memphis Grizzlies,crypto.com Arena,2026-01-03,03:30 UTC,"Memphis Grizzlies vs Los Angeles Lakers @ crypto.com Arena, 2026-01-03 03:30 UTC",121,128

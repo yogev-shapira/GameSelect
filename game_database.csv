@@ -1471,3 +1471,11 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810338,2026-01-03,Phoenix Suns,Sacramento Kings,Mortgage Matchup Center,2026-01-03,02:00 UTC,"Sacramento Kings vs Phoenix Suns @ Mortgage Matchup Center, 2026-01-03 02:00 UTC",102,129
 401810339,2026-01-03,Golden State Warriors,Oklahoma City Thunder,Chase Center,2026-01-03,03:00 UTC,"Oklahoma City Thunder vs Golden State Warriors @ Chase Center, 2026-01-03 03:00 UTC",131,94
 401810340,2026-01-03,Los Angeles Lakers,Memphis Grizzlies,crypto.com Arena,2026-01-03,03:30 UTC,"Memphis Grizzlies vs Los Angeles Lakers @ crypto.com Arena, 2026-01-03 03:30 UTC",121,128
+401810341,2026-01-03,Miami Heat,Minnesota Timberwolves,Kaseya Center,2026-01-03,22:00 UTC,"Minnesota Timberwolves vs Miami Heat @ Kaseya Center, 2026-01-03 22:00 UTC",125,115
+401810342,2026-01-04,New York Knicks,Philadelphia 76ers,Madison Square Garden,2026-01-04,00:30 UTC,"Philadelphia 76ers vs New York Knicks @ Madison Square Garden, 2026-01-04 00:30 UTC",130,119
+401810343,2026-01-04,Toronto Raptors,Atlanta Hawks,Scotiabank Arena,2026-01-04,00:30 UTC,"Atlanta Hawks vs Toronto Raptors @ Scotiabank Arena, 2026-01-04 00:30 UTC",117,134
+401810344,2026-01-04,Chicago Bulls,Charlotte Hornets,United Center,2026-01-04,01:00 UTC,"Charlotte Hornets vs Chicago Bulls @ United Center, 2026-01-04 01:00 UTC",112,99
+401810345,2026-01-04,San Antonio Spurs,Portland Trail Blazers,Frost Bank Center,2026-01-04,01:00 UTC,"Portland Trail Blazers vs San Antonio Spurs @ Frost Bank Center, 2026-01-04 01:00 UTC",115,110
+401810346,2026-01-04,Dallas Mavericks,Houston Rockets,American Airlines Center,2026-01-04,01:30 UTC,"Houston Rockets vs Dallas Mavericks @ American Airlines Center, 2026-01-04 01:30 UTC",104,110
+401810347,2026-01-04,Golden State Warriors,Utah Jazz,Chase Center,2026-01-04,03:00 UTC,"Utah Jazz vs Golden State Warriors @ Chase Center, 2026-01-04 03:00 UTC",114,123
+401810348,2026-01-04,LA Clippers,Boston Celtics,Intuit Dome,2026-01-04,03:30 UTC,"Boston Celtics vs LA Clippers @ Intuit Dome, 2026-01-04 03:30 UTC",146,115

@@ -1479,3 +1479,11 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810346,2026-01-04,Dallas Mavericks,Houston Rockets,American Airlines Center,2026-01-04,01:30 UTC,"Houston Rockets vs Dallas Mavericks @ American Airlines Center, 2026-01-04 01:30 UTC",104,110
 401810347,2026-01-04,Golden State Warriors,Utah Jazz,Chase Center,2026-01-04,03:00 UTC,"Utah Jazz vs Golden State Warriors @ Chase Center, 2026-01-04 03:00 UTC",114,123
 401810348,2026-01-04,LA Clippers,Boston Celtics,Intuit Dome,2026-01-04,03:30 UTC,"Boston Celtics vs LA Clippers @ Intuit Dome, 2026-01-04 03:30 UTC",146,115
+401810349,2026-01-04,Cleveland Cavaliers,Detroit Pistons,Rocket Arena,2026-01-04,19:00 UTC,"Detroit Pistons vs Cleveland Cavaliers @ Rocket Arena, 2026-01-04 19:00 UTC",114,110
+401810350,2026-01-04,Orlando Magic,Indiana Pacers,Kia Center,2026-01-04,20:00 UTC,"Indiana Pacers vs Orlando Magic @ Kia Center, 2026-01-04 20:00 UTC",127,135
+401810351,2026-01-04,Brooklyn Nets,Denver Nuggets,Barclays Center,2026-01-04,20:30 UTC,"Denver Nuggets vs Brooklyn Nets @ Barclays Center, 2026-01-04 20:30 UTC",115,127
+401810352,2026-01-04,Miami Heat,New Orleans Pelicans,Kaseya Center,2026-01-04,23:00 UTC,"New Orleans Pelicans vs Miami Heat @ Kaseya Center, 2026-01-04 23:00 UTC",106,125
+401810353,2026-01-04,Washington Wizards,Minnesota Timberwolves,Capital One Arena,2026-01-04,23:00 UTC,"Minnesota Timberwolves vs Washington Wizards @ Capital One Arena, 2026-01-04 23:00 UTC",141,115
+401810354,2026-01-05,Phoenix Suns,Oklahoma City Thunder,Mortgage Matchup Center,2026-01-05,01:00 UTC,"Oklahoma City Thunder vs Phoenix Suns @ Mortgage Matchup Center, 2026-01-05 01:00 UTC",105,108
+401810355,2026-01-05,Sacramento Kings,Milwaukee Bucks,Golden 1 Center,2026-01-05,02:00 UTC,"Milwaukee Bucks vs Sacramento Kings @ Golden 1 Center, 2026-01-05 02:00 UTC",115,98
+401810356,2026-01-05,Los Angeles Lakers,Memphis Grizzlies,crypto.com Arena,2026-01-05,02:30 UTC,"Memphis Grizzlies vs Los Angeles Lakers @ crypto.com Arena, 2026-01-05 02:30 UTC",114,120

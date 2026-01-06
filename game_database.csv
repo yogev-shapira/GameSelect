@@ -1487,3 +1487,11 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810354,2026-01-05,Phoenix Suns,Oklahoma City Thunder,Mortgage Matchup Center,2026-01-05,01:00 UTC,"Oklahoma City Thunder vs Phoenix Suns @ Mortgage Matchup Center, 2026-01-05 01:00 UTC",105,108
 401810355,2026-01-05,Sacramento Kings,Milwaukee Bucks,Golden 1 Center,2026-01-05,02:00 UTC,"Milwaukee Bucks vs Sacramento Kings @ Golden 1 Center, 2026-01-05 02:00 UTC",115,98
 401810356,2026-01-05,Los Angeles Lakers,Memphis Grizzlies,crypto.com Arena,2026-01-05,02:30 UTC,"Memphis Grizzlies vs Los Angeles Lakers @ crypto.com Arena, 2026-01-05 02:30 UTC",114,120
+401810357,2026-01-06,Detroit Pistons,New York Knicks,Little Caesars Arena,2026-01-06,00:00 UTC,"New York Knicks vs Detroit Pistons @ Little Caesars Arena, 2026-01-06 00:00 UTC",90,121
+401810358,2026-01-06,Boston Celtics,Chicago Bulls,TD Garden,2026-01-06,00:30 UTC,"Chicago Bulls vs Boston Celtics @ TD Garden, 2026-01-06 00:30 UTC",101,115
+401810359,2026-01-06,Toronto Raptors,Atlanta Hawks,Scotiabank Arena,2026-01-06,00:30 UTC,"Atlanta Hawks vs Toronto Raptors @ Scotiabank Arena, 2026-01-06 00:30 UTC",100,118
+401810360,2026-01-06,Houston Rockets,Phoenix Suns,Toyota Center (Houston),2026-01-06,01:00 UTC,"Phoenix Suns vs Houston Rockets @ Toyota Center (Houston), 2026-01-06 01:00 UTC",97,100
+401810361,2026-01-06,Oklahoma City Thunder,Charlotte Hornets,Paycom Center,2026-01-06,01:00 UTC,"Charlotte Hornets vs Oklahoma City Thunder @ Paycom Center, 2026-01-06 01:00 UTC",124,97
+401810362,2026-01-06,Philadelphia 76ers,Denver Nuggets,Xfinity Mobile Arena,2026-01-06,01:30 UTC,"Denver Nuggets vs Philadelphia 76ers @ Xfinity Mobile Arena, 2026-01-06 01:30 UTC",125,124
+401810363,2026-01-06,LA Clippers,Golden State Warriors,Intuit Dome,2026-01-06,03:00 UTC,"Golden State Warriors vs LA Clippers @ Intuit Dome, 2026-01-06 03:00 UTC",102,103
+401810364,2026-01-06,Portland Trail Blazers,Utah Jazz,Moda Center,2026-01-06,03:00 UTC,"Utah Jazz vs Portland Trail Blazers @ Moda Center, 2026-01-06 03:00 UTC",117,137

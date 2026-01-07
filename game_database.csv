@@ -1495,3 +1495,9 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810362,2026-01-06,Philadelphia 76ers,Denver Nuggets,Xfinity Mobile Arena,2026-01-06,01:30 UTC,"Denver Nuggets vs Philadelphia 76ers @ Xfinity Mobile Arena, 2026-01-06 01:30 UTC",125,124
 401810363,2026-01-06,LA Clippers,Golden State Warriors,Intuit Dome,2026-01-06,03:00 UTC,"Golden State Warriors vs LA Clippers @ Intuit Dome, 2026-01-06 03:00 UTC",102,103
 401810364,2026-01-06,Portland Trail Blazers,Utah Jazz,Moda Center,2026-01-06,03:00 UTC,"Utah Jazz vs Portland Trail Blazers @ Moda Center, 2026-01-06 03:00 UTC",117,137
+401810365,2026-01-07,Indiana Pacers,Cleveland Cavaliers,Gainbridge Fieldhouse,2026-01-07,00:00 UTC,"Cleveland Cavaliers vs Indiana Pacers @ Gainbridge Fieldhouse, 2026-01-07 00:00 UTC",120,116
+401810366,2026-01-07,Washington Wizards,Orlando Magic,Capital One Arena,2026-01-07,00:00 UTC,"Orlando Magic vs Washington Wizards @ Capital One Arena, 2026-01-07 00:00 UTC",112,120
+401810367,2026-01-07,Memphis Grizzlies,San Antonio Spurs,FedExForum,2026-01-07,01:00 UTC,"San Antonio Spurs vs Memphis Grizzlies @ FedExForum, 2026-01-07 01:00 UTC",105,106
+401810368,2026-01-07,Minnesota Timberwolves,Miami Heat,Target Center,2026-01-07,01:00 UTC,"Miami Heat vs Minnesota Timberwolves @ Target Center, 2026-01-07 01:00 UTC",94,122
+401810369,2026-01-07,New Orleans Pelicans,Los Angeles Lakers,Smoothie King Center,2026-01-07,01:00 UTC,"Los Angeles Lakers vs New Orleans Pelicans @ Smoothie King Center, 2026-01-07 01:00 UTC",111,103
+401810370,2026-01-07,Sacramento Kings,Dallas Mavericks,Golden 1 Center,2026-01-07,04:00 UTC,"Dallas Mavericks vs Sacramento Kings @ Golden 1 Center, 2026-01-07 04:00 UTC",100,98

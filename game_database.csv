@@ -1501,3 +1501,15 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810368,2026-01-07,Minnesota Timberwolves,Miami Heat,Target Center,2026-01-07,01:00 UTC,"Miami Heat vs Minnesota Timberwolves @ Target Center, 2026-01-07 01:00 UTC",94,122
 401810369,2026-01-07,New Orleans Pelicans,Los Angeles Lakers,Smoothie King Center,2026-01-07,01:00 UTC,"Los Angeles Lakers vs New Orleans Pelicans @ Smoothie King Center, 2026-01-07 01:00 UTC",111,103
 401810370,2026-01-07,Sacramento Kings,Dallas Mavericks,Golden 1 Center,2026-01-07,04:00 UTC,"Dallas Mavericks vs Sacramento Kings @ Golden 1 Center, 2026-01-07 04:00 UTC",100,98
+401810371,2026-01-08,Charlotte Hornets,Toronto Raptors,Spectrum Center,2026-01-08,00:00 UTC,"Toronto Raptors vs Charlotte Hornets @ Spectrum Center, 2026-01-08 00:00 UTC",97,96
+401810372,2026-01-08,Detroit Pistons,Chicago Bulls,Little Caesars Arena,2026-01-08,00:00 UTC,"Chicago Bulls vs Detroit Pistons @ Little Caesars Arena, 2026-01-08 00:00 UTC",93,108
+401810373,2026-01-08,Philadelphia 76ers,Washington Wizards,Xfinity Mobile Arena,2026-01-08,00:00 UTC,"Washington Wizards vs Philadelphia 76ers @ Xfinity Mobile Arena, 2026-01-08 00:00 UTC",110,131
+401810375,2026-01-08,Boston Celtics,Denver Nuggets,TD Garden,2026-01-08,00:00 UTC,"Denver Nuggets vs Boston Celtics @ TD Garden, 2026-01-08 00:00 UTC",114,110
+401810374,2026-01-08,Atlanta Hawks,New Orleans Pelicans,State Farm Arena,2026-01-08,00:30 UTC,"New Orleans Pelicans vs Atlanta Hawks @ State Farm Arena, 2026-01-08 00:30 UTC",100,117
+401810376,2026-01-08,Brooklyn Nets,Orlando Magic,Barclays Center,2026-01-08,00:30 UTC,"Orlando Magic vs Brooklyn Nets @ Barclays Center, 2026-01-08 00:30 UTC",104,103
+401810377,2026-01-08,New York Knicks,LA Clippers,Madison Square Garden,2026-01-08,00:30 UTC,"LA Clippers vs New York Knicks @ Madison Square Garden, 2026-01-08 00:30 UTC",111,123
+401810379,2026-01-08,Memphis Grizzlies,Phoenix Suns,FedExForum,2026-01-08,01:00 UTC,"Phoenix Suns vs Memphis Grizzlies @ FedExForum, 2026-01-08 01:00 UTC",117,98
+401810380,2026-01-08,Oklahoma City Thunder,Utah Jazz,Paycom Center,2026-01-08,01:00 UTC,"Utah Jazz vs Oklahoma City Thunder @ Paycom Center, 2026-01-08 01:00 UTC",125,129
+401810378,2026-01-08,San Antonio Spurs,Los Angeles Lakers,Frost Bank Center,2026-01-08,02:30 UTC,"Los Angeles Lakers vs San Antonio Spurs @ Frost Bank Center, 2026-01-08 02:30 UTC",91,107
+401810381,2026-01-08,Golden State Warriors,Milwaukee Bucks,Chase Center,2026-01-08,03:00 UTC,"Milwaukee Bucks vs Golden State Warriors @ Chase Center, 2026-01-08 03:00 UTC",113,120
+401810382,2026-01-08,Portland Trail Blazers,Houston Rockets,Moda Center,2026-01-08,03:00 UTC,"Houston Rockets vs Portland Trail Blazers @ Moda Center, 2026-01-08 03:00 UTC",102,103

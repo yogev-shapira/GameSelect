@@ -1513,3 +1513,7 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810378,2026-01-08,San Antonio Spurs,Los Angeles Lakers,Frost Bank Center,2026-01-08,02:30 UTC,"Los Angeles Lakers vs San Antonio Spurs @ Frost Bank Center, 2026-01-08 02:30 UTC",91,107
 401810381,2026-01-08,Golden State Warriors,Milwaukee Bucks,Chase Center,2026-01-08,03:00 UTC,"Milwaukee Bucks vs Golden State Warriors @ Chase Center, 2026-01-08 03:00 UTC",113,120
 401810382,2026-01-08,Portland Trail Blazers,Houston Rockets,Moda Center,2026-01-08,03:00 UTC,"Houston Rockets vs Portland Trail Blazers @ Moda Center, 2026-01-08 03:00 UTC",102,103
+401810383,2026-01-09,Charlotte Hornets,Indiana Pacers,Spectrum Center,2026-01-09,00:00 UTC,"Indiana Pacers vs Charlotte Hornets @ Spectrum Center, 2026-01-09 00:00 UTC",114,112
+401810384,2026-01-09,Chicago Bulls,Miami Heat,United Center,2026-01-09,01:00 UTC,"Miami Heat vs Chicago Bulls @ United Center, 2026-01-09 01:00 UTC",,
+401810385,2026-01-09,Minnesota Timberwolves,Cleveland Cavaliers,Target Center,2026-01-09,01:00 UTC,"Cleveland Cavaliers vs Minnesota Timberwolves @ Target Center, 2026-01-09 01:00 UTC",122,131
+401810386,2026-01-09,Utah Jazz,Dallas Mavericks,Delta Center,2026-01-09,02:00 UTC,"Dallas Mavericks vs Utah Jazz @ Delta Center, 2026-01-09 02:00 UTC",114,116

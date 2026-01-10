@@ -1517,3 +1517,13 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810384,2026-01-09,Chicago Bulls,Miami Heat,United Center,2026-01-09,01:00 UTC,"Miami Heat vs Chicago Bulls @ United Center, 2026-01-09 01:00 UTC",,
 401810385,2026-01-09,Minnesota Timberwolves,Cleveland Cavaliers,Target Center,2026-01-09,01:00 UTC,"Cleveland Cavaliers vs Minnesota Timberwolves @ Target Center, 2026-01-09 01:00 UTC",122,131
 401810386,2026-01-09,Utah Jazz,Dallas Mavericks,Delta Center,2026-01-09,02:00 UTC,"Dallas Mavericks vs Utah Jazz @ Delta Center, 2026-01-09 02:00 UTC",114,116
+401810387,2026-01-10,Boston Celtics,Toronto Raptors,TD Garden,2026-01-10,00:00 UTC,"Toronto Raptors vs Boston Celtics @ TD Garden, 2026-01-10 00:00 UTC",117,125
+401810388,2026-01-10,Orlando Magic,Philadelphia 76ers,Kia Center,2026-01-10,00:00 UTC,"Philadelphia 76ers vs Orlando Magic @ Kia Center, 2026-01-10 00:00 UTC",103,91
+401810389,2026-01-10,Washington Wizards,New Orleans Pelicans,Capital One Arena,2026-01-10,00:00 UTC,"New Orleans Pelicans vs Washington Wizards @ Capital One Arena, 2026-01-10 00:00 UTC",128,107
+401810390,2026-01-10,Brooklyn Nets,LA Clippers,Barclays Center,2026-01-10,00:30 UTC,"LA Clippers vs Brooklyn Nets @ Barclays Center, 2026-01-10 00:30 UTC",121,105
+401810391,2026-01-10,Memphis Grizzlies,Oklahoma City Thunder,FedExForum,2026-01-10,01:00 UTC,"Oklahoma City Thunder vs Memphis Grizzlies @ FedExForum, 2026-01-10 01:00 UTC",117,116
+401810392,2026-01-10,Denver Nuggets,Atlanta Hawks,Ball Arena,2026-01-10,02:00 UTC,"Atlanta Hawks vs Denver Nuggets @ Ball Arena, 2026-01-10 02:00 UTC",110,87
+401810393,2026-01-10,Phoenix Suns,New York Knicks,Mortgage Matchup Center,2026-01-10,02:00 UTC,"New York Knicks vs Phoenix Suns @ Mortgage Matchup Center, 2026-01-10 02:00 UTC",107,112
+401810394,2026-01-10,Golden State Warriors,Sacramento Kings,Chase Center,2026-01-10,03:00 UTC,"Sacramento Kings vs Golden State Warriors @ Chase Center, 2026-01-10 03:00 UTC",103,137
+401810395,2026-01-10,Portland Trail Blazers,Houston Rockets,Moda Center,2026-01-10,03:00 UTC,"Houston Rockets vs Portland Trail Blazers @ Moda Center, 2026-01-10 03:00 UTC",105,111
+401810396,2026-01-10,Los Angeles Lakers,Milwaukee Bucks,crypto.com Arena,2026-01-10,03:30 UTC,"Milwaukee Bucks vs Los Angeles Lakers @ crypto.com Arena, 2026-01-10 03:30 UTC",105,101

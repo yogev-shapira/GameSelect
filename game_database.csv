@@ -1527,3 +1527,9 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810394,2026-01-10,Golden State Warriors,Sacramento Kings,Chase Center,2026-01-10,03:00 UTC,"Sacramento Kings vs Golden State Warriors @ Chase Center, 2026-01-10 03:00 UTC",103,137
 401810395,2026-01-10,Portland Trail Blazers,Houston Rockets,Moda Center,2026-01-10,03:00 UTC,"Houston Rockets vs Portland Trail Blazers @ Moda Center, 2026-01-10 03:00 UTC",105,111
 401810396,2026-01-10,Los Angeles Lakers,Milwaukee Bucks,crypto.com Arena,2026-01-10,03:30 UTC,"Milwaukee Bucks vs Los Angeles Lakers @ crypto.com Arena, 2026-01-10 03:30 UTC",105,101
+401810397,2026-01-10,Cleveland Cavaliers,Minnesota Timberwolves,Rocket Arena,2026-01-10,18:00 UTC,"Minnesota Timberwolves vs Cleveland Cavaliers @ Rocket Arena, 2026-01-10 18:00 UTC",134,146
+401810398,2026-01-11,Indiana Pacers,Miami Heat,Gainbridge Fieldhouse,2026-01-11,00:00 UTC,"Miami Heat vs Indiana Pacers @ Gainbridge Fieldhouse, 2026-01-11 00:00 UTC",99,123
+401810399,2026-01-11,Detroit Pistons,LA Clippers,Little Caesars Arena,2026-01-11,00:30 UTC,"LA Clippers vs Detroit Pistons @ Little Caesars Arena, 2026-01-11 00:30 UTC",98,92
+401810400,2026-01-11,Boston Celtics,San Antonio Spurs,TD Garden,2026-01-11,01:00 UTC,"San Antonio Spurs vs Boston Celtics @ TD Garden, 2026-01-11 01:00 UTC",100,95
+401810401,2026-01-11,Chicago Bulls,Dallas Mavericks,United Center,2026-01-11,01:00 UTC,"Dallas Mavericks vs Chicago Bulls @ United Center, 2026-01-11 01:00 UTC",107,125
+401810402,2026-01-11,Utah Jazz,Charlotte Hornets,Delta Center,2026-01-11,02:30 UTC,"Charlotte Hornets vs Utah Jazz @ Delta Center, 2026-01-11 02:30 UTC",150,95

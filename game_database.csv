@@ -1533,3 +1533,13 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810400,2026-01-11,Boston Celtics,San Antonio Spurs,TD Garden,2026-01-11,01:00 UTC,"San Antonio Spurs vs Boston Celtics @ TD Garden, 2026-01-11 01:00 UTC",100,95
 401810401,2026-01-11,Chicago Bulls,Dallas Mavericks,United Center,2026-01-11,01:00 UTC,"Dallas Mavericks vs Chicago Bulls @ United Center, 2026-01-11 01:00 UTC",107,125
 401810402,2026-01-11,Utah Jazz,Charlotte Hornets,Delta Center,2026-01-11,02:30 UTC,"Charlotte Hornets vs Utah Jazz @ Delta Center, 2026-01-11 02:30 UTC",150,95
+401810403,2026-01-11,Orlando Magic,New Orleans Pelicans,Kia Center,2026-01-11,20:00 UTC,"New Orleans Pelicans vs Orlando Magic @ Kia Center, 2026-01-11 20:00 UTC",118,128
+401810404,2026-01-11,Memphis Grizzlies,Brooklyn Nets,FedExForum,2026-01-11,20:30 UTC,"Brooklyn Nets vs Memphis Grizzlies @ FedExForum, 2026-01-11 20:30 UTC",98,103
+401810405,2026-01-11,Toronto Raptors,Philadelphia 76ers,Scotiabank Arena,2026-01-11,23:00 UTC,"Philadelphia 76ers vs Toronto Raptors @ Scotiabank Arena, 2026-01-11 23:00 UTC",115,116
+401810406,2026-01-11,Portland Trail Blazers,New York Knicks,Moda Center,2026-01-11,23:00 UTC,"New York Knicks vs Portland Trail Blazers @ Moda Center, 2026-01-11 23:00 UTC",123,114
+401810407,2026-01-12,Minnesota Timberwolves,San Antonio Spurs,Target Center,2026-01-12,00:00 UTC,"San Antonio Spurs vs Minnesota Timberwolves @ Target Center, 2026-01-12 00:00 UTC",103,104
+401810408,2026-01-12,Oklahoma City Thunder,Miami Heat,Paycom Center,2026-01-12,00:00 UTC,"Miami Heat vs Oklahoma City Thunder @ Paycom Center, 2026-01-12 00:00 UTC",112,124
+401810409,2026-01-12,Denver Nuggets,Milwaukee Bucks,Ball Arena,2026-01-12,01:00 UTC,"Milwaukee Bucks vs Denver Nuggets @ Ball Arena, 2026-01-12 01:00 UTC",104,108
+401810410,2026-01-12,Phoenix Suns,Washington Wizards,Mortgage Matchup Center,2026-01-12,01:00 UTC,"Washington Wizards vs Phoenix Suns @ Mortgage Matchup Center, 2026-01-12 01:00 UTC",93,112
+401810411,2026-01-12,Golden State Warriors,Atlanta Hawks,Chase Center,2026-01-12,01:30 UTC,"Atlanta Hawks vs Golden State Warriors @ Chase Center, 2026-01-12 01:30 UTC",124,111
+401810412,2026-01-12,Sacramento Kings,Houston Rockets,Golden 1 Center,2026-01-12,02:00 UTC,"Houston Rockets vs Sacramento Kings @ Golden 1 Center, 2026-01-12 02:00 UTC",98,111

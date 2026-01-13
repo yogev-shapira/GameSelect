@@ -1543,3 +1543,9 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810410,2026-01-12,Phoenix Suns,Washington Wizards,Mortgage Matchup Center,2026-01-12,01:00 UTC,"Washington Wizards vs Phoenix Suns @ Mortgage Matchup Center, 2026-01-12 01:00 UTC",93,112
 401810411,2026-01-12,Golden State Warriors,Atlanta Hawks,Chase Center,2026-01-12,01:30 UTC,"Atlanta Hawks vs Golden State Warriors @ Chase Center, 2026-01-12 01:30 UTC",124,111
 401810412,2026-01-12,Sacramento Kings,Houston Rockets,Golden 1 Center,2026-01-12,02:00 UTC,"Houston Rockets vs Sacramento Kings @ Golden 1 Center, 2026-01-12 02:00 UTC",98,111
+401810413,2026-01-13,Cleveland Cavaliers,Utah Jazz,Rocket Arena,2026-01-13,00:00 UTC,"Utah Jazz vs Cleveland Cavaliers @ Rocket Arena, 2026-01-13 00:00 UTC",123,112
+401810414,2026-01-13,Indiana Pacers,Boston Celtics,Gainbridge Fieldhouse,2026-01-13,00:30 UTC,"Boston Celtics vs Indiana Pacers @ Gainbridge Fieldhouse, 2026-01-13 00:30 UTC",96,98
+401810415,2026-01-13,Toronto Raptors,Philadelphia 76ers,Scotiabank Arena,2026-01-13,00:30 UTC,"Philadelphia 76ers vs Toronto Raptors @ Scotiabank Arena, 2026-01-13 00:30 UTC",115,102
+401810416,2026-01-13,Dallas Mavericks,Brooklyn Nets,American Airlines Center,2026-01-13,01:30 UTC,"Brooklyn Nets vs Dallas Mavericks @ American Airlines Center, 2026-01-13 01:30 UTC",105,113
+401810417,2026-01-13,Sacramento Kings,Los Angeles Lakers,Golden 1 Center,2026-01-13,03:00 UTC,"Los Angeles Lakers vs Sacramento Kings @ Golden 1 Center, 2026-01-13 03:00 UTC",112,124
+401810418,2026-01-13,LA Clippers,Charlotte Hornets,Intuit Dome,2026-01-13,03:30 UTC,"Charlotte Hornets vs LA Clippers @ Intuit Dome, 2026-01-13 03:30 UTC",109,117

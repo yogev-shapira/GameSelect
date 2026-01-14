@@ -1549,3 +1549,10 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810416,2026-01-13,Dallas Mavericks,Brooklyn Nets,American Airlines Center,2026-01-13,01:30 UTC,"Brooklyn Nets vs Dallas Mavericks @ American Airlines Center, 2026-01-13 01:30 UTC",105,113
 401810417,2026-01-13,Sacramento Kings,Los Angeles Lakers,Golden 1 Center,2026-01-13,03:00 UTC,"Los Angeles Lakers vs Sacramento Kings @ Golden 1 Center, 2026-01-13 03:00 UTC",112,124
 401810418,2026-01-13,LA Clippers,Charlotte Hornets,Intuit Dome,2026-01-13,03:30 UTC,"Charlotte Hornets vs LA Clippers @ Intuit Dome, 2026-01-13 03:30 UTC",109,117
+401810419,2026-01-14,Miami Heat,Phoenix Suns,Kaseya Center,2026-01-14,00:30 UTC,"Phoenix Suns vs Miami Heat @ Kaseya Center, 2026-01-14 00:30 UTC",121,127
+401810420,2026-01-14,Houston Rockets,Chicago Bulls,Toyota Center (Houston),2026-01-14,01:00 UTC,"Chicago Bulls vs Houston Rockets @ Toyota Center (Houston), 2026-01-14 01:00 UTC",113,119
+401810421,2026-01-14,Milwaukee Bucks,Minnesota Timberwolves,Fiserv Forum,2026-01-14,01:00 UTC,"Minnesota Timberwolves vs Milwaukee Bucks @ Fiserv Forum, 2026-01-14 01:00 UTC",139,106
+401810422,2026-01-14,New Orleans Pelicans,Denver Nuggets,Smoothie King Center,2026-01-14,01:00 UTC,"Denver Nuggets vs New Orleans Pelicans @ Smoothie King Center, 2026-01-14 01:00 UTC",122,116
+401810423,2026-01-14,Oklahoma City Thunder,San Antonio Spurs,Paycom Center,2026-01-14,01:00 UTC,"San Antonio Spurs vs Oklahoma City Thunder @ Paycom Center, 2026-01-14 01:00 UTC",98,119
+401810424,2026-01-14,Los Angeles Lakers,Atlanta Hawks,crypto.com Arena,2026-01-14,03:30 UTC,"Atlanta Hawks vs Los Angeles Lakers @ crypto.com Arena, 2026-01-14 03:30 UTC",116,141
+401810425,2026-01-14,Golden State Warriors,Portland Trail Blazers,Chase Center,2026-01-14,04:00 UTC,"Portland Trail Blazers vs Golden State Warriors @ Chase Center, 2026-01-14 04:00 UTC",97,119

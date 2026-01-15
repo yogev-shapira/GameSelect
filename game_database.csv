@@ -1556,3 +1556,10 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810423,2026-01-14,Oklahoma City Thunder,San Antonio Spurs,Paycom Center,2026-01-14,01:00 UTC,"San Antonio Spurs vs Oklahoma City Thunder @ Paycom Center, 2026-01-14 01:00 UTC",98,119
 401810424,2026-01-14,Los Angeles Lakers,Atlanta Hawks,crypto.com Arena,2026-01-14,03:30 UTC,"Atlanta Hawks vs Los Angeles Lakers @ crypto.com Arena, 2026-01-14 03:30 UTC",116,141
 401810425,2026-01-14,Golden State Warriors,Portland Trail Blazers,Chase Center,2026-01-14,04:00 UTC,"Portland Trail Blazers vs Golden State Warriors @ Chase Center, 2026-01-14 04:00 UTC",97,119
+401810426,2026-01-15,Indiana Pacers,Toronto Raptors,Gainbridge Fieldhouse,2026-01-15,00:00 UTC,"Toronto Raptors vs Indiana Pacers @ Gainbridge Fieldhouse, 2026-01-15 00:00 UTC",115,101
+401810427,2026-01-15,Philadelphia 76ers,Cleveland Cavaliers,Xfinity Mobile Arena,2026-01-15,00:00 UTC,"Cleveland Cavaliers vs Philadelphia 76ers @ Xfinity Mobile Arena, 2026-01-15 00:00 UTC",133,107
+401810428,2026-01-15,Chicago Bulls,Utah Jazz,United Center,2026-01-15,01:00 UTC,"Utah Jazz vs Chicago Bulls @ United Center, 2026-01-15 01:00 UTC",126,128
+401810429,2026-01-15,New Orleans Pelicans,Brooklyn Nets,Smoothie King Center,2026-01-15,01:00 UTC,"Brooklyn Nets vs New Orleans Pelicans @ Smoothie King Center, 2026-01-15 01:00 UTC",113,116
+401810430,2026-01-15,Dallas Mavericks,Denver Nuggets,American Airlines Center,2026-01-15,02:30 UTC,"Denver Nuggets vs Dallas Mavericks @ American Airlines Center, 2026-01-15 02:30 UTC",118,109
+401810431,2026-01-15,Sacramento Kings,New York Knicks,Golden 1 Center,2026-01-15,03:00 UTC,"New York Knicks vs Sacramento Kings @ Golden 1 Center, 2026-01-15 03:00 UTC",101,112
+401810432,2026-01-15,LA Clippers,Washington Wizards,Intuit Dome,2026-01-15,03:30 UTC,"Washington Wizards vs LA Clippers @ Intuit Dome, 2026-01-15 03:30 UTC",105,119

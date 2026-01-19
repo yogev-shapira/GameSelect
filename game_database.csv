@@ -1587,3 +1587,9 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810454,2026-01-18,Golden State Warriors,Charlotte Hornets,Chase Center,2026-01-18,01:30 UTC,"Charlotte Hornets vs Golden State Warriors @ Chase Center, 2026-01-18 01:30 UTC",116,136
 401810455,2026-01-18,Denver Nuggets,Washington Wizards,Ball Arena,2026-01-18,02:00 UTC,"Washington Wizards vs Denver Nuggets @ Ball Arena, 2026-01-18 02:00 UTC",115,121
 401810456,2026-01-18,Portland Trail Blazers,Los Angeles Lakers,Moda Center,2026-01-18,03:00 UTC,"Los Angeles Lakers vs Portland Trail Blazers @ Moda Center, 2026-01-18 03:00 UTC",116,132
+401810457,2026-01-18,Memphis Grizzlies,Orlando Magic,The O2,2026-01-18,17:00 UTC,"Orlando Magic vs Memphis Grizzlies @ The O2, 2026-01-18 17:00 UTC",109,126
+401810458,2026-01-19,Chicago Bulls,Brooklyn Nets,United Center,2026-01-19,00:00 UTC,"Brooklyn Nets vs Chicago Bulls @ United Center, 2026-01-19 00:00 UTC",102,124
+401810459,2026-01-19,Houston Rockets,New Orleans Pelicans,Toyota Center (Houston),2026-01-19,00:00 UTC,"New Orleans Pelicans vs Houston Rockets @ Toyota Center (Houston), 2026-01-19 00:00 UTC",110,119
+401810460,2026-01-19,Denver Nuggets,Charlotte Hornets,Ball Arena,2026-01-19,01:00 UTC,"Charlotte Hornets vs Denver Nuggets @ Ball Arena, 2026-01-19 01:00 UTC",110,87
+401810461,2026-01-19,Sacramento Kings,Portland Trail Blazers,Golden 1 Center,2026-01-19,02:00 UTC,"Portland Trail Blazers vs Sacramento Kings @ Golden 1 Center, 2026-01-19 02:00 UTC",117,110
+401810462,2026-01-19,Los Angeles Lakers,Toronto Raptors,crypto.com Arena,2026-01-19,02:30 UTC,"Toronto Raptors vs Los Angeles Lakers @ crypto.com Arena, 2026-01-19 02:30 UTC",93,110

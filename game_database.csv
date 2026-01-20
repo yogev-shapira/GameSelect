@@ -1593,3 +1593,12 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810460,2026-01-19,Denver Nuggets,Charlotte Hornets,Ball Arena,2026-01-19,01:00 UTC,"Charlotte Hornets vs Denver Nuggets @ Ball Arena, 2026-01-19 01:00 UTC",110,87
 401810461,2026-01-19,Sacramento Kings,Portland Trail Blazers,Golden 1 Center,2026-01-19,02:00 UTC,"Portland Trail Blazers vs Sacramento Kings @ Golden 1 Center, 2026-01-19 02:00 UTC",117,110
 401810462,2026-01-19,Los Angeles Lakers,Toronto Raptors,crypto.com Arena,2026-01-19,02:30 UTC,"Toronto Raptors vs Los Angeles Lakers @ crypto.com Arena, 2026-01-19 02:30 UTC",93,110
+401809247,2026-01-19,Atlanta Hawks,Milwaukee Bucks,State Farm Arena,2026-01-19,18:00 UTC,"Milwaukee Bucks vs Atlanta Hawks @ State Farm Arena, 2026-01-19 18:00 UTC",112,110
+401809248,2026-01-19,Cleveland Cavaliers,Oklahoma City Thunder,Rocket Arena,2026-01-19,19:30 UTC,"Oklahoma City Thunder vs Cleveland Cavaliers @ Rocket Arena, 2026-01-19 19:30 UTC",136,104
+401810463,2026-01-19,Washington Wizards,LA Clippers,Capital One Arena,2026-01-19,20:00 UTC,"LA Clippers vs Washington Wizards @ Capital One Arena, 2026-01-19 20:00 UTC",110,106
+401809249,2026-01-19,New York Knicks,Dallas Mavericks,Madison Square Garden,2026-01-19,22:00 UTC,"Dallas Mavericks vs New York Knicks @ Madison Square Garden, 2026-01-19 22:00 UTC",114,97
+401810466,2026-01-19,San Antonio Spurs,Utah Jazz,Frost Bank Center,2026-01-19,22:00 UTC,"Utah Jazz vs San Antonio Spurs @ Frost Bank Center, 2026-01-19 22:00 UTC",110,123
+401810464,2026-01-20,Philadelphia 76ers,Indiana Pacers,Xfinity Mobile Arena,2026-01-20,00:00 UTC,"Indiana Pacers vs Philadelphia 76ers @ Xfinity Mobile Arena, 2026-01-20 00:00 UTC",104,113
+401810465,2026-01-20,Brooklyn Nets,Phoenix Suns,Barclays Center,2026-01-20,00:30 UTC,"Phoenix Suns vs Brooklyn Nets @ Barclays Center, 2026-01-20 00:30 UTC",126,117
+401809250,2026-01-20,Detroit Pistons,Boston Celtics,Little Caesars Arena,2026-01-20,01:00 UTC,"Boston Celtics vs Detroit Pistons @ Little Caesars Arena, 2026-01-20 01:00 UTC",103,104
+401810467,2026-01-20,Golden State Warriors,Miami Heat,Chase Center,2026-01-20,03:00 UTC,"Miami Heat vs Golden State Warriors @ Chase Center, 2026-01-20 03:00 UTC",112,135

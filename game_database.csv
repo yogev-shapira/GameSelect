@@ -1609,3 +1609,10 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810472,2026-01-21,Denver Nuggets,Los Angeles Lakers,Ball Arena,2026-01-21,03:00 UTC,"Los Angeles Lakers vs Denver Nuggets @ Ball Arena, 2026-01-21 03:00 UTC",115,107
 401810473,2026-01-21,Golden State Warriors,Toronto Raptors,Chase Center,2026-01-21,03:00 UTC,"Toronto Raptors vs Golden State Warriors @ Chase Center, 2026-01-21 03:00 UTC",145,127
 401810474,2026-01-21,Sacramento Kings,Miami Heat,Golden 1 Center,2026-01-21,03:00 UTC,"Miami Heat vs Sacramento Kings @ Golden 1 Center, 2026-01-21 03:00 UTC",130,117
+401810475,2026-01-22,Charlotte Hornets,Cleveland Cavaliers,Spectrum Center,2026-01-22,00:00 UTC,"Cleveland Cavaliers vs Charlotte Hornets @ Spectrum Center, 2026-01-22 00:00 UTC",94,87
+401810476,2026-01-22,Boston Celtics,Indiana Pacers,TD Garden,2026-01-22,00:30 UTC,"Indiana Pacers vs Boston Celtics @ TD Garden, 2026-01-22 00:30 UTC",104,119
+401810477,2026-01-22,New York Knicks,Brooklyn Nets,Madison Square Garden,2026-01-22,00:30 UTC,"Brooklyn Nets vs New York Knicks @ Madison Square Garden, 2026-01-22 00:30 UTC",66,120
+401810478,2026-01-22,Memphis Grizzlies,Atlanta Hawks,FedExForum,2026-01-22,01:00 UTC,"Atlanta Hawks vs Memphis Grizzlies @ FedExForum, 2026-01-22 01:00 UTC",124,122
+401810479,2026-01-22,New Orleans Pelicans,Detroit Pistons,Smoothie King Center,2026-01-22,01:00 UTC,"Detroit Pistons vs New Orleans Pelicans @ Smoothie King Center, 2026-01-22 01:00 UTC",112,104
+401810480,2026-01-22,Milwaukee Bucks,Oklahoma City Thunder,Fiserv Forum,2026-01-22,02:30 UTC,"Oklahoma City Thunder vs Milwaukee Bucks @ Fiserv Forum, 2026-01-22 02:30 UTC",122,102
+401810481,2026-01-22,Sacramento Kings,Toronto Raptors,Golden 1 Center,2026-01-22,03:00 UTC,"Toronto Raptors vs Sacramento Kings @ Golden 1 Center, 2026-01-22 03:00 UTC",122,109

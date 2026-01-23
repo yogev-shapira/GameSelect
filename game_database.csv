@@ -1616,3 +1616,11 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810479,2026-01-22,New Orleans Pelicans,Detroit Pistons,Smoothie King Center,2026-01-22,01:00 UTC,"Detroit Pistons vs New Orleans Pelicans @ Smoothie King Center, 2026-01-22 01:00 UTC",112,104
 401810480,2026-01-22,Milwaukee Bucks,Oklahoma City Thunder,Fiserv Forum,2026-01-22,02:30 UTC,"Oklahoma City Thunder vs Milwaukee Bucks @ Fiserv Forum, 2026-01-22 02:30 UTC",122,102
 401810481,2026-01-22,Sacramento Kings,Toronto Raptors,Golden 1 Center,2026-01-22,03:00 UTC,"Toronto Raptors vs Sacramento Kings @ Golden 1 Center, 2026-01-22 03:00 UTC",122,109
+401810482,2026-01-23,Orlando Magic,Charlotte Hornets,Kia Center,2026-01-23,00:00 UTC,"Charlotte Hornets vs Orlando Magic @ Kia Center, 2026-01-23 00:00 UTC",124,97
+401810483,2026-01-23,Philadelphia 76ers,Houston Rockets,Xfinity Mobile Arena,2026-01-23,00:00 UTC,"Houston Rockets vs Philadelphia 76ers @ Xfinity Mobile Arena, 2026-01-23 00:00 UTC",122,128
+401810484,2026-01-23,Washington Wizards,Denver Nuggets,Capital One Arena,2026-01-23,00:00 UTC,"Denver Nuggets vs Washington Wizards @ Capital One Arena, 2026-01-23 00:00 UTC",107,97
+401810485,2026-01-23,Dallas Mavericks,Golden State Warriors,American Airlines Center,2026-01-23,00:30 UTC,"Golden State Warriors vs Dallas Mavericks @ American Airlines Center, 2026-01-23 00:30 UTC",115,123
+401810486,2026-01-23,Minnesota Timberwolves,Chicago Bulls,Target Center,2026-01-23,01:00 UTC,"Chicago Bulls vs Minnesota Timberwolves @ Target Center, 2026-01-23 01:00 UTC",120,115
+401810487,2026-01-23,Utah Jazz,San Antonio Spurs,Delta Center,2026-01-23,02:00 UTC,"San Antonio Spurs vs Utah Jazz @ Delta Center, 2026-01-23 02:00 UTC",126,109
+401810488,2026-01-23,LA Clippers,Los Angeles Lakers,Intuit Dome,2026-01-23,03:00 UTC,"Los Angeles Lakers vs LA Clippers @ Intuit Dome, 2026-01-23 03:00 UTC",104,112
+401810489,2026-01-23,Portland Trail Blazers,Miami Heat,Moda Center,2026-01-23,03:00 UTC,"Miami Heat vs Portland Trail Blazers @ Moda Center, 2026-01-23 03:00 UTC",110,127

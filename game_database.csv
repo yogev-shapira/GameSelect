@@ -1624,3 +1624,11 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810487,2026-01-23,Utah Jazz,San Antonio Spurs,Delta Center,2026-01-23,02:00 UTC,"San Antonio Spurs vs Utah Jazz @ Delta Center, 2026-01-23 02:00 UTC",126,109
 401810488,2026-01-23,LA Clippers,Los Angeles Lakers,Intuit Dome,2026-01-23,03:00 UTC,"Los Angeles Lakers vs LA Clippers @ Intuit Dome, 2026-01-23 03:00 UTC",104,112
 401810489,2026-01-23,Portland Trail Blazers,Miami Heat,Moda Center,2026-01-23,03:00 UTC,"Miami Heat vs Portland Trail Blazers @ Moda Center, 2026-01-23 03:00 UTC",110,127
+401810490,2026-01-24,Detroit Pistons,Houston Rockets,Little Caesars Arena,2026-01-24,00:00 UTC,"Houston Rockets vs Detroit Pistons @ Little Caesars Arena, 2026-01-24 00:00 UTC",111,104
+401810491,2026-01-24,Atlanta Hawks,Phoenix Suns,State Farm Arena,2026-01-24,00:30 UTC,"Phoenix Suns vs Atlanta Hawks @ State Farm Arena, 2026-01-24 00:30 UTC",103,110
+401810492,2026-01-24,Brooklyn Nets,Boston Celtics,Barclays Center,2026-01-24,00:30 UTC,"Boston Celtics vs Brooklyn Nets @ Barclays Center, 2026-01-24 00:30 UTC",130,126
+401810493,2026-01-24,Cleveland Cavaliers,Sacramento Kings,Rocket Arena,2026-01-24,00:30 UTC,"Sacramento Kings vs Cleveland Cavaliers @ Rocket Arena, 2026-01-24 00:30 UTC",118,123
+401810494,2026-01-24,Memphis Grizzlies,New Orleans Pelicans,FedExForum,2026-01-24,01:00 UTC,"New Orleans Pelicans vs Memphis Grizzlies @ FedExForum, 2026-01-24 01:00 UTC",133,127
+401810496,2026-01-24,Oklahoma City Thunder,Indiana Pacers,Paycom Center,2026-01-24,01:00 UTC,"Indiana Pacers vs Oklahoma City Thunder @ Paycom Center, 2026-01-24 01:00 UTC",117,114
+401810495,2026-01-24,Milwaukee Bucks,Denver Nuggets,Fiserv Forum,2026-01-24,02:30 UTC,"Denver Nuggets vs Milwaukee Bucks @ Fiserv Forum, 2026-01-24 02:30 UTC",102,100
+401810497,2026-01-24,Portland Trail Blazers,Toronto Raptors,Moda Center,2026-01-24,03:00 UTC,"Toronto Raptors vs Portland Trail Blazers @ Moda Center, 2026-01-24 03:00 UTC",110,98

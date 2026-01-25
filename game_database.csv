@@ -1632,3 +1632,10 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810496,2026-01-24,Oklahoma City Thunder,Indiana Pacers,Paycom Center,2026-01-24,01:00 UTC,"Indiana Pacers vs Oklahoma City Thunder @ Paycom Center, 2026-01-24 01:00 UTC",117,114
 401810495,2026-01-24,Milwaukee Bucks,Denver Nuggets,Fiserv Forum,2026-01-24,02:30 UTC,"Denver Nuggets vs Milwaukee Bucks @ Fiserv Forum, 2026-01-24 02:30 UTC",102,100
 401810497,2026-01-24,Portland Trail Blazers,Toronto Raptors,Moda Center,2026-01-24,03:00 UTC,"Toronto Raptors vs Portland Trail Blazers @ Moda Center, 2026-01-24 03:00 UTC",110,98
+401810500,2026-01-24,Charlotte Hornets,Washington Wizards,Spectrum Center,2026-01-24,17:00 UTC,"Washington Wizards vs Charlotte Hornets @ Spectrum Center, 2026-01-24 17:00 UTC",115,119
+401810498,2026-01-24,Philadelphia 76ers,New York Knicks,Xfinity Mobile Arena,2026-01-24,20:00 UTC,"New York Knicks vs Philadelphia 76ers @ Xfinity Mobile Arena, 2026-01-24 20:00 UTC",112,109
+401810499,2026-01-24,Minnesota Timberwolves,Golden State Warriors,Target Center,2026-01-24,22:30 UTC,"Golden State Warriors vs Minnesota Timberwolves @ Target Center, 2026-01-24 22:30 UTC",,
+401810501,2026-01-25,Orlando Magic,Cleveland Cavaliers,Kia Center,2026-01-25,00:00 UTC,"Cleveland Cavaliers vs Orlando Magic @ Kia Center, 2026-01-25 00:00 UTC",119,105
+401810502,2026-01-25,Chicago Bulls,Boston Celtics,United Center,2026-01-25,01:00 UTC,"Boston Celtics vs Chicago Bulls @ United Center, 2026-01-25 01:00 UTC",111,114
+401810503,2026-01-25,Dallas Mavericks,Los Angeles Lakers,American Airlines Center,2026-01-25,01:30 UTC,"Los Angeles Lakers vs Dallas Mavericks @ American Airlines Center, 2026-01-25 01:30 UTC",116,110
+401810504,2026-01-25,Utah Jazz,Miami Heat,Delta Center,2026-01-25,02:30 UTC,"Miami Heat vs Utah Jazz @ Delta Center, 2026-01-25 02:30 UTC",147,116

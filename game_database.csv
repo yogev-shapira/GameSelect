@@ -1654,3 +1654,10 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810516,2026-01-27,Chicago Bulls,Los Angeles Lakers,United Center,2026-01-27,01:00 UTC,"Los Angeles Lakers vs Chicago Bulls @ United Center, 2026-01-27 01:00 UTC",129,118
 401810517,2026-01-27,Houston Rockets,Memphis Grizzlies,Toyota Center (Houston),2026-01-27,01:00 UTC,"Memphis Grizzlies vs Houston Rockets @ Toyota Center (Houston), 2026-01-27 01:00 UTC",99,108
 401810518,2026-01-27,Minnesota Timberwolves,Golden State Warriors,Target Center,2026-01-27,02:30 UTC,"Golden State Warriors vs Minnesota Timberwolves @ Target Center, 2026-01-27 02:30 UTC",83,108
+401810519,2026-01-28,Washington Wizards,Portland Trail Blazers,Capital One Arena,2026-01-28,00:00 UTC,"Portland Trail Blazers vs Washington Wizards @ Capital One Arena, 2026-01-28 00:00 UTC",111,115
+401810520,2026-01-28,New York Knicks,Sacramento Kings,Madison Square Garden,2026-01-28,00:30 UTC,"Sacramento Kings vs New York Knicks @ Madison Square Garden, 2026-01-28 00:30 UTC",87,103
+401810521,2026-01-28,Philadelphia 76ers,Milwaukee Bucks,Xfinity Mobile Arena,2026-01-28,01:00 UTC,"Milwaukee Bucks vs Philadelphia 76ers @ Xfinity Mobile Arena, 2026-01-28 01:00 UTC",122,139
+401810522,2026-01-28,Oklahoma City Thunder,New Orleans Pelicans,Paycom Center,2026-01-28,01:00 UTC,"New Orleans Pelicans vs Oklahoma City Thunder @ Paycom Center, 2026-01-28 01:00 UTC",95,104
+401810523,2026-01-28,Denver Nuggets,Detroit Pistons,Ball Arena,2026-01-28,02:00 UTC,"Detroit Pistons vs Denver Nuggets @ Ball Arena, 2026-01-28 02:00 UTC",109,107
+401810524,2026-01-28,Phoenix Suns,Brooklyn Nets,Mortgage Matchup Center,2026-01-28,02:00 UTC,"Brooklyn Nets vs Phoenix Suns @ Mortgage Matchup Center, 2026-01-28 02:00 UTC",102,106
+401810525,2026-01-28,Utah Jazz,LA Clippers,Delta Center,2026-01-28,03:00 UTC,"LA Clippers vs Utah Jazz @ Delta Center, 2026-01-28 03:00 UTC",115,103

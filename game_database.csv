@@ -1661,3 +1661,12 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810523,2026-01-28,Denver Nuggets,Detroit Pistons,Ball Arena,2026-01-28,02:00 UTC,"Detroit Pistons vs Denver Nuggets @ Ball Arena, 2026-01-28 02:00 UTC",109,107
 401810524,2026-01-28,Phoenix Suns,Brooklyn Nets,Mortgage Matchup Center,2026-01-28,02:00 UTC,"Brooklyn Nets vs Phoenix Suns @ Mortgage Matchup Center, 2026-01-28 02:00 UTC",102,106
 401810525,2026-01-28,Utah Jazz,LA Clippers,Delta Center,2026-01-28,03:00 UTC,"LA Clippers vs Utah Jazz @ Delta Center, 2026-01-28 03:00 UTC",115,103
+401810526,2026-01-29,Cleveland Cavaliers,Los Angeles Lakers,Rocket Arena,2026-01-29,00:00 UTC,"Los Angeles Lakers vs Cleveland Cavaliers @ Rocket Arena, 2026-01-29 00:00 UTC",99,129
+401810527,2026-01-29,Indiana Pacers,Chicago Bulls,Gainbridge Fieldhouse,2026-01-29,00:00 UTC,"Chicago Bulls vs Indiana Pacers @ Gainbridge Fieldhouse, 2026-01-29 00:00 UTC",110,113
+401810528,2026-01-29,Boston Celtics,Atlanta Hawks,TD Garden,2026-01-29,00:30 UTC,"Atlanta Hawks vs Boston Celtics @ TD Garden, 2026-01-29 00:30 UTC",117,106
+401810529,2026-01-29,Miami Heat,Orlando Magic,Kaseya Center,2026-01-29,00:30 UTC,"Orlando Magic vs Miami Heat @ Kaseya Center, 2026-01-29 00:30 UTC",133,124
+401810530,2026-01-29,Toronto Raptors,New York Knicks,Scotiabank Arena,2026-01-29,00:30 UTC,"New York Knicks vs Toronto Raptors @ Scotiabank Arena, 2026-01-29 00:30 UTC",119,92
+401810531,2026-01-29,Memphis Grizzlies,Charlotte Hornets,FedExForum,2026-01-29,01:00 UTC,"Charlotte Hornets vs Memphis Grizzlies @ FedExForum, 2026-01-29 01:00 UTC",112,97
+401810532,2026-01-29,Dallas Mavericks,Minnesota Timberwolves,American Airlines Center,2026-01-29,01:30 UTC,"Minnesota Timberwolves vs Dallas Mavericks @ American Airlines Center, 2026-01-29 01:30 UTC",118,105
+401810533,2026-01-29,Utah Jazz,Golden State Warriors,Delta Center,2026-01-29,02:00 UTC,"Golden State Warriors vs Utah Jazz @ Delta Center, 2026-01-29 02:00 UTC",140,124
+401810534,2026-01-29,Houston Rockets,San Antonio Spurs,Toyota Center (Houston),2026-01-29,02:42 UTC,"San Antonio Spurs vs Houston Rockets @ Toyota Center (Houston), 2026-01-29 02:42 UTC",111,99

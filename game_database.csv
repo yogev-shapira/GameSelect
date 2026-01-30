@@ -1670,3 +1670,11 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810532,2026-01-29,Dallas Mavericks,Minnesota Timberwolves,American Airlines Center,2026-01-29,01:30 UTC,"Minnesota Timberwolves vs Dallas Mavericks @ American Airlines Center, 2026-01-29 01:30 UTC",118,105
 401810533,2026-01-29,Utah Jazz,Golden State Warriors,Delta Center,2026-01-29,02:00 UTC,"Golden State Warriors vs Utah Jazz @ Delta Center, 2026-01-29 02:00 UTC",140,124
 401810534,2026-01-29,Houston Rockets,San Antonio Spurs,Toyota Center (Houston),2026-01-29,02:42 UTC,"San Antonio Spurs vs Houston Rockets @ Toyota Center (Houston), 2026-01-29 02:42 UTC",111,99
+401810535,2026-01-30,Philadelphia 76ers,Sacramento Kings,Xfinity Mobile Arena,2026-01-30,00:00 UTC,"Sacramento Kings vs Philadelphia 76ers @ Xfinity Mobile Arena, 2026-01-30 00:00 UTC",111,113
+401810536,2026-01-30,Washington Wizards,Milwaukee Bucks,Capital One Arena,2026-01-30,00:00 UTC,"Milwaukee Bucks vs Washington Wizards @ Capital One Arena, 2026-01-30 00:00 UTC",99,109
+401810537,2026-01-30,Atlanta Hawks,Houston Rockets,State Farm Arena,2026-01-30,01:00 UTC,"Houston Rockets vs Atlanta Hawks @ State Farm Arena, 2026-01-30 01:00 UTC",104,86
+401850920,2026-01-30,Chicago Bulls,Miami Heat,United Center,2026-01-30,01:00 UTC,"Miami Heat vs Chicago Bulls @ United Center, 2026-01-30 01:00 UTC",116,113
+401810538,2026-01-30,Dallas Mavericks,Charlotte Hornets,American Airlines Center,2026-01-30,01:30 UTC,"Charlotte Hornets vs Dallas Mavericks @ American Airlines Center, 2026-01-30 01:30 UTC",123,121
+401810539,2026-01-30,Denver Nuggets,Brooklyn Nets,Ball Arena,2026-01-30,02:00 UTC,"Brooklyn Nets vs Denver Nuggets @ Ball Arena, 2026-01-30 02:00 UTC",103,107
+401810540,2026-01-30,Phoenix Suns,Detroit Pistons,Mortgage Matchup Center,2026-01-30,02:00 UTC,"Detroit Pistons vs Phoenix Suns @ Mortgage Matchup Center, 2026-01-30 02:00 UTC",96,114
+401810541,2026-01-30,Minnesota Timberwolves,Oklahoma City Thunder,Target Center,2026-01-30,02:30 UTC,"Oklahoma City Thunder vs Minnesota Timberwolves @ Target Center, 2026-01-30 02:30 UTC",111,123

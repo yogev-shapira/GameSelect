@@ -1678,3 +1678,12 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810539,2026-01-30,Denver Nuggets,Brooklyn Nets,Ball Arena,2026-01-30,02:00 UTC,"Brooklyn Nets vs Denver Nuggets @ Ball Arena, 2026-01-30 02:00 UTC",103,107
 401810540,2026-01-30,Phoenix Suns,Detroit Pistons,Mortgage Matchup Center,2026-01-30,02:00 UTC,"Detroit Pistons vs Phoenix Suns @ Mortgage Matchup Center, 2026-01-30 02:00 UTC",96,114
 401810541,2026-01-30,Minnesota Timberwolves,Oklahoma City Thunder,Target Center,2026-01-30,02:30 UTC,"Oklahoma City Thunder vs Minnesota Timberwolves @ Target Center, 2026-01-30 02:30 UTC",111,123
+401810543,2026-01-31,Washington Wizards,Los Angeles Lakers,Capital One Arena,2026-01-31,00:00 UTC,"Los Angeles Lakers vs Washington Wizards @ Capital One Arena, 2026-01-31 00:00 UTC",142,111
+401810542,2026-01-31,Orlando Magic,Toronto Raptors,Kia Center,2026-01-31,00:30 UTC,"Toronto Raptors vs Orlando Magic @ Kia Center, 2026-01-31 00:30 UTC",120,130
+401810544,2026-01-31,Boston Celtics,Sacramento Kings,TD Garden,2026-01-31,00:30 UTC,"Sacramento Kings vs Boston Celtics @ TD Garden, 2026-01-31 00:30 UTC",93,112
+401810545,2026-01-31,New York Knicks,Portland Trail Blazers,Madison Square Garden,2026-01-31,00:30 UTC,"Portland Trail Blazers vs New York Knicks @ Madison Square Garden, 2026-01-31 00:30 UTC",97,127
+401810546,2026-01-31,New Orleans Pelicans,Memphis Grizzlies,Smoothie King Center,2026-01-31,00:30 UTC,"Memphis Grizzlies vs New Orleans Pelicans @ Smoothie King Center, 2026-01-31 00:30 UTC",106,114
+401810548,2026-01-31,Phoenix Suns,Cleveland Cavaliers,Mortgage Matchup Center,2026-01-31,02:00 UTC,"Cleveland Cavaliers vs Phoenix Suns @ Mortgage Matchup Center, 2026-01-31 02:00 UTC",113,126
+401810550,2026-01-31,Denver Nuggets,LA Clippers,Ball Arena,2026-01-31,02:00 UTC,"LA Clippers vs Denver Nuggets @ Ball Arena, 2026-01-31 02:00 UTC",109,122
+401810549,2026-01-31,Utah Jazz,Brooklyn Nets,Delta Center,2026-01-31,02:30 UTC,"Brooklyn Nets vs Utah Jazz @ Delta Center, 2026-01-31 02:30 UTC",109,99
+401810551,2026-01-31,Golden State Warriors,Detroit Pistons,Chase Center,2026-01-31,03:00 UTC,"Detroit Pistons vs Golden State Warriors @ Chase Center, 2026-01-31 03:00 UTC",131,124

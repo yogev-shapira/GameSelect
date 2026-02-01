@@ -1687,3 +1687,9 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810550,2026-01-31,Denver Nuggets,LA Clippers,Ball Arena,2026-01-31,02:00 UTC,"LA Clippers vs Denver Nuggets @ Ball Arena, 2026-01-31 02:00 UTC",109,122
 401810549,2026-01-31,Utah Jazz,Brooklyn Nets,Delta Center,2026-01-31,02:30 UTC,"Brooklyn Nets vs Utah Jazz @ Delta Center, 2026-01-31 02:30 UTC",109,99
 401810551,2026-01-31,Golden State Warriors,Detroit Pistons,Chase Center,2026-01-31,03:00 UTC,"Detroit Pistons vs Golden State Warriors @ Chase Center, 2026-01-31 03:00 UTC",131,124
+401810552,2026-01-31,Charlotte Hornets,San Antonio Spurs,Spectrum Center,2026-01-31,17:00 UTC,"San Antonio Spurs vs Charlotte Hornets @ Spectrum Center, 2026-01-31 17:00 UTC",106,111
+401810553,2026-02-01,Indiana Pacers,Atlanta Hawks,Gainbridge Fieldhouse,2026-02-01,00:00 UTC,"Atlanta Hawks vs Indiana Pacers @ Gainbridge Fieldhouse, 2026-02-01 00:00 UTC",124,129
+401810554,2026-02-01,Philadelphia 76ers,New Orleans Pelicans,Xfinity Mobile Arena,2026-02-01,00:30 UTC,"New Orleans Pelicans vs Philadelphia 76ers @ Xfinity Mobile Arena, 2026-02-01 00:30 UTC",114,124
+401810547,2026-02-01,Miami Heat,Chicago Bulls,Kaseya Center,2026-02-01,01:00 UTC,"Chicago Bulls vs Miami Heat @ Kaseya Center, 2026-02-01 01:00 UTC",125,118
+401810555,2026-02-01,Memphis Grizzlies,Minnesota Timberwolves,FedExForum,2026-02-01,01:00 UTC,"Minnesota Timberwolves vs Memphis Grizzlies @ FedExForum, 2026-02-01 01:00 UTC",131,114
+401810556,2026-02-01,Houston Rockets,Dallas Mavericks,Toyota Center (Houston),2026-02-01,01:30 UTC,"Dallas Mavericks vs Houston Rockets @ Toyota Center (Houston), 2026-02-01 01:30 UTC",107,111

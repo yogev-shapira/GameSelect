@@ -1693,3 +1693,13 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810547,2026-02-01,Miami Heat,Chicago Bulls,Kaseya Center,2026-02-01,01:00 UTC,"Chicago Bulls vs Miami Heat @ Kaseya Center, 2026-02-01 01:00 UTC",125,118
 401810555,2026-02-01,Memphis Grizzlies,Minnesota Timberwolves,FedExForum,2026-02-01,01:00 UTC,"Minnesota Timberwolves vs Memphis Grizzlies @ FedExForum, 2026-02-01 01:00 UTC",131,114
 401810556,2026-02-01,Houston Rockets,Dallas Mavericks,Toyota Center (Houston),2026-02-01,01:30 UTC,"Dallas Mavericks vs Houston Rockets @ Toyota Center (Houston), 2026-02-01 01:30 UTC",107,111
+401810557,2026-02-01,Boston Celtics,Milwaukee Bucks,TD Garden,2026-02-01,20:30 UTC,"Milwaukee Bucks vs Boston Celtics @ TD Garden, 2026-02-01 20:30 UTC",79,107
+401810559,2026-02-01,Detroit Pistons,Brooklyn Nets,Little Caesars Arena,2026-02-01,23:00 UTC,"Brooklyn Nets vs Detroit Pistons @ Little Caesars Arena, 2026-02-01 23:00 UTC",77,130
+401810560,2026-02-01,Miami Heat,Chicago Bulls,Kaseya Center,2026-02-01,23:00 UTC,"Chicago Bulls vs Miami Heat @ Kaseya Center, 2026-02-01 23:00 UTC",91,134
+401810561,2026-02-01,Toronto Raptors,Utah Jazz,Scotiabank Arena,2026-02-01,23:00 UTC,"Utah Jazz vs Toronto Raptors @ Scotiabank Arena, 2026-02-01 23:00 UTC",100,107
+401810562,2026-02-01,Washington Wizards,Sacramento Kings,Capital One Arena,2026-02-01,23:00 UTC,"Sacramento Kings vs Washington Wizards @ Capital One Arena, 2026-02-01 23:00 UTC",112,116
+401810563,2026-02-02,New York Knicks,Los Angeles Lakers,Madison Square Garden,2026-02-02,00:00 UTC,"Los Angeles Lakers vs New York Knicks @ Madison Square Garden, 2026-02-02 00:00 UTC",100,112
+401810564,2026-02-02,Phoenix Suns,LA Clippers,Mortgage Matchup Center,2026-02-02,01:00 UTC,"LA Clippers vs Phoenix Suns @ Mortgage Matchup Center, 2026-02-02 01:00 UTC",117,93
+401810558,2026-02-02,San Antonio Spurs,Orlando Magic,Frost Bank Center,2026-02-02,02:00 UTC,"Orlando Magic vs San Antonio Spurs @ Frost Bank Center, 2026-02-02 02:00 UTC",103,112
+401810565,2026-02-02,Portland Trail Blazers,Cleveland Cavaliers,Moda Center,2026-02-02,02:00 UTC,"Cleveland Cavaliers vs Portland Trail Blazers @ Moda Center, 2026-02-02 02:00 UTC",130,111
+401810566,2026-02-02,Denver Nuggets,Oklahoma City Thunder,Ball Arena,2026-02-02,02:30 UTC,"Oklahoma City Thunder vs Denver Nuggets @ Ball Arena, 2026-02-02 02:30 UTC",121,111

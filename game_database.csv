@@ -1703,3 +1703,7 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810558,2026-02-02,San Antonio Spurs,Orlando Magic,Frost Bank Center,2026-02-02,02:00 UTC,"Orlando Magic vs San Antonio Spurs @ Frost Bank Center, 2026-02-02 02:00 UTC",103,112
 401810565,2026-02-02,Portland Trail Blazers,Cleveland Cavaliers,Moda Center,2026-02-02,02:00 UTC,"Cleveland Cavaliers vs Portland Trail Blazers @ Moda Center, 2026-02-02 02:00 UTC",130,111
 401810566,2026-02-02,Denver Nuggets,Oklahoma City Thunder,Ball Arena,2026-02-02,02:30 UTC,"Oklahoma City Thunder vs Denver Nuggets @ Ball Arena, 2026-02-02 02:30 UTC",121,111
+401810567,2026-02-02,Charlotte Hornets,New Orleans Pelicans,Spectrum Center,2026-02-02,20:00 UTC,"New Orleans Pelicans vs Charlotte Hornets @ Spectrum Center, 2026-02-02 20:00 UTC",95,102
+401810568,2026-02-03,Indiana Pacers,Houston Rockets,Gainbridge Fieldhouse,2026-02-03,00:00 UTC,"Houston Rockets vs Indiana Pacers @ Gainbridge Fieldhouse, 2026-02-03 00:00 UTC",118,114
+401810569,2026-02-03,Memphis Grizzlies,Minnesota Timberwolves,FedExForum,2026-02-03,00:30 UTC,"Minnesota Timberwolves vs Memphis Grizzlies @ FedExForum, 2026-02-03 00:30 UTC",128,137
+401810570,2026-02-03,LA Clippers,Philadelphia 76ers,Intuit Dome,2026-02-03,03:00 UTC,"Philadelphia 76ers vs LA Clippers @ Intuit Dome, 2026-02-03 03:00 UTC",128,113

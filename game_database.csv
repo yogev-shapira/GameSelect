@@ -1707,3 +1707,13 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810568,2026-02-03,Indiana Pacers,Houston Rockets,Gainbridge Fieldhouse,2026-02-03,00:00 UTC,"Houston Rockets vs Indiana Pacers @ Gainbridge Fieldhouse, 2026-02-03 00:00 UTC",118,114
 401810569,2026-02-03,Memphis Grizzlies,Minnesota Timberwolves,FedExForum,2026-02-03,00:30 UTC,"Minnesota Timberwolves vs Memphis Grizzlies @ FedExForum, 2026-02-03 00:30 UTC",128,137
 401810570,2026-02-03,LA Clippers,Philadelphia 76ers,Intuit Dome,2026-02-03,03:00 UTC,"Philadelphia 76ers vs LA Clippers @ Intuit Dome, 2026-02-03 03:00 UTC",128,113
+401810571,2026-02-04,Detroit Pistons,Denver Nuggets,Little Caesars Arena,2026-02-04,00:00 UTC,"Denver Nuggets vs Detroit Pistons @ Little Caesars Arena, 2026-02-04 00:00 UTC",121,124
+401810572,2026-02-04,Indiana Pacers,Utah Jazz,Gainbridge Fieldhouse,2026-02-04,00:00 UTC,"Utah Jazz vs Indiana Pacers @ Gainbridge Fieldhouse, 2026-02-04 00:00 UTC",131,122
+401810573,2026-02-04,Washington Wizards,New York Knicks,Capital One Arena,2026-02-04,00:00 UTC,"New York Knicks vs Washington Wizards @ Capital One Arena, 2026-02-04 00:00 UTC",132,101
+401810574,2026-02-04,Brooklyn Nets,Los Angeles Lakers,Barclays Center,2026-02-04,00:30 UTC,"Los Angeles Lakers vs Brooklyn Nets @ Barclays Center, 2026-02-04 00:30 UTC",125,109
+401810575,2026-02-04,Miami Heat,Atlanta Hawks,Kaseya Center,2026-02-04,00:30 UTC,"Atlanta Hawks vs Miami Heat @ Kaseya Center, 2026-02-04 00:30 UTC",127,115
+401810576,2026-02-04,Dallas Mavericks,Boston Celtics,American Airlines Center,2026-02-04,01:00 UTC,"Boston Celtics vs Dallas Mavericks @ American Airlines Center, 2026-02-04 01:00 UTC",110,100
+401810577,2026-02-04,Milwaukee Bucks,Chicago Bulls,Fiserv Forum,2026-02-04,01:00 UTC,"Chicago Bulls vs Milwaukee Bucks @ Fiserv Forum, 2026-02-04 01:00 UTC",115,131
+401810578,2026-02-04,Oklahoma City Thunder,Orlando Magic,Paycom Center,2026-02-04,01:00 UTC,"Orlando Magic vs Oklahoma City Thunder @ Paycom Center, 2026-02-04 01:00 UTC",92,128
+401810579,2026-02-04,Golden State Warriors,Philadelphia 76ers,Chase Center,2026-02-04,03:00 UTC,"Philadelphia 76ers vs Golden State Warriors @ Chase Center, 2026-02-04 03:00 UTC",113,94
+401810580,2026-02-04,Portland Trail Blazers,Phoenix Suns,Moda Center,2026-02-04,04:00 UTC,"Phoenix Suns vs Portland Trail Blazers @ Moda Center, 2026-02-04 04:00 UTC",130,125

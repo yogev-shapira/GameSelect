@@ -1717,3 +1717,10 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810578,2026-02-04,Oklahoma City Thunder,Orlando Magic,Paycom Center,2026-02-04,01:00 UTC,"Orlando Magic vs Oklahoma City Thunder @ Paycom Center, 2026-02-04 01:00 UTC",92,128
 401810579,2026-02-04,Golden State Warriors,Philadelphia 76ers,Chase Center,2026-02-04,03:00 UTC,"Philadelphia 76ers vs Golden State Warriors @ Chase Center, 2026-02-04 03:00 UTC",113,94
 401810580,2026-02-04,Portland Trail Blazers,Phoenix Suns,Moda Center,2026-02-04,04:00 UTC,"Phoenix Suns vs Portland Trail Blazers @ Moda Center, 2026-02-04 04:00 UTC",130,125
+401810581,2026-02-05,New York Knicks,Denver Nuggets,Madison Square Garden,2026-02-05,00:00 UTC,"Denver Nuggets vs New York Knicks @ Madison Square Garden, 2026-02-05 00:00 UTC",127,134
+401810582,2026-02-05,Toronto Raptors,Minnesota Timberwolves,Scotiabank Arena,2026-02-05,00:30 UTC,"Minnesota Timberwolves vs Toronto Raptors @ Scotiabank Arena, 2026-02-05 00:30 UTC",128,126
+401810583,2026-02-05,Houston Rockets,Boston Celtics,Toyota Center (Houston),2026-02-05,01:00 UTC,"Boston Celtics vs Houston Rockets @ Toyota Center (Houston), 2026-02-05 01:00 UTC",114,93
+401810584,2026-02-05,Milwaukee Bucks,New Orleans Pelicans,Fiserv Forum,2026-02-05,01:00 UTC,"New Orleans Pelicans vs Milwaukee Bucks @ Fiserv Forum, 2026-02-05 01:00 UTC",137,141
+401810585,2026-02-05,San Antonio Spurs,Oklahoma City Thunder,Frost Bank Center,2026-02-05,02:30 UTC,"Oklahoma City Thunder vs San Antonio Spurs @ Frost Bank Center, 2026-02-05 02:30 UTC",106,116
+401810586,2026-02-05,Sacramento Kings,Memphis Grizzlies,Golden 1 Center,2026-02-05,03:00 UTC,"Memphis Grizzlies vs Sacramento Kings @ Golden 1 Center, 2026-02-05 03:00 UTC",129,125
+401810587,2026-02-05,LA Clippers,Cleveland Cavaliers,Intuit Dome,2026-02-05,03:30 UTC,"Cleveland Cavaliers vs LA Clippers @ Intuit Dome, 2026-02-05 03:30 UTC",124,91

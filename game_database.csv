@@ -1724,3 +1724,11 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810585,2026-02-05,San Antonio Spurs,Oklahoma City Thunder,Frost Bank Center,2026-02-05,02:30 UTC,"Oklahoma City Thunder vs San Antonio Spurs @ Frost Bank Center, 2026-02-05 02:30 UTC",106,116
 401810586,2026-02-05,Sacramento Kings,Memphis Grizzlies,Golden 1 Center,2026-02-05,03:00 UTC,"Memphis Grizzlies vs Sacramento Kings @ Golden 1 Center, 2026-02-05 03:00 UTC",129,125
 401810587,2026-02-05,LA Clippers,Cleveland Cavaliers,Intuit Dome,2026-02-05,03:30 UTC,"Cleveland Cavaliers vs LA Clippers @ Intuit Dome, 2026-02-05 03:30 UTC",124,91
+401810588,2026-02-06,Detroit Pistons,Washington Wizards,Little Caesars Arena,2026-02-06,00:00 UTC,"Washington Wizards vs Detroit Pistons @ Little Caesars Arena, 2026-02-06 00:00 UTC",126,117
+401810589,2026-02-06,Orlando Magic,Brooklyn Nets,Kia Center,2026-02-06,00:00 UTC,"Brooklyn Nets vs Orlando Magic @ Kia Center, 2026-02-06 00:00 UTC",98,118
+401810590,2026-02-06,Atlanta Hawks,Utah Jazz,State Farm Arena,2026-02-06,00:30 UTC,"Utah Jazz vs Atlanta Hawks @ State Farm Arena, 2026-02-06 00:30 UTC",119,121
+401810591,2026-02-06,Toronto Raptors,Chicago Bulls,Scotiabank Arena,2026-02-06,00:30 UTC,"Chicago Bulls vs Toronto Raptors @ Scotiabank Arena, 2026-02-06 00:30 UTC",107,123
+401810592,2026-02-06,Houston Rockets,Charlotte Hornets,Toyota Center (Houston),2026-02-06,01:00 UTC,"Charlotte Hornets vs Houston Rockets @ Toyota Center (Houston), 2026-02-06 01:00 UTC",109,99
+401810593,2026-02-06,Dallas Mavericks,San Antonio Spurs,American Airlines Center,2026-02-06,01:30 UTC,"San Antonio Spurs vs Dallas Mavericks @ American Airlines Center, 2026-02-06 01:30 UTC",135,123
+401810594,2026-02-06,Phoenix Suns,Golden State Warriors,Mortgage Matchup Center,2026-02-06,03:00 UTC,"Golden State Warriors vs Phoenix Suns @ Mortgage Matchup Center, 2026-02-06 03:00 UTC",101,97
+401810595,2026-02-06,Los Angeles Lakers,Philadelphia 76ers,crypto.com Arena,2026-02-06,03:00 UTC,"Philadelphia 76ers vs Los Angeles Lakers @ crypto.com Arena, 2026-02-06 03:00 UTC",115,119

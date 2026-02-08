@@ -1738,3 +1738,13 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810599,2026-02-07,Minnesota Timberwolves,New Orleans Pelicans,Target Center,2026-02-07,01:00 UTC,"New Orleans Pelicans vs Minnesota Timberwolves @ Target Center, 2026-02-07 01:00 UTC",119,115
 401810600,2026-02-07,Portland Trail Blazers,Memphis Grizzlies,Moda Center,2026-02-07,03:00 UTC,"Memphis Grizzlies vs Portland Trail Blazers @ Moda Center, 2026-02-07 03:00 UTC",115,135
 401810601,2026-02-07,Sacramento Kings,LA Clippers,Golden 1 Center,2026-02-07,03:00 UTC,"LA Clippers vs Sacramento Kings @ Golden 1 Center, 2026-02-07 03:00 UTC",114,111
+401810602,2026-02-07,Brooklyn Nets,Washington Wizards,Barclays Center,2026-02-07,20:00 UTC,"Washington Wizards vs Brooklyn Nets @ Barclays Center, 2026-02-07 20:00 UTC",113,127
+401810603,2026-02-07,Oklahoma City Thunder,Houston Rockets,Paycom Center,2026-02-07,20:30 UTC,"Houston Rockets vs Oklahoma City Thunder @ Paycom Center, 2026-02-07 20:30 UTC",112,106
+401810604,2026-02-07,San Antonio Spurs,Dallas Mavericks,Frost Bank Center,2026-02-07,23:00 UTC,"Dallas Mavericks vs San Antonio Spurs @ Frost Bank Center, 2026-02-07 23:00 UTC",125,138
+401810605,2026-02-08,Orlando Magic,Utah Jazz,Kia Center,2026-02-08,00:00 UTC,"Utah Jazz vs Orlando Magic @ Kia Center, 2026-02-08 00:00 UTC",117,120
+401810606,2026-02-08,Atlanta Hawks,Charlotte Hornets,State Farm Arena,2026-02-08,00:30 UTC,"Charlotte Hornets vs Atlanta Hawks @ State Farm Arena, 2026-02-08 00:30 UTC",126,119
+401810607,2026-02-08,Chicago Bulls,Denver Nuggets,United Center,2026-02-08,01:00 UTC,"Denver Nuggets vs Chicago Bulls @ United Center, 2026-02-08 01:00 UTC",136,120
+401810608,2026-02-08,Los Angeles Lakers,Golden State Warriors,crypto.com Arena,2026-02-08,01:30 UTC,"Golden State Warriors vs Los Angeles Lakers @ crypto.com Arena, 2026-02-08 01:30 UTC",99,105
+401810609,2026-02-08,Phoenix Suns,Philadelphia 76ers,Mortgage Matchup Center,2026-02-08,02:00 UTC,"Philadelphia 76ers vs Phoenix Suns @ Mortgage Matchup Center, 2026-02-08 02:00 UTC",109,103
+401810610,2026-02-08,Portland Trail Blazers,Memphis Grizzlies,Moda Center,2026-02-08,03:00 UTC,"Memphis Grizzlies vs Portland Trail Blazers @ Moda Center, 2026-02-08 03:00 UTC",115,122
+401810611,2026-02-08,Sacramento Kings,Cleveland Cavaliers,Golden 1 Center,2026-02-08,03:00 UTC,"Cleveland Cavaliers vs Sacramento Kings @ Golden 1 Center, 2026-02-08 03:00 UTC",132,126

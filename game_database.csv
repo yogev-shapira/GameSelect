@@ -1748,3 +1748,7 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810609,2026-02-08,Phoenix Suns,Philadelphia 76ers,Mortgage Matchup Center,2026-02-08,02:00 UTC,"Philadelphia 76ers vs Phoenix Suns @ Mortgage Matchup Center, 2026-02-08 02:00 UTC",109,103
 401810610,2026-02-08,Portland Trail Blazers,Memphis Grizzlies,Moda Center,2026-02-08,03:00 UTC,"Memphis Grizzlies vs Portland Trail Blazers @ Moda Center, 2026-02-08 03:00 UTC",115,122
 401810611,2026-02-08,Sacramento Kings,Cleveland Cavaliers,Golden 1 Center,2026-02-08,03:00 UTC,"Cleveland Cavaliers vs Sacramento Kings @ Golden 1 Center, 2026-02-08 03:00 UTC",132,126
+401810612,2026-02-08,Boston Celtics,New York Knicks,TD Garden,2026-02-08,17:30 UTC,"New York Knicks vs Boston Celtics @ TD Garden, 2026-02-08 17:30 UTC",111,89
+401810613,2026-02-08,Washington Wizards,Miami Heat,Capital One Arena,2026-02-08,19:00 UTC,"Miami Heat vs Washington Wizards @ Capital One Arena, 2026-02-08 19:00 UTC",132,101
+401810614,2026-02-08,Toronto Raptors,Indiana Pacers,Scotiabank Arena,2026-02-08,20:00 UTC,"Indiana Pacers vs Toronto Raptors @ Scotiabank Arena, 2026-02-08 20:00 UTC",104,122
+401810615,2026-02-08,Minnesota Timberwolves,LA Clippers,Target Center,2026-02-08,20:00 UTC,"LA Clippers vs Minnesota Timberwolves @ Target Center, 2026-02-08 20:00 UTC",115,96

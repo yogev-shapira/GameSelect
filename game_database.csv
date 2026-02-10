@@ -1752,3 +1752,13 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810613,2026-02-08,Washington Wizards,Miami Heat,Capital One Arena,2026-02-08,19:00 UTC,"Miami Heat vs Washington Wizards @ Capital One Arena, 2026-02-08 19:00 UTC",132,101
 401810614,2026-02-08,Toronto Raptors,Indiana Pacers,Scotiabank Arena,2026-02-08,20:00 UTC,"Indiana Pacers vs Toronto Raptors @ Scotiabank Arena, 2026-02-08 20:00 UTC",104,122
 401810615,2026-02-08,Minnesota Timberwolves,LA Clippers,Target Center,2026-02-08,20:00 UTC,"LA Clippers vs Minnesota Timberwolves @ Target Center, 2026-02-08 20:00 UTC",115,96
+401810616,2026-02-10,Charlotte Hornets,Detroit Pistons,Spectrum Center,2026-02-10,00:00 UTC,"Detroit Pistons vs Charlotte Hornets @ Spectrum Center, 2026-02-10 00:00 UTC",110,104
+401810617,2026-02-10,Brooklyn Nets,Chicago Bulls,Barclays Center,2026-02-10,00:30 UTC,"Chicago Bulls vs Brooklyn Nets @ Barclays Center, 2026-02-10 00:30 UTC",115,123
+401810618,2026-02-10,Miami Heat,Utah Jazz,Kaseya Center,2026-02-10,00:30 UTC,"Utah Jazz vs Miami Heat @ Kaseya Center, 2026-02-10 00:30 UTC",115,111
+401810619,2026-02-10,Orlando Magic,Milwaukee Bucks,Kia Center,2026-02-10,00:30 UTC,"Milwaukee Bucks vs Orlando Magic @ Kia Center, 2026-02-10 00:30 UTC",99,118
+401810620,2026-02-10,Minnesota Timberwolves,Atlanta Hawks,Target Center,2026-02-10,01:00 UTC,"Atlanta Hawks vs Minnesota Timberwolves @ Target Center, 2026-02-10 01:00 UTC",116,138
+401810621,2026-02-10,New Orleans Pelicans,Sacramento Kings,Smoothie King Center,2026-02-10,01:00 UTC,"Sacramento Kings vs New Orleans Pelicans @ Smoothie King Center, 2026-02-10 01:00 UTC",94,120
+401810622,2026-02-10,Denver Nuggets,Cleveland Cavaliers,Ball Arena,2026-02-10,02:00 UTC,"Cleveland Cavaliers vs Denver Nuggets @ Ball Arena, 2026-02-10 02:00 UTC",119,117
+401810623,2026-02-10,Golden State Warriors,Memphis Grizzlies,Chase Center,2026-02-10,03:00 UTC,"Memphis Grizzlies vs Golden State Warriors @ Chase Center, 2026-02-10 03:00 UTC",113,114
+401810624,2026-02-10,Los Angeles Lakers,Oklahoma City Thunder,crypto.com Arena,2026-02-10,03:00 UTC,"Oklahoma City Thunder vs Los Angeles Lakers @ crypto.com Arena, 2026-02-10 03:00 UTC",119,110
+401810625,2026-02-10,Portland Trail Blazers,Philadelphia 76ers,Moda Center,2026-02-10,03:00 UTC,"Philadelphia 76ers vs Portland Trail Blazers @ Moda Center, 2026-02-10 03:00 UTC",118,135

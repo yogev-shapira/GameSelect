@@ -1762,3 +1762,7 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810623,2026-02-10,Golden State Warriors,Memphis Grizzlies,Chase Center,2026-02-10,03:00 UTC,"Memphis Grizzlies vs Golden State Warriors @ Chase Center, 2026-02-10 03:00 UTC",113,114
 401810624,2026-02-10,Los Angeles Lakers,Oklahoma City Thunder,crypto.com Arena,2026-02-10,03:00 UTC,"Oklahoma City Thunder vs Los Angeles Lakers @ crypto.com Arena, 2026-02-10 03:00 UTC",119,110
 401810625,2026-02-10,Portland Trail Blazers,Philadelphia 76ers,Moda Center,2026-02-10,03:00 UTC,"Philadelphia 76ers vs Portland Trail Blazers @ Moda Center, 2026-02-10 03:00 UTC",118,135
+401810626,2026-02-11,New York Knicks,Indiana Pacers,Madison Square Garden,2026-02-11,00:30 UTC,"Indiana Pacers vs New York Knicks @ Madison Square Garden, 2026-02-11 00:30 UTC",137,134
+401810627,2026-02-11,Houston Rockets,LA Clippers,Toyota Center (Houston),2026-02-11,01:00 UTC,"LA Clippers vs Houston Rockets @ Toyota Center (Houston), 2026-02-11 01:00 UTC",95,102
+401810628,2026-02-11,Phoenix Suns,Dallas Mavericks,Mortgage Matchup Center,2026-02-11,02:00 UTC,"Dallas Mavericks vs Phoenix Suns @ Mortgage Matchup Center, 2026-02-11 02:00 UTC",111,120
+401810629,2026-02-11,Los Angeles Lakers,San Antonio Spurs,crypto.com Arena,2026-02-11,03:30 UTC,"San Antonio Spurs vs Los Angeles Lakers @ crypto.com Arena, 2026-02-11 03:30 UTC",136,108

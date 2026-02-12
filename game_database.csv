@@ -1766,3 +1766,17 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810627,2026-02-11,Houston Rockets,LA Clippers,Toyota Center (Houston),2026-02-11,01:00 UTC,"LA Clippers vs Houston Rockets @ Toyota Center (Houston), 2026-02-11 01:00 UTC",95,102
 401810628,2026-02-11,Phoenix Suns,Dallas Mavericks,Mortgage Matchup Center,2026-02-11,02:00 UTC,"Dallas Mavericks vs Phoenix Suns @ Mortgage Matchup Center, 2026-02-11 02:00 UTC",111,120
 401810629,2026-02-11,Los Angeles Lakers,San Antonio Spurs,crypto.com Arena,2026-02-11,03:30 UTC,"San Antonio Spurs vs Los Angeles Lakers @ crypto.com Arena, 2026-02-11 03:30 UTC",136,108
+401810630,2026-02-12,Charlotte Hornets,Atlanta Hawks,Spectrum Center,2026-02-12,00:00 UTC,"Atlanta Hawks vs Charlotte Hornets @ Spectrum Center, 2026-02-12 00:00 UTC",107,110
+401810631,2026-02-12,Cleveland Cavaliers,Washington Wizards,Rocket Arena,2026-02-12,00:00 UTC,"Washington Wizards vs Cleveland Cavaliers @ Rocket Arena, 2026-02-12 00:00 UTC",113,138
+401810632,2026-02-12,Orlando Magic,Milwaukee Bucks,Kia Center,2026-02-12,00:00 UTC,"Milwaukee Bucks vs Orlando Magic @ Kia Center, 2026-02-12 00:00 UTC",116,108
+401810633,2026-02-12,Boston Celtics,Chicago Bulls,TD Garden,2026-02-12,00:30 UTC,"Chicago Bulls vs Boston Celtics @ TD Garden, 2026-02-12 00:30 UTC",105,124
+401810634,2026-02-12,Brooklyn Nets,Indiana Pacers,Barclays Center,2026-02-12,00:30 UTC,"Indiana Pacers vs Brooklyn Nets @ Barclays Center, 2026-02-12 00:30 UTC",115,110
+401810635,2026-02-12,Philadelphia 76ers,New York Knicks,Xfinity Mobile Arena,2026-02-12,00:30 UTC,"New York Knicks vs Philadelphia 76ers @ Xfinity Mobile Arena, 2026-02-12 00:30 UTC",138,89
+401810636,2026-02-12,Toronto Raptors,Detroit Pistons,Scotiabank Arena,2026-02-12,00:30 UTC,"Detroit Pistons vs Toronto Raptors @ Scotiabank Arena, 2026-02-12 00:30 UTC",113,95
+401810637,2026-02-12,Houston Rockets,LA Clippers,Toyota Center (Houston),2026-02-12,01:00 UTC,"LA Clippers vs Houston Rockets @ Toyota Center (Houston), 2026-02-12 01:00 UTC",105,102
+401810638,2026-02-12,Minnesota Timberwolves,Portland Trail Blazers,Target Center,2026-02-12,01:00 UTC,"Portland Trail Blazers vs Minnesota Timberwolves @ Target Center, 2026-02-12 01:00 UTC",109,133
+401810639,2026-02-12,New Orleans Pelicans,Miami Heat,Smoothie King Center,2026-02-12,01:00 UTC,"Miami Heat vs New Orleans Pelicans @ Smoothie King Center, 2026-02-12 01:00 UTC",123,111
+401810640,2026-02-12,Phoenix Suns,Oklahoma City Thunder,Mortgage Matchup Center,2026-02-12,02:00 UTC,"Oklahoma City Thunder vs Phoenix Suns @ Mortgage Matchup Center, 2026-02-12 02:00 UTC",136,109
+401810641,2026-02-12,Utah Jazz,Sacramento Kings,Delta Center,2026-02-12,02:00 UTC,"Sacramento Kings vs Utah Jazz @ Delta Center, 2026-02-12 02:00 UTC",93,121
+401810642,2026-02-12,Denver Nuggets,Memphis Grizzlies,Ball Arena,2026-02-12,02:00 UTC,"Memphis Grizzlies vs Denver Nuggets @ Ball Arena, 2026-02-12 02:00 UTC",116,122
+401810643,2026-02-12,Golden State Warriors,San Antonio Spurs,Chase Center,2026-02-12,03:00 UTC,"San Antonio Spurs vs Golden State Warriors @ Chase Center, 2026-02-12 03:00 UTC",126,113

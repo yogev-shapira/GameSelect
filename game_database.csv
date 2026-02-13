@@ -1780,3 +1780,6 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810641,2026-02-12,Utah Jazz,Sacramento Kings,Delta Center,2026-02-12,02:00 UTC,"Sacramento Kings vs Utah Jazz @ Delta Center, 2026-02-12 02:00 UTC",93,121
 401810642,2026-02-12,Denver Nuggets,Memphis Grizzlies,Ball Arena,2026-02-12,02:00 UTC,"Memphis Grizzlies vs Denver Nuggets @ Ball Arena, 2026-02-12 02:00 UTC",116,122
 401810643,2026-02-12,Golden State Warriors,San Antonio Spurs,Chase Center,2026-02-12,03:00 UTC,"San Antonio Spurs vs Golden State Warriors @ Chase Center, 2026-02-12 03:00 UTC",126,113
+401810644,2026-02-13,Oklahoma City Thunder,Milwaukee Bucks,Paycom Center,2026-02-13,00:30 UTC,"Milwaukee Bucks vs Oklahoma City Thunder @ Paycom Center, 2026-02-13 00:30 UTC",110,93
+401810645,2026-02-13,Utah Jazz,Portland Trail Blazers,Delta Center,2026-02-13,02:00 UTC,"Portland Trail Blazers vs Utah Jazz @ Delta Center, 2026-02-13 02:00 UTC",135,119
+401810646,2026-02-13,Los Angeles Lakers,Dallas Mavericks,crypto.com Arena,2026-02-13,03:00 UTC,"Dallas Mavericks vs Los Angeles Lakers @ crypto.com Arena, 2026-02-13 03:00 UTC",104,124

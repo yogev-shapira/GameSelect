@@ -1783,3 +1783,7 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810644,2026-02-13,Oklahoma City Thunder,Milwaukee Bucks,Paycom Center,2026-02-13,00:30 UTC,"Milwaukee Bucks vs Oklahoma City Thunder @ Paycom Center, 2026-02-13 00:30 UTC",110,93
 401810645,2026-02-13,Utah Jazz,Portland Trail Blazers,Delta Center,2026-02-13,02:00 UTC,"Portland Trail Blazers vs Utah Jazz @ Delta Center, 2026-02-13 02:00 UTC",135,119
 401810646,2026-02-13,Los Angeles Lakers,Dallas Mavericks,crypto.com Arena,2026-02-13,03:00 UTC,"Dallas Mavericks vs Los Angeles Lakers @ crypto.com Arena, 2026-02-13 03:00 UTC",104,124
+401838140,2026-02-15,Team Stars,World,Intuit Dome,2026-02-15,22:00 UTC,"World vs Team Stars @ Intuit Dome, 2026-02-15 22:00 UTC",,
+401838141,2026-02-15,Team Stripes,Team Stars,Intuit Dome,2026-02-15,22:55 UTC,"Team Stars vs Team Stripes @ Intuit Dome, 2026-02-15 22:55 UTC",,
+401838142,2026-02-15,Team Stripes,World,Intuit Dome,2026-02-15,23:25 UTC,"World vs Team Stripes @ Intuit Dome, 2026-02-15 23:25 UTC",,
+401838143,2026-02-16,Team Stripes,Team Stars,Intuit Dome,2026-02-16,00:10 UTC,"Team Stars vs Team Stripes @ Intuit Dome, 2026-02-16 00:10 UTC",,

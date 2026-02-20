@@ -1787,3 +1787,13 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401838141,2026-02-15,Team Stripes,Team Stars,Intuit Dome,2026-02-15,22:55 UTC,"Team Stars vs Team Stripes @ Intuit Dome, 2026-02-15 22:55 UTC",,
 401838142,2026-02-15,Team Stripes,World,Intuit Dome,2026-02-15,23:25 UTC,"World vs Team Stripes @ Intuit Dome, 2026-02-15 23:25 UTC",,
 401838143,2026-02-16,Team Stripes,Team Stars,Intuit Dome,2026-02-16,00:10 UTC,"Team Stars vs Team Stripes @ Intuit Dome, 2026-02-16 00:10 UTC",,
+401810647,2026-02-20,Charlotte Hornets,Houston Rockets,Spectrum Center,2026-02-20,00:00 UTC,"Houston Rockets vs Charlotte Hornets @ Spectrum Center, 2026-02-20 00:00 UTC",105,101
+401810648,2026-02-20,Cleveland Cavaliers,Brooklyn Nets,Rocket Arena,2026-02-20,00:00 UTC,"Brooklyn Nets vs Cleveland Cavaliers @ Rocket Arena, 2026-02-20 00:00 UTC",84,112
+401810649,2026-02-20,Philadelphia 76ers,Atlanta Hawks,Xfinity Mobile Arena,2026-02-20,00:00 UTC,"Atlanta Hawks vs Philadelphia 76ers @ Xfinity Mobile Arena, 2026-02-20 00:00 UTC",117,107
+401810650,2026-02-20,Washington Wizards,Indiana Pacers,Capital One Arena,2026-02-20,00:00 UTC,"Indiana Pacers vs Washington Wizards @ Capital One Arena, 2026-02-20 00:00 UTC",105,112
+401810651,2026-02-20,New York Knicks,Detroit Pistons,Madison Square Garden,2026-02-20,00:30 UTC,"Detroit Pistons vs New York Knicks @ Madison Square Garden, 2026-02-20 00:30 UTC",126,111
+401810652,2026-02-20,Chicago Bulls,Toronto Raptors,United Center,2026-02-20,01:00 UTC,"Toronto Raptors vs Chicago Bulls @ United Center, 2026-02-20 01:00 UTC",110,101
+401810653,2026-02-20,San Antonio Spurs,Phoenix Suns,Moody Center,2026-02-20,01:30 UTC,"Phoenix Suns vs San Antonio Spurs @ Moody Center, 2026-02-20 01:30 UTC",94,121
+401810654,2026-02-20,Golden State Warriors,Boston Celtics,Chase Center,2026-02-20,03:00 UTC,"Boston Celtics vs Golden State Warriors @ Chase Center, 2026-02-20 03:00 UTC",121,110
+401810655,2026-02-20,Sacramento Kings,Orlando Magic,Golden 1 Center,2026-02-20,03:00 UTC,"Orlando Magic vs Sacramento Kings @ Golden 1 Center, 2026-02-20 03:00 UTC",131,94
+401810656,2026-02-20,LA Clippers,Denver Nuggets,Intuit Dome,2026-02-20,03:30 UTC,"Denver Nuggets vs LA Clippers @ Intuit Dome, 2026-02-20 03:30 UTC",114,115

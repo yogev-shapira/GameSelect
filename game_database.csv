@@ -1812,3 +1812,14 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810669,2026-02-22,Chicago Bulls,Detroit Pistons,United Center,2026-02-22,01:00 UTC,"Detroit Pistons vs Chicago Bulls @ United Center, 2026-02-22 01:00 UTC",126,110
 401810670,2026-02-22,San Antonio Spurs,Sacramento Kings,Moody Center,2026-02-22,01:00 UTC,"Sacramento Kings vs San Antonio Spurs @ Moody Center, 2026-02-22 01:00 UTC",122,139
 401810671,2026-02-22,New York Knicks,Houston Rockets,Madison Square Garden,2026-02-22,01:30 UTC,"Houston Rockets vs New York Knicks @ Madison Square Garden, 2026-02-22 01:30 UTC",106,108
+401810672,2026-02-22,Oklahoma City Thunder,Cleveland Cavaliers,Paycom Center,2026-02-22,18:00 UTC,"Cleveland Cavaliers vs Oklahoma City Thunder @ Paycom Center, 2026-02-22 18:00 UTC",113,121
+401810673,2026-02-22,Atlanta Hawks,Brooklyn Nets,State Farm Arena,2026-02-22,20:30 UTC,"Brooklyn Nets vs Atlanta Hawks @ State Farm Arena, 2026-02-22 20:30 UTC",104,115
+401810674,2026-02-22,Milwaukee Bucks,Toronto Raptors,Fiserv Forum,2026-02-22,20:30 UTC,"Toronto Raptors vs Milwaukee Bucks @ Fiserv Forum, 2026-02-22 20:30 UTC",122,94
+401810675,2026-02-22,Golden State Warriors,Denver Nuggets,Chase Center,2026-02-22,20:30 UTC,"Denver Nuggets vs Golden State Warriors @ Chase Center, 2026-02-22 20:30 UTC",117,128
+401810676,2026-02-22,Indiana Pacers,Dallas Mavericks,Gainbridge Fieldhouse,2026-02-22,22:00 UTC,"Dallas Mavericks vs Indiana Pacers @ Gainbridge Fieldhouse, 2026-02-22 22:00 UTC",134,130
+401810677,2026-02-22,Washington Wizards,Charlotte Hornets,Capital One Arena,2026-02-22,23:00 UTC,"Charlotte Hornets vs Washington Wizards @ Capital One Arena, 2026-02-22 23:00 UTC",129,112
+401810678,2026-02-22,Los Angeles Lakers,Boston Celtics,crypto.com Arena,2026-02-22,23:30 UTC,"Boston Celtics vs Los Angeles Lakers @ crypto.com Arena, 2026-02-22 23:30 UTC",111,89
+401810679,2026-02-23,Minnesota Timberwolves,Philadelphia 76ers,Target Center,2026-02-23,00:00 UTC,"Philadelphia 76ers vs Minnesota Timberwolves @ Target Center, 2026-02-23 00:00 UTC",135,108
+401810680,2026-02-23,Chicago Bulls,New York Knicks,United Center,2026-02-23,01:00 UTC,"New York Knicks vs Chicago Bulls @ United Center, 2026-02-23 01:00 UTC",105,99
+401810681,2026-02-23,Phoenix Suns,Portland Trail Blazers,Mortgage Matchup Center,2026-02-23,01:00 UTC,"Portland Trail Blazers vs Phoenix Suns @ Mortgage Matchup Center, 2026-02-23 01:00 UTC",92,77
+401810682,2026-02-23,LA Clippers,Orlando Magic,Intuit Dome,2026-02-23,02:00 UTC,"Orlando Magic vs LA Clippers @ Intuit Dome, 2026-02-23 02:00 UTC",111,109

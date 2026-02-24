@@ -1823,3 +1823,6 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810680,2026-02-23,Chicago Bulls,New York Knicks,United Center,2026-02-23,01:00 UTC,"New York Knicks vs Chicago Bulls @ United Center, 2026-02-23 01:00 UTC",105,99
 401810681,2026-02-23,Phoenix Suns,Portland Trail Blazers,Mortgage Matchup Center,2026-02-23,01:00 UTC,"Portland Trail Blazers vs Phoenix Suns @ Mortgage Matchup Center, 2026-02-23 01:00 UTC",92,77
 401810682,2026-02-23,LA Clippers,Orlando Magic,Intuit Dome,2026-02-23,02:00 UTC,"Orlando Magic vs LA Clippers @ Intuit Dome, 2026-02-23 02:00 UTC",111,109
+401810683,2026-02-24,Detroit Pistons,San Antonio Spurs,Little Caesars Arena,2026-02-24,00:00 UTC,"San Antonio Spurs vs Detroit Pistons @ Little Caesars Arena, 2026-02-24 00:00 UTC",114,103
+401810684,2026-02-24,Memphis Grizzlies,Sacramento Kings,FedExForum,2026-02-24,01:00 UTC,"Sacramento Kings vs Memphis Grizzlies @ FedExForum, 2026-02-24 01:00 UTC",123,114
+401810685,2026-02-24,Houston Rockets,Utah Jazz,Toyota Center (Houston),2026-02-24,02:30 UTC,"Utah Jazz vs Houston Rockets @ Toyota Center (Houston), 2026-02-24 02:30 UTC",105,125

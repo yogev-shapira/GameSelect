@@ -1826,3 +1826,14 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810683,2026-02-24,Detroit Pistons,San Antonio Spurs,Little Caesars Arena,2026-02-24,00:00 UTC,"San Antonio Spurs vs Detroit Pistons @ Little Caesars Arena, 2026-02-24 00:00 UTC",114,103
 401810684,2026-02-24,Memphis Grizzlies,Sacramento Kings,FedExForum,2026-02-24,01:00 UTC,"Sacramento Kings vs Memphis Grizzlies @ FedExForum, 2026-02-24 01:00 UTC",123,114
 401810685,2026-02-24,Houston Rockets,Utah Jazz,Toyota Center (Houston),2026-02-24,02:30 UTC,"Utah Jazz vs Houston Rockets @ Toyota Center (Houston), 2026-02-24 02:30 UTC",105,125
+401810686,2026-02-25,Indiana Pacers,Philadelphia 76ers,Gainbridge Fieldhouse,2026-02-25,00:00 UTC,"Philadelphia 76ers vs Indiana Pacers @ Gainbridge Fieldhouse, 2026-02-25 00:00 UTC",135,114
+401810687,2026-02-25,Atlanta Hawks,Washington Wizards,State Farm Arena,2026-02-25,00:30 UTC,"Washington Wizards vs Atlanta Hawks @ State Farm Arena, 2026-02-25 00:30 UTC",98,119
+401810688,2026-02-25,Brooklyn Nets,Dallas Mavericks,Barclays Center,2026-02-25,00:30 UTC,"Dallas Mavericks vs Brooklyn Nets @ Barclays Center, 2026-02-25 00:30 UTC",123,114
+401810689,2026-02-25,Toronto Raptors,Oklahoma City Thunder,Scotiabank Arena,2026-02-25,00:30 UTC,"Oklahoma City Thunder vs Toronto Raptors @ Scotiabank Arena, 2026-02-25 00:30 UTC",116,107
+401810690,2026-02-25,Cleveland Cavaliers,New York Knicks,Rocket Arena,2026-02-25,00:30 UTC,"New York Knicks vs Cleveland Cavaliers @ Rocket Arena, 2026-02-25 00:30 UTC",94,109
+401810691,2026-02-25,Chicago Bulls,Charlotte Hornets,United Center,2026-02-25,01:00 UTC,"Charlotte Hornets vs Chicago Bulls @ United Center, 2026-02-25 01:00 UTC",131,99
+401810692,2026-02-25,Milwaukee Bucks,Miami Heat,Fiserv Forum,2026-02-25,01:00 UTC,"Miami Heat vs Milwaukee Bucks @ Fiserv Forum, 2026-02-25 01:00 UTC",117,128
+401810693,2026-02-25,New Orleans Pelicans,Golden State Warriors,Smoothie King Center,2026-02-25,01:00 UTC,"Golden State Warriors vs New Orleans Pelicans @ Smoothie King Center, 2026-02-25 01:00 UTC",109,113
+401810694,2026-02-25,Phoenix Suns,Boston Celtics,Mortgage Matchup Center,2026-02-25,02:00 UTC,"Boston Celtics vs Phoenix Suns @ Mortgage Matchup Center, 2026-02-25 02:00 UTC",97,81
+401810696,2026-02-25,Portland Trail Blazers,Minnesota Timberwolves,Moda Center,2026-02-25,03:00 UTC,"Minnesota Timberwolves vs Portland Trail Blazers @ Moda Center, 2026-02-25 03:00 UTC",124,121
+401810695,2026-02-25,Los Angeles Lakers,Orlando Magic,crypto.com Arena,2026-02-25,03:30 UTC,"Orlando Magic vs Los Angeles Lakers @ crypto.com Arena, 2026-02-25 03:30 UTC",110,109

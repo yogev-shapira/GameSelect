@@ -1843,3 +1843,13 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810700,2026-02-26,Houston Rockets,Sacramento Kings,Toyota Center (Houston),2026-02-26,01:00 UTC,"Sacramento Kings vs Houston Rockets @ Toyota Center (Houston), 2026-02-26 01:00 UTC",97,128
 401810701,2026-02-26,Milwaukee Bucks,Cleveland Cavaliers,Fiserv Forum,2026-02-26,01:00 UTC,"Cleveland Cavaliers vs Milwaukee Bucks @ Fiserv Forum, 2026-02-26 01:00 UTC",116,118
 401810702,2026-02-26,Denver Nuggets,Boston Celtics,Ball Arena,2026-02-26,03:00 UTC,"Boston Celtics vs Denver Nuggets @ Ball Arena, 2026-02-26 03:00 UTC",84,103
+401810703,2026-02-27,Indiana Pacers,Charlotte Hornets,Gainbridge Fieldhouse,2026-02-27,00:00 UTC,"Charlotte Hornets vs Indiana Pacers @ Gainbridge Fieldhouse, 2026-02-27 00:00 UTC",133,109
+401810704,2026-02-27,Philadelphia 76ers,Miami Heat,Xfinity Mobile Arena,2026-02-27,00:00 UTC,"Miami Heat vs Philadelphia 76ers @ Xfinity Mobile Arena, 2026-02-27 00:00 UTC",117,124
+401810705,2026-02-27,Atlanta Hawks,Washington Wizards,State Farm Arena,2026-02-27,00:30 UTC,"Washington Wizards vs Atlanta Hawks @ State Farm Arena, 2026-02-27 00:30 UTC",96,126
+401810706,2026-02-27,Brooklyn Nets,San Antonio Spurs,Barclays Center,2026-02-27,00:30 UTC,"San Antonio Spurs vs Brooklyn Nets @ Barclays Center, 2026-02-27 00:30 UTC",126,110
+401810707,2026-02-27,Orlando Magic,Houston Rockets,Kia Center,2026-02-27,00:30 UTC,"Houston Rockets vs Orlando Magic @ Kia Center, 2026-02-27 00:30 UTC",113,108
+401810708,2026-02-27,Chicago Bulls,Portland Trail Blazers,United Center,2026-02-27,01:00 UTC,"Portland Trail Blazers vs Chicago Bulls @ United Center, 2026-02-27 01:00 UTC",121,112
+401810709,2026-02-27,Dallas Mavericks,Sacramento Kings,American Airlines Center,2026-02-27,01:30 UTC,"Sacramento Kings vs Dallas Mavericks @ American Airlines Center, 2026-02-27 01:30 UTC",130,121
+401810710,2026-02-27,Phoenix Suns,Los Angeles Lakers,Mortgage Matchup Center,2026-02-27,02:00 UTC,"Los Angeles Lakers vs Phoenix Suns @ Mortgage Matchup Center, 2026-02-27 02:00 UTC",110,113
+401810711,2026-02-27,Utah Jazz,New Orleans Pelicans,Delta Center,2026-02-27,02:00 UTC,"New Orleans Pelicans vs Utah Jazz @ Delta Center, 2026-02-27 02:00 UTC",129,118
+401810712,2026-02-27,LA Clippers,Minnesota Timberwolves,Intuit Dome,2026-02-27,03:00 UTC,"Minnesota Timberwolves vs LA Clippers @ Intuit Dome, 2026-02-27 03:00 UTC",94,88

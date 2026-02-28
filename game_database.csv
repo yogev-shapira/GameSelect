@@ -1853,3 +1853,8 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810710,2026-02-27,Phoenix Suns,Los Angeles Lakers,Mortgage Matchup Center,2026-02-27,02:00 UTC,"Los Angeles Lakers vs Phoenix Suns @ Mortgage Matchup Center, 2026-02-27 02:00 UTC",110,113
 401810711,2026-02-27,Utah Jazz,New Orleans Pelicans,Delta Center,2026-02-27,02:00 UTC,"New Orleans Pelicans vs Utah Jazz @ Delta Center, 2026-02-27 02:00 UTC",129,118
 401810712,2026-02-27,LA Clippers,Minnesota Timberwolves,Intuit Dome,2026-02-27,03:00 UTC,"Minnesota Timberwolves vs LA Clippers @ Intuit Dome, 2026-02-27 03:00 UTC",94,88
+401810713,2026-02-28,Detroit Pistons,Cleveland Cavaliers,Little Caesars Arena,2026-02-28,00:00 UTC,"Cleveland Cavaliers vs Detroit Pistons @ Little Caesars Arena, 2026-02-28 00:00 UTC",119,122
+401810714,2026-02-28,Boston Celtics,Brooklyn Nets,TD Garden,2026-02-28,00:30 UTC,"Brooklyn Nets vs Boston Celtics @ TD Garden, 2026-02-28 00:30 UTC",111,148
+401810715,2026-02-28,Milwaukee Bucks,New York Knicks,Fiserv Forum,2026-02-28,01:00 UTC,"New York Knicks vs Milwaukee Bucks @ Fiserv Forum, 2026-02-28 01:00 UTC",127,98
+401810716,2026-02-28,Dallas Mavericks,Memphis Grizzlies,American Airlines Center,2026-02-28,01:30 UTC,"Memphis Grizzlies vs Dallas Mavericks @ American Airlines Center, 2026-02-28 01:30 UTC",124,105
+401810717,2026-02-28,Oklahoma City Thunder,Denver Nuggets,Paycom Center,2026-02-28,02:47 UTC,"Denver Nuggets vs Oklahoma City Thunder @ Paycom Center, 2026-02-28 02:47 UTC",121,127

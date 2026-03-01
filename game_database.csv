@@ -1858,3 +1858,8 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810715,2026-02-28,Milwaukee Bucks,New York Knicks,Fiserv Forum,2026-02-28,01:00 UTC,"New York Knicks vs Milwaukee Bucks @ Fiserv Forum, 2026-02-28 01:00 UTC",127,98
 401810716,2026-02-28,Dallas Mavericks,Memphis Grizzlies,American Airlines Center,2026-02-28,01:30 UTC,"Memphis Grizzlies vs Dallas Mavericks @ American Airlines Center, 2026-02-28 01:30 UTC",124,105
 401810717,2026-02-28,Oklahoma City Thunder,Denver Nuggets,Paycom Center,2026-02-28,02:47 UTC,"Denver Nuggets vs Oklahoma City Thunder @ Paycom Center, 2026-02-28 02:47 UTC",121,127
+401810718,2026-02-28,Charlotte Hornets,Portland Trail Blazers,Spectrum Center,2026-02-28,18:00 UTC,"Portland Trail Blazers vs Charlotte Hornets @ Spectrum Center, 2026-02-28 18:00 UTC",93,109
+401810719,2026-02-28,Miami Heat,Houston Rockets,Kaseya Center,2026-02-28,20:30 UTC,"Houston Rockets vs Miami Heat @ Kaseya Center, 2026-02-28 20:30 UTC",105,115
+401810720,2026-03-01,Washington Wizards,Toronto Raptors,Capital One Arena,2026-03-01,00:00 UTC,"Toronto Raptors vs Washington Wizards @ Capital One Arena, 2026-03-01 00:00 UTC",134,125
+401810721,2026-03-01,Golden State Warriors,Los Angeles Lakers,Chase Center,2026-03-01,01:30 UTC,"Los Angeles Lakers vs Golden State Warriors @ Chase Center, 2026-03-01 01:30 UTC",129,101
+401810722,2026-03-01,Utah Jazz,New Orleans Pelicans,Delta Center,2026-03-01,02:30 UTC,"New Orleans Pelicans vs Utah Jazz @ Delta Center, 2026-03-01 02:30 UTC",115,105

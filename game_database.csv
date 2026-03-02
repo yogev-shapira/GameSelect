@@ -1863,3 +1863,14 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810720,2026-03-01,Washington Wizards,Toronto Raptors,Capital One Arena,2026-03-01,00:00 UTC,"Toronto Raptors vs Washington Wizards @ Capital One Arena, 2026-03-01 00:00 UTC",134,125
 401810721,2026-03-01,Golden State Warriors,Los Angeles Lakers,Chase Center,2026-03-01,01:30 UTC,"Los Angeles Lakers vs Golden State Warriors @ Chase Center, 2026-03-01 01:30 UTC",129,101
 401810722,2026-03-01,Utah Jazz,New Orleans Pelicans,Delta Center,2026-03-01,02:30 UTC,"New Orleans Pelicans vs Utah Jazz @ Delta Center, 2026-03-01 02:30 UTC",115,105
+401810723,2026-03-01,New York Knicks,San Antonio Spurs,Madison Square Garden,2026-03-01,18:00 UTC,"San Antonio Spurs vs New York Knicks @ Madison Square Garden, 2026-03-01 18:00 UTC",89,114
+401810724,2026-03-01,Brooklyn Nets,Cleveland Cavaliers,Barclays Center,2026-03-01,20:30 UTC,"Cleveland Cavaliers vs Brooklyn Nets @ Barclays Center, 2026-03-01 20:30 UTC",106,102
+401810725,2026-03-01,Chicago Bulls,Milwaukee Bucks,United Center,2026-03-01,20:30 UTC,"Milwaukee Bucks vs Chicago Bulls @ United Center, 2026-03-01 20:30 UTC",97,120
+401810726,2026-03-01,Denver Nuggets,Minnesota Timberwolves,Ball Arena,2026-03-01,20:30 UTC,"Minnesota Timberwolves vs Denver Nuggets @ Ball Arena, 2026-03-01 20:30 UTC",117,108
+401810727,2026-03-01,Indiana Pacers,Memphis Grizzlies,Gainbridge Fieldhouse,2026-03-01,22:00 UTC,"Memphis Grizzlies vs Indiana Pacers @ Gainbridge Fieldhouse, 2026-03-01 22:00 UTC",125,106
+401810728,2026-03-01,Atlanta Hawks,Portland Trail Blazers,State Farm Arena,2026-03-01,23:00 UTC,"Portland Trail Blazers vs Atlanta Hawks @ State Farm Arena, 2026-03-01 23:00 UTC",101,135
+401810730,2026-03-01,Orlando Magic,Detroit Pistons,Kia Center,2026-03-01,23:00 UTC,"Detroit Pistons vs Orlando Magic @ Kia Center, 2026-03-01 23:00 UTC",106,92
+401810729,2026-03-02,Boston Celtics,Philadelphia 76ers,TD Garden,2026-03-02,01:00 UTC,"Philadelphia 76ers vs Boston Celtics @ TD Garden, 2026-03-02 01:00 UTC",98,114
+401810731,2026-03-02,Dallas Mavericks,Oklahoma City Thunder,American Airlines Center,2026-03-02,01:00 UTC,"Oklahoma City Thunder vs Dallas Mavericks @ American Airlines Center, 2026-03-02 01:00 UTC",100,87
+401810732,2026-03-02,LA Clippers,New Orleans Pelicans,Intuit Dome,2026-03-02,02:00 UTC,"New Orleans Pelicans vs LA Clippers @ Intuit Dome, 2026-03-02 02:00 UTC",117,137
+401810733,2026-03-02,Los Angeles Lakers,Sacramento Kings,crypto.com Arena,2026-03-02,02:30 UTC,"Sacramento Kings vs Los Angeles Lakers @ crypto.com Arena, 2026-03-02 02:30 UTC",104,128

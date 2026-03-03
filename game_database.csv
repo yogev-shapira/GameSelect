@@ -1874,3 +1874,7 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810731,2026-03-02,Dallas Mavericks,Oklahoma City Thunder,American Airlines Center,2026-03-02,01:00 UTC,"Oklahoma City Thunder vs Dallas Mavericks @ American Airlines Center, 2026-03-02 01:00 UTC",100,87
 401810732,2026-03-02,LA Clippers,New Orleans Pelicans,Intuit Dome,2026-03-02,02:00 UTC,"New Orleans Pelicans vs LA Clippers @ Intuit Dome, 2026-03-02 02:00 UTC",117,137
 401810733,2026-03-02,Los Angeles Lakers,Sacramento Kings,crypto.com Arena,2026-03-02,02:30 UTC,"Sacramento Kings vs Los Angeles Lakers @ crypto.com Arena, 2026-03-02 02:30 UTC",104,128
+401810734,2026-03-03,Washington Wizards,Houston Rockets,Capital One Arena,2026-03-03,00:00 UTC,"Houston Rockets vs Washington Wizards @ Capital One Arena, 2026-03-03 00:00 UTC",123,118
+401810735,2026-03-03,Milwaukee Bucks,Boston Celtics,Fiserv Forum,2026-03-03,00:30 UTC,"Boston Celtics vs Milwaukee Bucks @ Fiserv Forum, 2026-03-03 00:30 UTC",108,81
+401810736,2026-03-03,Utah Jazz,Denver Nuggets,Delta Center,2026-03-03,02:00 UTC,"Denver Nuggets vs Utah Jazz @ Delta Center, 2026-03-03 02:00 UTC",128,125
+401810737,2026-03-03,Golden State Warriors,LA Clippers,Chase Center,2026-03-03,03:00 UTC,"LA Clippers vs Golden State Warriors @ Chase Center, 2026-03-03 03:00 UTC",114,101

@@ -1878,3 +1878,13 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810735,2026-03-03,Milwaukee Bucks,Boston Celtics,Fiserv Forum,2026-03-03,00:30 UTC,"Boston Celtics vs Milwaukee Bucks @ Fiserv Forum, 2026-03-03 00:30 UTC",108,81
 401810736,2026-03-03,Utah Jazz,Denver Nuggets,Delta Center,2026-03-03,02:00 UTC,"Denver Nuggets vs Utah Jazz @ Delta Center, 2026-03-03 02:00 UTC",128,125
 401810737,2026-03-03,Golden State Warriors,LA Clippers,Chase Center,2026-03-03,03:00 UTC,"LA Clippers vs Golden State Warriors @ Chase Center, 2026-03-03 03:00 UTC",114,101
+401810738,2026-03-04,Charlotte Hornets,Dallas Mavericks,Spectrum Center,2026-03-04,00:00 UTC,"Dallas Mavericks vs Charlotte Hornets @ Spectrum Center, 2026-03-04 00:00 UTC",90,117
+401810739,2026-03-04,Cleveland Cavaliers,Detroit Pistons,Rocket Arena,2026-03-04,00:00 UTC,"Detroit Pistons vs Cleveland Cavaliers @ Rocket Arena, 2026-03-04 00:00 UTC",109,113
+401810740,2026-03-04,Orlando Magic,Washington Wizards,Kia Center,2026-03-04,00:00 UTC,"Washington Wizards vs Orlando Magic @ Kia Center, 2026-03-04 00:00 UTC",109,126
+401810741,2026-03-04,Miami Heat,Brooklyn Nets,Kaseya Center,2026-03-04,00:30 UTC,"Brooklyn Nets vs Miami Heat @ Kaseya Center, 2026-03-04 00:30 UTC",98,124
+401810742,2026-03-04,Toronto Raptors,New York Knicks,Scotiabank Arena,2026-03-04,00:30 UTC,"New York Knicks vs Toronto Raptors @ Scotiabank Arena, 2026-03-04 00:30 UTC",111,95
+401810743,2026-03-04,Philadelphia 76ers,San Antonio Spurs,Xfinity Mobile Arena,2026-03-04,01:00 UTC,"San Antonio Spurs vs Philadelphia 76ers @ Xfinity Mobile Arena, 2026-03-04 01:00 UTC",131,91
+401810744,2026-03-04,Chicago Bulls,Oklahoma City Thunder,United Center,2026-03-04,01:00 UTC,"Oklahoma City Thunder vs Chicago Bulls @ United Center, 2026-03-04 01:00 UTC",116,108
+401810745,2026-03-04,Minnesota Timberwolves,Memphis Grizzlies,Target Center,2026-03-04,01:00 UTC,"Memphis Grizzlies vs Minnesota Timberwolves @ Target Center, 2026-03-04 01:00 UTC",110,117
+401810746,2026-03-04,Los Angeles Lakers,New Orleans Pelicans,crypto.com Arena,2026-03-04,03:30 UTC,"New Orleans Pelicans vs Los Angeles Lakers @ crypto.com Arena, 2026-03-04 03:30 UTC",101,110
+401810747,2026-03-04,Sacramento Kings,Phoenix Suns,Golden 1 Center,2026-03-04,04:00 UTC,"Phoenix Suns vs Sacramento Kings @ Golden 1 Center, 2026-03-04 04:00 UTC",114,103

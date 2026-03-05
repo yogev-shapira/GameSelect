@@ -1888,3 +1888,9 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810745,2026-03-04,Minnesota Timberwolves,Memphis Grizzlies,Target Center,2026-03-04,01:00 UTC,"Memphis Grizzlies vs Minnesota Timberwolves @ Target Center, 2026-03-04 01:00 UTC",110,117
 401810746,2026-03-04,Los Angeles Lakers,New Orleans Pelicans,crypto.com Arena,2026-03-04,03:30 UTC,"New Orleans Pelicans vs Los Angeles Lakers @ crypto.com Arena, 2026-03-04 03:30 UTC",101,110
 401810747,2026-03-04,Sacramento Kings,Phoenix Suns,Golden 1 Center,2026-03-04,04:00 UTC,"Phoenix Suns vs Sacramento Kings @ Golden 1 Center, 2026-03-04 04:00 UTC",114,103
+401810748,2026-03-05,New York Knicks,Oklahoma City Thunder,Madison Square Garden,2026-03-05,00:00 UTC,"Oklahoma City Thunder vs New York Knicks @ Madison Square Garden, 2026-03-05 00:00 UTC",103,100
+401810749,2026-03-05,Boston Celtics,Charlotte Hornets,TD Garden,2026-03-05,00:30 UTC,"Charlotte Hornets vs Boston Celtics @ TD Garden, 2026-03-05 00:30 UTC",118,89
+401810750,2026-03-05,Philadelphia 76ers,Utah Jazz,Xfinity Mobile Arena,2026-03-05,00:30 UTC,"Utah Jazz vs Philadelphia 76ers @ Xfinity Mobile Arena, 2026-03-05 00:30 UTC",102,106
+401810751,2026-03-05,Memphis Grizzlies,Portland Trail Blazers,FedExForum,2026-03-05,01:00 UTC,"Portland Trail Blazers vs Memphis Grizzlies @ FedExForum, 2026-03-05 01:00 UTC",122,114
+401810752,2026-03-05,Milwaukee Bucks,Atlanta Hawks,Fiserv Forum,2026-03-05,02:30 UTC,"Atlanta Hawks vs Milwaukee Bucks @ Fiserv Forum, 2026-03-05 02:30 UTC",131,113
+401810753,2026-03-05,LA Clippers,Indiana Pacers,Intuit Dome,2026-03-05,03:30 UTC,"Indiana Pacers vs LA Clippers @ Intuit Dome, 2026-03-05 03:30 UTC",107,130

@@ -1894,3 +1894,12 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810751,2026-03-05,Memphis Grizzlies,Portland Trail Blazers,FedExForum,2026-03-05,01:00 UTC,"Portland Trail Blazers vs Memphis Grizzlies @ FedExForum, 2026-03-05 01:00 UTC",122,114
 401810752,2026-03-05,Milwaukee Bucks,Atlanta Hawks,Fiserv Forum,2026-03-05,02:30 UTC,"Atlanta Hawks vs Milwaukee Bucks @ Fiserv Forum, 2026-03-05 02:30 UTC",131,113
 401810753,2026-03-05,LA Clippers,Indiana Pacers,Intuit Dome,2026-03-05,03:30 UTC,"Indiana Pacers vs LA Clippers @ Intuit Dome, 2026-03-05 03:30 UTC",107,130
+401810754,2026-03-06,Orlando Magic,Dallas Mavericks,Kia Center,2026-03-06,00:00 UTC,"Dallas Mavericks vs Orlando Magic @ Kia Center, 2026-03-06 00:00 UTC",114,115
+401810755,2026-03-06,Washington Wizards,Utah Jazz,Capital One Arena,2026-03-06,00:00 UTC,"Utah Jazz vs Washington Wizards @ Capital One Arena, 2026-03-06 00:00 UTC",122,112
+401810756,2026-03-06,Miami Heat,Brooklyn Nets,Kaseya Center,2026-03-06,00:30 UTC,"Brooklyn Nets vs Miami Heat @ Kaseya Center, 2026-03-06 00:30 UTC",110,126
+401810757,2026-03-06,Houston Rockets,Golden State Warriors,Toyota Center (Houston),2026-03-06,00:30 UTC,"Golden State Warriors vs Houston Rockets @ Toyota Center (Houston), 2026-03-06 00:30 UTC",115,113
+401810758,2026-03-06,Minnesota Timberwolves,Toronto Raptors,Target Center,2026-03-06,01:00 UTC,"Toronto Raptors vs Minnesota Timberwolves @ Target Center, 2026-03-06 01:00 UTC",107,115
+401810759,2026-03-06,San Antonio Spurs,Detroit Pistons,Frost Bank Center,2026-03-06,01:00 UTC,"Detroit Pistons vs San Antonio Spurs @ Frost Bank Center, 2026-03-06 01:00 UTC",106,121
+401810760,2026-03-06,Phoenix Suns,Chicago Bulls,Mortgage Matchup Center,2026-03-06,02:00 UTC,"Chicago Bulls vs Phoenix Suns @ Mortgage Matchup Center, 2026-03-06 02:00 UTC",105,103
+401810761,2026-03-06,Denver Nuggets,Los Angeles Lakers,Ball Arena,2026-03-06,03:00 UTC,"Los Angeles Lakers vs Denver Nuggets @ Ball Arena, 2026-03-06 03:00 UTC",113,120
+401810762,2026-03-06,Sacramento Kings,New Orleans Pelicans,Golden 1 Center,2026-03-06,03:00 UTC,"New Orleans Pelicans vs Sacramento Kings @ Golden 1 Center, 2026-03-06 03:00 UTC",133,123

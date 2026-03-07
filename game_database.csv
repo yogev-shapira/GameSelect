@@ -1903,3 +1903,10 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810760,2026-03-06,Phoenix Suns,Chicago Bulls,Mortgage Matchup Center,2026-03-06,02:00 UTC,"Chicago Bulls vs Phoenix Suns @ Mortgage Matchup Center, 2026-03-06 02:00 UTC",105,103
 401810761,2026-03-06,Denver Nuggets,Los Angeles Lakers,Ball Arena,2026-03-06,03:00 UTC,"Los Angeles Lakers vs Denver Nuggets @ Ball Arena, 2026-03-06 03:00 UTC",113,120
 401810762,2026-03-06,Sacramento Kings,New Orleans Pelicans,Golden 1 Center,2026-03-06,03:00 UTC,"New Orleans Pelicans vs Sacramento Kings @ Golden 1 Center, 2026-03-06 03:00 UTC",133,123
+401810763,2026-03-07,Boston Celtics,Dallas Mavericks,TD Garden,2026-03-07,00:00 UTC,"Dallas Mavericks vs Boston Celtics @ TD Garden, 2026-03-07 00:00 UTC",100,120
+401810764,2026-03-07,Charlotte Hornets,Miami Heat,Spectrum Center,2026-03-07,00:00 UTC,"Miami Heat vs Charlotte Hornets @ Spectrum Center, 2026-03-07 00:00 UTC",128,120
+401810765,2026-03-07,Houston Rockets,Portland Trail Blazers,Toyota Center (Houston),2026-03-07,01:00 UTC,"Portland Trail Blazers vs Houston Rockets @ Toyota Center (Houston), 2026-03-07 01:00 UTC",99,106
+401810766,2026-03-07,Denver Nuggets,New York Knicks,Ball Arena,2026-03-07,02:00 UTC,"New York Knicks vs Denver Nuggets @ Ball Arena, 2026-03-07 02:00 UTC",142,103
+401810767,2026-03-07,Phoenix Suns,New Orleans Pelicans,Mortgage Matchup Center,2026-03-07,02:00 UTC,"New Orleans Pelicans vs Phoenix Suns @ Mortgage Matchup Center, 2026-03-07 02:00 UTC",116,118
+401810768,2026-03-07,San Antonio Spurs,LA Clippers,Frost Bank Center,2026-03-07,02:30 UTC,"LA Clippers vs San Antonio Spurs @ Frost Bank Center, 2026-03-07 02:30 UTC",112,116
+401810769,2026-03-07,Los Angeles Lakers,Indiana Pacers,crypto.com Arena,2026-03-07,03:30 UTC,"Indiana Pacers vs Los Angeles Lakers @ crypto.com Arena, 2026-03-07 03:30 UTC",117,128

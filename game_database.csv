@@ -1910,3 +1910,9 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810767,2026-03-07,Phoenix Suns,New Orleans Pelicans,Mortgage Matchup Center,2026-03-07,02:00 UTC,"New Orleans Pelicans vs Phoenix Suns @ Mortgage Matchup Center, 2026-03-07 02:00 UTC",116,118
 401810768,2026-03-07,San Antonio Spurs,LA Clippers,Frost Bank Center,2026-03-07,02:30 UTC,"LA Clippers vs San Antonio Spurs @ Frost Bank Center, 2026-03-07 02:30 UTC",112,116
 401810769,2026-03-07,Los Angeles Lakers,Indiana Pacers,crypto.com Arena,2026-03-07,03:30 UTC,"Indiana Pacers vs Los Angeles Lakers @ crypto.com Arena, 2026-03-07 03:30 UTC",117,128
+401810770,2026-03-07,Minnesota Timberwolves,Orlando Magic,Target Center,2026-03-07,20:00 UTC,"Orlando Magic vs Minnesota Timberwolves @ Target Center, 2026-03-07 20:00 UTC",119,92
+401810771,2026-03-07,Detroit Pistons,Brooklyn Nets,Little Caesars Arena,2026-03-07,23:00 UTC,"Brooklyn Nets vs Detroit Pistons @ Little Caesars Arena, 2026-03-07 23:00 UTC",107,105
+401810772,2026-03-07,Atlanta Hawks,Philadelphia 76ers,State Farm Arena,2026-03-07,23:00 UTC,"Philadelphia 76ers vs Atlanta Hawks @ State Farm Arena, 2026-03-07 23:00 UTC",116,125
+401810773,2026-03-08,Memphis Grizzlies,LA Clippers,FedExForum,2026-03-08,01:00 UTC,"LA Clippers vs Memphis Grizzlies @ FedExForum, 2026-03-08 01:00 UTC",123,120
+401810774,2026-03-08,Milwaukee Bucks,Utah Jazz,Fiserv Forum,2026-03-08,01:00 UTC,"Utah Jazz vs Milwaukee Bucks @ Fiserv Forum, 2026-03-08 01:00 UTC",99,113
+401810775,2026-03-08,Oklahoma City Thunder,Golden State Warriors,Paycom Center,2026-03-08,01:30 UTC,"Golden State Warriors vs Oklahoma City Thunder @ Paycom Center, 2026-03-08 01:30 UTC",97,104

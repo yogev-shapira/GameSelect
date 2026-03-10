@@ -1926,3 +1926,8 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810784,2026-03-09,Portland Trail Blazers,Indiana Pacers,Moda Center,2026-03-09,01:00 UTC,"Indiana Pacers vs Portland Trail Blazers @ Moda Center, 2026-03-09 01:00 UTC",111,131
 401810785,2026-03-09,Sacramento Kings,Chicago Bulls,Golden 1 Center,2026-03-09,01:00 UTC,"Chicago Bulls vs Sacramento Kings @ Golden 1 Center, 2026-03-09 01:00 UTC",110,126
 401810783,2026-03-09,Phoenix Suns,Charlotte Hornets,Mortgage Matchup Center,2026-03-09,02:00 UTC,"Charlotte Hornets vs Phoenix Suns @ Mortgage Matchup Center, 2026-03-09 02:00 UTC",99,111
+401810786,2026-03-09,Cleveland Cavaliers,Philadelphia 76ers,Rocket Arena,2026-03-09,23:00 UTC,"Philadelphia 76ers vs Cleveland Cavaliers @ Rocket Arena, 2026-03-09 23:00 UTC",101,115
+401810787,2026-03-09,Brooklyn Nets,Memphis Grizzlies,Barclays Center,2026-03-09,23:30 UTC,"Memphis Grizzlies vs Brooklyn Nets @ Barclays Center, 2026-03-09 23:30 UTC",115,126
+401810788,2026-03-09,Oklahoma City Thunder,Denver Nuggets,Paycom Center,2026-03-09,23:30 UTC,"Denver Nuggets vs Oklahoma City Thunder @ Paycom Center, 2026-03-09 23:30 UTC",126,129
+401810789,2026-03-10,Utah Jazz,Golden State Warriors,Delta Center,2026-03-10,01:00 UTC,"Golden State Warriors vs Utah Jazz @ Delta Center, 2026-03-10 01:00 UTC",116,119
+401810790,2026-03-10,LA Clippers,New York Knicks,Intuit Dome,2026-03-10,02:00 UTC,"New York Knicks vs LA Clippers @ Intuit Dome, 2026-03-10 02:00 UTC",118,126

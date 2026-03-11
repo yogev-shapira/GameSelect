@@ -1931,3 +1931,14 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810788,2026-03-09,Oklahoma City Thunder,Denver Nuggets,Paycom Center,2026-03-09,23:30 UTC,"Denver Nuggets vs Oklahoma City Thunder @ Paycom Center, 2026-03-09 23:30 UTC",126,129
 401810789,2026-03-10,Utah Jazz,Golden State Warriors,Delta Center,2026-03-10,01:00 UTC,"Golden State Warriors vs Utah Jazz @ Delta Center, 2026-03-10 01:00 UTC",116,119
 401810790,2026-03-10,LA Clippers,New York Knicks,Intuit Dome,2026-03-10,02:00 UTC,"New York Knicks vs LA Clippers @ Intuit Dome, 2026-03-10 02:00 UTC",118,126
+401810791,2026-03-10,Philadelphia 76ers,Memphis Grizzlies,Xfinity Mobile Arena,2026-03-10,23:00 UTC,"Memphis Grizzlies vs Philadelphia 76ers @ Xfinity Mobile Arena, 2026-03-10 23:00 UTC",129,139
+401810792,2026-03-10,Brooklyn Nets,Detroit Pistons,Barclays Center,2026-03-10,23:30 UTC,"Detroit Pistons vs Brooklyn Nets @ Barclays Center, 2026-03-10 23:30 UTC",138,100
+401810793,2026-03-10,Miami Heat,Washington Wizards,Kaseya Center,2026-03-10,23:30 UTC,"Washington Wizards vs Miami Heat @ Kaseya Center, 2026-03-10 23:30 UTC",129,150
+401810794,2026-03-10,Atlanta Hawks,Dallas Mavericks,State Farm Arena,2026-03-10,23:30 UTC,"Dallas Mavericks vs Atlanta Hawks @ State Farm Arena, 2026-03-10 23:30 UTC",112,124
+401810795,2026-03-11,Houston Rockets,Toronto Raptors,Toyota Center (Houston),2026-03-11,00:00 UTC,"Toronto Raptors vs Houston Rockets @ Toyota Center (Houston), 2026-03-11 00:00 UTC",99,113
+401810796,2026-03-11,Milwaukee Bucks,Phoenix Suns,Fiserv Forum,2026-03-11,00:00 UTC,"Phoenix Suns vs Milwaukee Bucks @ Fiserv Forum, 2026-03-11 00:00 UTC",129,114
+401810797,2026-03-11,San Antonio Spurs,Boston Celtics,Frost Bank Center,2026-03-11,00:00 UTC,"Boston Celtics vs San Antonio Spurs @ Frost Bank Center, 2026-03-11 00:00 UTC",116,125
+401810798,2026-03-11,Golden State Warriors,Chicago Bulls,Chase Center,2026-03-11,02:00 UTC,"Chicago Bulls vs Golden State Warriors @ Chase Center, 2026-03-11 02:00 UTC",130,124
+401810799,2026-03-11,Portland Trail Blazers,Charlotte Hornets,Moda Center,2026-03-11,02:00 UTC,"Charlotte Hornets vs Portland Trail Blazers @ Moda Center, 2026-03-11 02:00 UTC",103,101
+401810800,2026-03-11,Sacramento Kings,Indiana Pacers,Golden 1 Center,2026-03-11,02:00 UTC,"Indiana Pacers vs Sacramento Kings @ Golden 1 Center, 2026-03-11 02:00 UTC",109,114
+401810801,2026-03-11,Los Angeles Lakers,Minnesota Timberwolves,crypto.com Arena,2026-03-11,03:00 UTC,"Minnesota Timberwolves vs Los Angeles Lakers @ crypto.com Arena, 2026-03-11 03:00 UTC",106,120

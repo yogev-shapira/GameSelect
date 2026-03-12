@@ -1942,3 +1942,9 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810799,2026-03-11,Portland Trail Blazers,Charlotte Hornets,Moda Center,2026-03-11,02:00 UTC,"Charlotte Hornets vs Portland Trail Blazers @ Moda Center, 2026-03-11 02:00 UTC",103,101
 401810800,2026-03-11,Sacramento Kings,Indiana Pacers,Golden 1 Center,2026-03-11,02:00 UTC,"Indiana Pacers vs Sacramento Kings @ Golden 1 Center, 2026-03-11 02:00 UTC",109,114
 401810801,2026-03-11,Los Angeles Lakers,Minnesota Timberwolves,crypto.com Arena,2026-03-11,03:00 UTC,"Minnesota Timberwolves vs Los Angeles Lakers @ crypto.com Arena, 2026-03-11 03:00 UTC",106,120
+401810802,2026-03-11,Orlando Magic,Cleveland Cavaliers,Kia Center,2026-03-11,23:30 UTC,"Cleveland Cavaliers vs Orlando Magic @ Kia Center, 2026-03-11 23:30 UTC",122,128
+401810803,2026-03-12,New Orleans Pelicans,Toronto Raptors,Smoothie King Center,2026-03-12,00:00 UTC,"Toronto Raptors vs New Orleans Pelicans @ Smoothie King Center, 2026-03-12 00:00 UTC",111,122
+401810804,2026-03-12,Utah Jazz,New York Knicks,Delta Center,2026-03-12,01:00 UTC,"New York Knicks vs Utah Jazz @ Delta Center, 2026-03-12 01:00 UTC",134,117
+401810805,2026-03-12,Denver Nuggets,Houston Rockets,Ball Arena,2026-03-12,02:00 UTC,"Houston Rockets vs Denver Nuggets @ Ball Arena, 2026-03-12 02:00 UTC",93,129
+401810806,2026-03-12,Sacramento Kings,Charlotte Hornets,Golden 1 Center,2026-03-12,02:00 UTC,"Charlotte Hornets vs Sacramento Kings @ Golden 1 Center, 2026-03-12 02:00 UTC",117,109
+401810807,2026-03-12,LA Clippers,Minnesota Timberwolves,Intuit Dome,2026-03-12,02:30 UTC,"Minnesota Timberwolves vs LA Clippers @ Intuit Dome, 2026-03-12 02:30 UTC",128,153

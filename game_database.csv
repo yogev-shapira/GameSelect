@@ -1948,3 +1948,12 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810805,2026-03-12,Denver Nuggets,Houston Rockets,Ball Arena,2026-03-12,02:00 UTC,"Houston Rockets vs Denver Nuggets @ Ball Arena, 2026-03-12 02:00 UTC",93,129
 401810806,2026-03-12,Sacramento Kings,Charlotte Hornets,Golden 1 Center,2026-03-12,02:00 UTC,"Charlotte Hornets vs Sacramento Kings @ Golden 1 Center, 2026-03-12 02:00 UTC",117,109
 401810807,2026-03-12,LA Clippers,Minnesota Timberwolves,Intuit Dome,2026-03-12,02:30 UTC,"Minnesota Timberwolves vs LA Clippers @ Intuit Dome, 2026-03-12 02:30 UTC",128,153
+401810808,2026-03-12,Detroit Pistons,Philadelphia 76ers,Little Caesars Arena,2026-03-12,23:00 UTC,"Philadelphia 76ers vs Detroit Pistons @ Little Caesars Arena, 2026-03-12 23:00 UTC",109,131
+401810809,2026-03-12,Indiana Pacers,Phoenix Suns,Gainbridge Fieldhouse,2026-03-12,23:00 UTC,"Phoenix Suns vs Indiana Pacers @ Gainbridge Fieldhouse, 2026-03-12 23:00 UTC",123,108
+401810810,2026-03-12,Orlando Magic,Washington Wizards,Kia Center,2026-03-12,23:00 UTC,"Washington Wizards vs Orlando Magic @ Kia Center, 2026-03-12 23:00 UTC",131,136
+401810811,2026-03-12,Atlanta Hawks,Brooklyn Nets,State Farm Arena,2026-03-12,23:30 UTC,"Brooklyn Nets vs Atlanta Hawks @ State Farm Arena, 2026-03-12 23:30 UTC",97,108
+401810812,2026-03-12,Miami Heat,Milwaukee Bucks,Kaseya Center,2026-03-12,23:30 UTC,"Milwaukee Bucks vs Miami Heat @ Kaseya Center, 2026-03-12 23:30 UTC",105,112
+401810966,2026-03-13,Memphis Grizzlies,Dallas Mavericks,FedExForum,2026-03-13,00:00 UTC,"Dallas Mavericks vs Memphis Grizzlies @ FedExForum, 2026-03-13 00:00 UTC",120,112
+401810813,2026-03-13,San Antonio Spurs,Denver Nuggets,Frost Bank Center,2026-03-13,01:00 UTC,"Denver Nuggets vs San Antonio Spurs @ Frost Bank Center, 2026-03-13 01:00 UTC",136,131
+401810814,2026-03-13,Oklahoma City Thunder,Boston Celtics,Paycom Center,2026-03-13,01:30 UTC,"Boston Celtics vs Oklahoma City Thunder @ Paycom Center, 2026-03-13 01:30 UTC",102,104
+401810815,2026-03-13,Los Angeles Lakers,Chicago Bulls,crypto.com Arena,2026-03-13,02:30 UTC,"Chicago Bulls vs Los Angeles Lakers @ crypto.com Arena, 2026-03-13 02:30 UTC",130,142

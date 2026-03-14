@@ -1957,3 +1957,11 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810813,2026-03-13,San Antonio Spurs,Denver Nuggets,Frost Bank Center,2026-03-13,01:00 UTC,"Denver Nuggets vs San Antonio Spurs @ Frost Bank Center, 2026-03-13 01:00 UTC",136,131
 401810814,2026-03-13,Oklahoma City Thunder,Boston Celtics,Paycom Center,2026-03-13,01:30 UTC,"Boston Celtics vs Oklahoma City Thunder @ Paycom Center, 2026-03-13 01:30 UTC",102,104
 401810815,2026-03-13,Los Angeles Lakers,Chicago Bulls,crypto.com Arena,2026-03-13,02:30 UTC,"Chicago Bulls vs Los Angeles Lakers @ crypto.com Arena, 2026-03-13 02:30 UTC",130,142
+401810816,2026-03-13,Detroit Pistons,Memphis Grizzlies,Little Caesars Arena,2026-03-13,23:30 UTC,"Memphis Grizzlies vs Detroit Pistons @ Little Caesars Arena, 2026-03-13 23:30 UTC",110,126
+401810817,2026-03-13,Indiana Pacers,New York Knicks,Gainbridge Fieldhouse,2026-03-13,23:30 UTC,"New York Knicks vs Indiana Pacers @ Gainbridge Fieldhouse, 2026-03-13 23:30 UTC",101,92
+401810818,2026-03-13,Toronto Raptors,Phoenix Suns,Scotiabank Arena,2026-03-13,23:30 UTC,"Phoenix Suns vs Toronto Raptors @ Scotiabank Arena, 2026-03-13 23:30 UTC",115,122
+401810820,2026-03-13,Dallas Mavericks,Cleveland Cavaliers,American Airlines Center,2026-03-13,23:30 UTC,"Cleveland Cavaliers vs Dallas Mavericks @ American Airlines Center, 2026-03-13 23:30 UTC",138,105
+401810819,2026-03-14,Houston Rockets,New Orleans Pelicans,Toyota Center (Houston),2026-03-14,00:00 UTC,"New Orleans Pelicans vs Houston Rockets @ Toyota Center (Houston), 2026-03-14 00:00 UTC",105,107
+401810821,2026-03-14,Golden State Warriors,Minnesota Timberwolves,Chase Center,2026-03-14,02:00 UTC,"Minnesota Timberwolves vs Golden State Warriors @ Chase Center, 2026-03-14 02:00 UTC",127,117
+401810822,2026-03-14,Portland Trail Blazers,Utah Jazz,Moda Center,2026-03-14,02:00 UTC,"Utah Jazz vs Portland Trail Blazers @ Moda Center, 2026-03-14 02:00 UTC",114,124
+401810823,2026-03-14,LA Clippers,Chicago Bulls,Intuit Dome,2026-03-14,02:30 UTC,"Chicago Bulls vs LA Clippers @ Intuit Dome, 2026-03-14 02:30 UTC",108,119

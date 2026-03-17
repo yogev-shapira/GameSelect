@@ -1979,3 +1979,11 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810835,2026-03-15,Philadelphia 76ers,Portland Trail Blazers,Xfinity Mobile Arena,2026-03-15,22:00 UTC,"Portland Trail Blazers vs Philadelphia 76ers @ Xfinity Mobile Arena, 2026-03-15 22:00 UTC",103,109
 401810836,2026-03-16,New York Knicks,Golden State Warriors,Madison Square Garden,2026-03-16,00:00 UTC,"Golden State Warriors vs New York Knicks @ Madison Square Garden, 2026-03-16 00:00 UTC",107,110
 401810837,2026-03-16,Sacramento Kings,Utah Jazz,Golden 1 Center,2026-03-16,02:00 UTC,"Utah Jazz vs Sacramento Kings @ Golden 1 Center, 2026-03-16 02:00 UTC",111,116
+401810838,2026-03-16,Atlanta Hawks,Orlando Magic,State Farm Arena,2026-03-16,23:00 UTC,"Orlando Magic vs Atlanta Hawks @ State Farm Arena, 2026-03-16 23:00 UTC",112,124
+401810839,2026-03-16,Washington Wizards,Golden State Warriors,Capital One Arena,2026-03-16,23:00 UTC,"Golden State Warriors vs Washington Wizards @ Capital One Arena, 2026-03-16 23:00 UTC",125,117
+401810840,2026-03-16,Brooklyn Nets,Portland Trail Blazers,Barclays Center,2026-03-16,23:30 UTC,"Portland Trail Blazers vs Brooklyn Nets @ Barclays Center, 2026-03-16 23:30 UTC",114,95
+401810841,2026-03-16,Boston Celtics,Phoenix Suns,TD Garden,2026-03-16,23:30 UTC,"Phoenix Suns vs Boston Celtics @ TD Garden, 2026-03-16 23:30 UTC",112,120
+401810842,2026-03-17,Chicago Bulls,Memphis Grizzlies,United Center,2026-03-17,00:00 UTC,"Memphis Grizzlies vs Chicago Bulls @ United Center, 2026-03-17 00:00 UTC",107,132
+401810843,2026-03-17,New Orleans Pelicans,Dallas Mavericks,Smoothie King Center,2026-03-17,00:00 UTC,"Dallas Mavericks vs New Orleans Pelicans @ Smoothie King Center, 2026-03-17 00:00 UTC",111,129
+401810844,2026-03-17,Houston Rockets,Los Angeles Lakers,Toyota Center (Houston),2026-03-17,01:30 UTC,"Los Angeles Lakers vs Houston Rockets @ Toyota Center (Houston), 2026-03-17 01:30 UTC",100,92
+401810845,2026-03-17,LA Clippers,San Antonio Spurs,Intuit Dome,2026-03-17,02:00 UTC,"San Antonio Spurs vs LA Clippers @ Intuit Dome, 2026-03-17 02:00 UTC",119,115

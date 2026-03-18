@@ -1987,3 +1987,11 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810843,2026-03-17,New Orleans Pelicans,Dallas Mavericks,Smoothie King Center,2026-03-17,00:00 UTC,"Dallas Mavericks vs New Orleans Pelicans @ Smoothie King Center, 2026-03-17 00:00 UTC",111,129
 401810844,2026-03-17,Houston Rockets,Los Angeles Lakers,Toyota Center (Houston),2026-03-17,01:30 UTC,"Los Angeles Lakers vs Houston Rockets @ Toyota Center (Houston), 2026-03-17 01:30 UTC",100,92
 401810845,2026-03-17,LA Clippers,San Antonio Spurs,Intuit Dome,2026-03-17,02:00 UTC,"San Antonio Spurs vs LA Clippers @ Intuit Dome, 2026-03-17 02:00 UTC",119,115
+401810846,2026-03-17,Charlotte Hornets,Miami Heat,Spectrum Center,2026-03-17,23:00 UTC,"Miami Heat vs Charlotte Hornets @ Spectrum Center, 2026-03-17 23:00 UTC",106,136
+401810847,2026-03-17,Orlando Magic,Oklahoma City Thunder,Kia Center,2026-03-17,23:00 UTC,"Oklahoma City Thunder vs Orlando Magic @ Kia Center, 2026-03-17 23:00 UTC",113,108
+401810848,2026-03-17,Washington Wizards,Detroit Pistons,Capital One Arena,2026-03-17,23:00 UTC,"Detroit Pistons vs Washington Wizards @ Capital One Arena, 2026-03-17 23:00 UTC",130,117
+401810849,2026-03-17,New York Knicks,Indiana Pacers,Madison Square Garden,2026-03-17,23:30 UTC,"Indiana Pacers vs New York Knicks @ Madison Square Garden, 2026-03-17 23:30 UTC",110,136
+401810850,2026-03-18,Milwaukee Bucks,Cleveland Cavaliers,Fiserv Forum,2026-03-18,00:00 UTC,"Cleveland Cavaliers vs Milwaukee Bucks @ Fiserv Forum, 2026-03-18 00:00 UTC",123,116
+401810851,2026-03-18,Minnesota Timberwolves,Phoenix Suns,Target Center,2026-03-18,00:00 UTC,"Phoenix Suns vs Minnesota Timberwolves @ Target Center, 2026-03-18 00:00 UTC",104,116
+401810852,2026-03-18,Denver Nuggets,Philadelphia 76ers,Ball Arena,2026-03-18,02:00 UTC,"Philadelphia 76ers vs Denver Nuggets @ Ball Arena, 2026-03-18 02:00 UTC",96,124
+401810853,2026-03-18,Sacramento Kings,San Antonio Spurs,Golden 1 Center,2026-03-18,02:00 UTC,"San Antonio Spurs vs Sacramento Kings @ Golden 1 Center, 2026-03-18 02:00 UTC",132,104

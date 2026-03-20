@@ -2004,3 +2004,11 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810861,2026-03-19,Dallas Mavericks,Atlanta Hawks,American Airlines Center,2026-03-19,00:30 UTC,"Atlanta Hawks vs Dallas Mavericks @ American Airlines Center, 2026-03-19 00:30 UTC",135,120
 401858693,2026-03-19,Memphis Grizzlies,Denver Nuggets,FedExForum,2026-03-19,00:30 UTC,"Denver Nuggets vs Memphis Grizzlies @ FedExForum, 2026-03-19 00:30 UTC",118,125
 401810862,2026-03-19,Houston Rockets,Los Angeles Lakers,Toyota Center (Houston),2026-03-19,01:30 UTC,"Los Angeles Lakers vs Houston Rockets @ Toyota Center (Houston), 2026-03-19 01:30 UTC",124,116
+401810863,2026-03-19,Charlotte Hornets,Orlando Magic,Spectrum Center,2026-03-19,23:00 UTC,"Orlando Magic vs Charlotte Hornets @ Spectrum Center, 2026-03-19 23:00 UTC",111,130
+401810864,2026-03-19,Washington Wizards,Detroit Pistons,Capital One Arena,2026-03-19,23:00 UTC,"Detroit Pistons vs Washington Wizards @ Capital One Arena, 2026-03-19 23:00 UTC",117,95
+401810865,2026-03-20,Miami Heat,Los Angeles Lakers,Kaseya Center,2026-03-20,00:00 UTC,"Los Angeles Lakers vs Miami Heat @ Kaseya Center, 2026-03-20 00:00 UTC",134,126
+401810866,2026-03-20,Chicago Bulls,Cleveland Cavaliers,United Center,2026-03-20,00:00 UTC,"Cleveland Cavaliers vs Chicago Bulls @ United Center, 2026-03-20 00:00 UTC",115,110
+401810867,2026-03-20,New Orleans Pelicans,LA Clippers,Smoothie King Center,2026-03-20,00:00 UTC,"LA Clippers vs New Orleans Pelicans @ Smoothie King Center, 2026-03-20 00:00 UTC",99,105
+401810868,2026-03-20,San Antonio Spurs,Phoenix Suns,Frost Bank Center,2026-03-20,00:00 UTC,"Phoenix Suns vs San Antonio Spurs @ Frost Bank Center, 2026-03-20 00:00 UTC",100,101
+401810869,2026-03-20,Utah Jazz,Milwaukee Bucks,Delta Center,2026-03-20,01:00 UTC,"Milwaukee Bucks vs Utah Jazz @ Delta Center, 2026-03-20 01:00 UTC",96,128
+401810870,2026-03-20,Sacramento Kings,Philadelphia 76ers,Golden 1 Center,2026-03-20,02:00 UTC,"Philadelphia 76ers vs Sacramento Kings @ Golden 1 Center, 2026-03-20 02:00 UTC",139,118

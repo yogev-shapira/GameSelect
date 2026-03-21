@@ -2012,3 +2012,9 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810868,2026-03-20,San Antonio Spurs,Phoenix Suns,Frost Bank Center,2026-03-20,00:00 UTC,"Phoenix Suns vs San Antonio Spurs @ Frost Bank Center, 2026-03-20 00:00 UTC",100,101
 401810869,2026-03-20,Utah Jazz,Milwaukee Bucks,Delta Center,2026-03-20,01:00 UTC,"Milwaukee Bucks vs Utah Jazz @ Delta Center, 2026-03-20 01:00 UTC",96,128
 401810870,2026-03-20,Sacramento Kings,Philadelphia 76ers,Golden 1 Center,2026-03-20,02:00 UTC,"Philadelphia 76ers vs Sacramento Kings @ Golden 1 Center, 2026-03-20 02:00 UTC",139,118
+401810871,2026-03-20,Brooklyn Nets,New York Knicks,Barclays Center,2026-03-20,23:30 UTC,"New York Knicks vs Brooklyn Nets @ Barclays Center, 2026-03-20 23:30 UTC",93,92
+401810872,2026-03-20,Detroit Pistons,Golden State Warriors,Little Caesars Arena,2026-03-20,23:30 UTC,"Golden State Warriors vs Detroit Pistons @ Little Caesars Arena, 2026-03-20 23:30 UTC",101,115
+401810873,2026-03-21,Houston Rockets,Atlanta Hawks,Toyota Center (Houston),2026-03-21,00:00 UTC,"Atlanta Hawks vs Houston Rockets @ Toyota Center (Houston), 2026-03-21 00:00 UTC",95,117
+401810874,2026-03-21,Memphis Grizzlies,Boston Celtics,FedExForum,2026-03-21,00:00 UTC,"Boston Celtics vs Memphis Grizzlies @ FedExForum, 2026-03-21 00:00 UTC",117,112
+401810875,2026-03-21,Minnesota Timberwolves,Portland Trail Blazers,Target Center,2026-03-21,00:00 UTC,"Portland Trail Blazers vs Minnesota Timberwolves @ Target Center, 2026-03-21 00:00 UTC",108,104
+401810876,2026-03-21,Denver Nuggets,Toronto Raptors,Ball Arena,2026-03-21,01:00 UTC,"Toronto Raptors vs Denver Nuggets @ Ball Arena, 2026-03-21 01:00 UTC",115,121

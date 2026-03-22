@@ -2018,3 +2018,13 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810874,2026-03-21,Memphis Grizzlies,Boston Celtics,FedExForum,2026-03-21,00:00 UTC,"Boston Celtics vs Memphis Grizzlies @ FedExForum, 2026-03-21 00:00 UTC",117,112
 401810875,2026-03-21,Minnesota Timberwolves,Portland Trail Blazers,Target Center,2026-03-21,00:00 UTC,"Portland Trail Blazers vs Minnesota Timberwolves @ Target Center, 2026-03-21 00:00 UTC",108,104
 401810876,2026-03-21,Denver Nuggets,Toronto Raptors,Ball Arena,2026-03-21,01:00 UTC,"Toronto Raptors vs Denver Nuggets @ Ball Arena, 2026-03-21 01:00 UTC",115,121
+401810877,2026-03-21,Washington Wizards,Oklahoma City Thunder,Capital One Arena,2026-03-21,21:00 UTC,"Oklahoma City Thunder vs Washington Wizards @ Capital One Arena, 2026-03-21 21:00 UTC",132,111
+401810878,2026-03-21,Charlotte Hornets,Memphis Grizzlies,Spectrum Center,2026-03-21,23:00 UTC,"Memphis Grizzlies vs Charlotte Hornets @ Spectrum Center, 2026-03-21 23:00 UTC",101,124
+401810879,2026-03-21,Orlando Magic,Los Angeles Lakers,Kia Center,2026-03-21,23:00 UTC,"Los Angeles Lakers vs Orlando Magic @ Kia Center, 2026-03-21 23:00 UTC",105,104
+401810880,2026-03-21,New Orleans Pelicans,Cleveland Cavaliers,Smoothie King Center,2026-03-21,23:00 UTC,"Cleveland Cavaliers vs New Orleans Pelicans @ Smoothie King Center, 2026-03-21 23:00 UTC",111,106
+401810881,2026-03-22,Atlanta Hawks,Golden State Warriors,State Farm Arena,2026-03-22,00:00 UTC,"Golden State Warriors vs Atlanta Hawks @ State Farm Arena, 2026-03-22 00:00 UTC",110,126
+401810882,2026-03-22,Houston Rockets,Miami Heat,Toyota Center (Houston),2026-03-22,00:00 UTC,"Miami Heat vs Houston Rockets @ Toyota Center (Houston), 2026-03-22 00:00 UTC",122,123
+401810883,2026-03-22,San Antonio Spurs,Indiana Pacers,Frost Bank Center,2026-03-22,00:00 UTC,"Indiana Pacers vs San Antonio Spurs @ Frost Bank Center, 2026-03-22 00:00 UTC",119,134
+401810884,2026-03-22,Dallas Mavericks,LA Clippers,American Airlines Center,2026-03-22,00:30 UTC,"LA Clippers vs Dallas Mavericks @ American Airlines Center, 2026-03-22 00:30 UTC",138,131
+401810885,2026-03-22,Utah Jazz,Philadelphia 76ers,Delta Center,2026-03-22,01:30 UTC,"Philadelphia 76ers vs Utah Jazz @ Delta Center, 2026-03-22 01:30 UTC",126,116
+401810886,2026-03-22,Phoenix Suns,Milwaukee Bucks,Mortgage Matchup Center,2026-03-22,02:00 UTC,"Milwaukee Bucks vs Phoenix Suns @ Mortgage Matchup Center, 2026-03-22 02:00 UTC",108,105

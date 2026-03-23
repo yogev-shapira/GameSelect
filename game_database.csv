@@ -2028,3 +2028,8 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810884,2026-03-22,Dallas Mavericks,LA Clippers,American Airlines Center,2026-03-22,00:30 UTC,"LA Clippers vs Dallas Mavericks @ American Airlines Center, 2026-03-22 00:30 UTC",138,131
 401810885,2026-03-22,Utah Jazz,Philadelphia 76ers,Delta Center,2026-03-22,01:30 UTC,"Philadelphia 76ers vs Utah Jazz @ Delta Center, 2026-03-22 01:30 UTC",126,116
 401810886,2026-03-22,Phoenix Suns,Milwaukee Bucks,Mortgage Matchup Center,2026-03-22,02:00 UTC,"Milwaukee Bucks vs Phoenix Suns @ Mortgage Matchup Center, 2026-03-22 02:00 UTC",108,105
+401810887,2026-03-22,Denver Nuggets,Portland Trail Blazers,Ball Arena,2026-03-22,21:00 UTC,"Portland Trail Blazers vs Denver Nuggets @ Ball Arena, 2026-03-22 21:00 UTC",112,128
+401810888,2026-03-22,Sacramento Kings,Brooklyn Nets,Golden 1 Center,2026-03-22,22:00 UTC,"Brooklyn Nets vs Sacramento Kings @ Golden 1 Center, 2026-03-22 22:00 UTC",122,126
+401810889,2026-03-22,New York Knicks,Washington Wizards,Madison Square Garden,2026-03-22,23:30 UTC,"Washington Wizards vs New York Knicks @ Madison Square Garden, 2026-03-22 23:30 UTC",113,145
+401810890,2026-03-23,Boston Celtics,Minnesota Timberwolves,TD Garden,2026-03-23,00:00 UTC,"Minnesota Timberwolves vs Boston Celtics @ TD Garden, 2026-03-23 00:00 UTC",102,92
+401810891,2026-03-23,Phoenix Suns,Toronto Raptors,Mortgage Matchup Center,2026-03-23,01:00 UTC,"Toronto Raptors vs Phoenix Suns @ Mortgage Matchup Center, 2026-03-23 01:00 UTC",98,120

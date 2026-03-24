@@ -2033,3 +2033,13 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810889,2026-03-22,New York Knicks,Washington Wizards,Madison Square Garden,2026-03-22,23:30 UTC,"Washington Wizards vs New York Knicks @ Madison Square Garden, 2026-03-22 23:30 UTC",113,145
 401810890,2026-03-23,Boston Celtics,Minnesota Timberwolves,TD Garden,2026-03-23,00:00 UTC,"Minnesota Timberwolves vs Boston Celtics @ TD Garden, 2026-03-23 00:00 UTC",102,92
 401810891,2026-03-23,Phoenix Suns,Toronto Raptors,Mortgage Matchup Center,2026-03-23,01:00 UTC,"Toronto Raptors vs Phoenix Suns @ Mortgage Matchup Center, 2026-03-23 01:00 UTC",98,120
+401810893,2026-03-23,Detroit Pistons,Los Angeles Lakers,Little Caesars Arena,2026-03-23,23:00 UTC,"Los Angeles Lakers vs Detroit Pistons @ Little Caesars Arena, 2026-03-23 23:00 UTC",110,113
+401810894,2026-03-23,Orlando Magic,Indiana Pacers,Kia Center,2026-03-23,23:00 UTC,"Indiana Pacers vs Orlando Magic @ Kia Center, 2026-03-23 23:00 UTC",128,126
+401810895,2026-03-23,Philadelphia 76ers,Oklahoma City Thunder,Xfinity Mobile Arena,2026-03-23,23:00 UTC,"Oklahoma City Thunder vs Philadelphia 76ers @ Xfinity Mobile Arena, 2026-03-23 23:00 UTC",123,103
+401810896,2026-03-23,Miami Heat,San Antonio Spurs,Kaseya Center,2026-03-23,23:00 UTC,"San Antonio Spurs vs Miami Heat @ Kaseya Center, 2026-03-23 23:00 UTC",136,111
+401810892,2026-03-23,Atlanta Hawks,Memphis Grizzlies,State Farm Arena,2026-03-23,23:30 UTC,"Memphis Grizzlies vs Atlanta Hawks @ State Farm Arena, 2026-03-23 23:30 UTC",107,146
+401810897,2026-03-24,Chicago Bulls,Houston Rockets,United Center,2026-03-24,00:00 UTC,"Houston Rockets vs Chicago Bulls @ United Center, 2026-03-24 00:00 UTC",124,132
+401810898,2026-03-24,Utah Jazz,Toronto Raptors,Delta Center,2026-03-24,01:00 UTC,"Toronto Raptors vs Utah Jazz @ Delta Center, 2026-03-24 01:00 UTC",143,127
+401810899,2026-03-24,Dallas Mavericks,Golden State Warriors,American Airlines Center,2026-03-24,01:30 UTC,"Golden State Warriors vs Dallas Mavericks @ American Airlines Center, 2026-03-24 01:30 UTC",137,131
+401810900,2026-03-24,Portland Trail Blazers,Brooklyn Nets,Moda Center,2026-03-24,02:00 UTC,"Brooklyn Nets vs Portland Trail Blazers @ Moda Center, 2026-03-24 02:00 UTC",99,134
+401810901,2026-03-24,LA Clippers,Milwaukee Bucks,Intuit Dome,2026-03-24,02:30 UTC,"Milwaukee Bucks vs LA Clippers @ Intuit Dome, 2026-03-24 02:30 UTC",96,129

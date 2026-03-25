@@ -2043,3 +2043,7 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810899,2026-03-24,Dallas Mavericks,Golden State Warriors,American Airlines Center,2026-03-24,01:30 UTC,"Golden State Warriors vs Dallas Mavericks @ American Airlines Center, 2026-03-24 01:30 UTC",137,131
 401810900,2026-03-24,Portland Trail Blazers,Brooklyn Nets,Moda Center,2026-03-24,02:00 UTC,"Brooklyn Nets vs Portland Trail Blazers @ Moda Center, 2026-03-24 02:00 UTC",99,134
 401810901,2026-03-24,LA Clippers,Milwaukee Bucks,Intuit Dome,2026-03-24,02:30 UTC,"Milwaukee Bucks vs LA Clippers @ Intuit Dome, 2026-03-24 02:30 UTC",96,129
+401810902,2026-03-24,Charlotte Hornets,Sacramento Kings,Spectrum Center,2026-03-24,23:00 UTC,"Sacramento Kings vs Charlotte Hornets @ Spectrum Center, 2026-03-24 23:00 UTC",90,134
+401810903,2026-03-24,New York Knicks,New Orleans Pelicans,Madison Square Garden,2026-03-24,23:30 UTC,"New Orleans Pelicans vs New York Knicks @ Madison Square Garden, 2026-03-24 23:30 UTC",116,121
+401810904,2026-03-25,Cleveland Cavaliers,Orlando Magic,Rocket Arena,2026-03-25,00:00 UTC,"Orlando Magic vs Cleveland Cavaliers @ Rocket Arena, 2026-03-25 00:00 UTC",131,136
+401810905,2026-03-25,Phoenix Suns,Denver Nuggets,Mortgage Matchup Center,2026-03-25,03:00 UTC,"Denver Nuggets vs Phoenix Suns @ Mortgage Matchup Center, 2026-03-25 03:00 UTC",125,123

@@ -2047,3 +2047,15 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810903,2026-03-24,New York Knicks,New Orleans Pelicans,Madison Square Garden,2026-03-24,23:30 UTC,"New Orleans Pelicans vs New York Knicks @ Madison Square Garden, 2026-03-24 23:30 UTC",116,121
 401810904,2026-03-25,Cleveland Cavaliers,Orlando Magic,Rocket Arena,2026-03-25,00:00 UTC,"Orlando Magic vs Cleveland Cavaliers @ Rocket Arena, 2026-03-25 00:00 UTC",131,136
 401810905,2026-03-25,Phoenix Suns,Denver Nuggets,Mortgage Matchup Center,2026-03-25,03:00 UTC,"Denver Nuggets vs Phoenix Suns @ Mortgage Matchup Center, 2026-03-25 03:00 UTC",125,123
+401810906,2026-03-25,Detroit Pistons,Atlanta Hawks,Little Caesars Arena,2026-03-25,23:00 UTC,"Atlanta Hawks vs Detroit Pistons @ Little Caesars Arena, 2026-03-25 23:00 UTC",130,129
+401810907,2026-03-25,Indiana Pacers,Los Angeles Lakers,Gainbridge Fieldhouse,2026-03-25,23:00 UTC,"Los Angeles Lakers vs Indiana Pacers @ Gainbridge Fieldhouse, 2026-03-25 23:00 UTC",137,130
+401810908,2026-03-25,Philadelphia 76ers,Chicago Bulls,Xfinity Mobile Arena,2026-03-25,23:00 UTC,"Chicago Bulls vs Philadelphia 76ers @ Xfinity Mobile Arena, 2026-03-25 23:00 UTC",137,157
+401810909,2026-03-25,Boston Celtics,Oklahoma City Thunder,TD Garden,2026-03-25,23:30 UTC,"Oklahoma City Thunder vs Boston Celtics @ TD Garden, 2026-03-25 23:30 UTC",109,119
+401810910,2026-03-25,Cleveland Cavaliers,Miami Heat,Rocket Arena,2026-03-25,23:30 UTC,"Miami Heat vs Cleveland Cavaliers @ Rocket Arena, 2026-03-25 23:30 UTC",120,103
+401810911,2026-03-26,Memphis Grizzlies,San Antonio Spurs,FedExForum,2026-03-26,00:00 UTC,"San Antonio Spurs vs Memphis Grizzlies @ FedExForum, 2026-03-26 00:00 UTC",123,98
+401810912,2026-03-26,Utah Jazz,Washington Wizards,Delta Center,2026-03-26,01:00 UTC,"Washington Wizards vs Utah Jazz @ Delta Center, 2026-03-26 01:00 UTC",133,110
+401810913,2026-03-26,Minnesota Timberwolves,Houston Rockets,Target Center,2026-03-26,01:42 UTC,"Houston Rockets vs Minnesota Timberwolves @ Target Center, 2026-03-26 01:42 UTC",108,110
+401810914,2026-03-26,Denver Nuggets,Dallas Mavericks,Ball Arena,2026-03-26,02:00 UTC,"Dallas Mavericks vs Denver Nuggets @ Ball Arena, 2026-03-26 02:00 UTC",135,142
+401810915,2026-03-26,Golden State Warriors,Brooklyn Nets,Chase Center,2026-03-26,02:00 UTC,"Brooklyn Nets vs Golden State Warriors @ Chase Center, 2026-03-26 02:00 UTC",106,109
+401810916,2026-03-26,Portland Trail Blazers,Milwaukee Bucks,Moda Center,2026-03-26,02:00 UTC,"Milwaukee Bucks vs Portland Trail Blazers @ Moda Center, 2026-03-26 02:00 UTC",99,130
+401810917,2026-03-26,LA Clippers,Toronto Raptors,Intuit Dome,2026-03-26,02:30 UTC,"Toronto Raptors vs LA Clippers @ Intuit Dome, 2026-03-26 02:30 UTC",94,119

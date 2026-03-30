@@ -2078,3 +2078,12 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810933,2026-03-28,Atlanta Hawks,Sacramento Kings,State Farm Arena,2026-03-28,23:30 UTC,"Sacramento Kings vs Atlanta Hawks @ State Farm Arena, 2026-03-28 23:30 UTC",113,123
 401810934,2026-03-29,Memphis Grizzlies,Chicago Bulls,FedExForum,2026-03-29,00:00 UTC,"Chicago Bulls vs Memphis Grizzlies @ FedExForum, 2026-03-29 00:00 UTC",124,125
 401810936,2026-03-29,Phoenix Suns,Utah Jazz,Mortgage Matchup Center,2026-03-29,02:00 UTC,"Utah Jazz vs Phoenix Suns @ Mortgage Matchup Center, 2026-03-29 02:00 UTC",109,134
+401810937,2026-03-29,Milwaukee Bucks,LA Clippers,Fiserv Forum,2026-03-29,19:30 UTC,"LA Clippers vs Milwaukee Bucks @ Fiserv Forum, 2026-03-29 19:30 UTC",127,113
+401810938,2026-03-29,Indiana Pacers,Miami Heat,Gainbridge Fieldhouse,2026-03-29,21:00 UTC,"Miami Heat vs Indiana Pacers @ Gainbridge Fieldhouse, 2026-03-29 21:00 UTC",118,135
+401810939,2026-03-29,Brooklyn Nets,Sacramento Kings,Barclays Center,2026-03-29,22:00 UTC,"Sacramento Kings vs Brooklyn Nets @ Barclays Center, 2026-03-29 22:00 UTC",99,116
+401810940,2026-03-29,Charlotte Hornets,Boston Celtics,Spectrum Center,2026-03-29,22:00 UTC,"Boston Celtics vs Charlotte Hornets @ Spectrum Center, 2026-03-29 22:00 UTC",114,99
+401810941,2026-03-29,Toronto Raptors,Orlando Magic,Scotiabank Arena,2026-03-29,22:00 UTC,"Orlando Magic vs Toronto Raptors @ Scotiabank Arena, 2026-03-29 22:00 UTC",87,139
+401810942,2026-03-29,Portland Trail Blazers,Washington Wizards,Moda Center,2026-03-29,22:00 UTC,"Washington Wizards vs Portland Trail Blazers @ Moda Center, 2026-03-29 22:00 UTC",88,123
+401810943,2026-03-29,New Orleans Pelicans,Houston Rockets,Smoothie King Center,2026-03-29,23:00 UTC,"Houston Rockets vs New Orleans Pelicans @ Smoothie King Center, 2026-03-29 23:00 UTC",134,102
+401810944,2026-03-29,Oklahoma City Thunder,New York Knicks,Paycom Center,2026-03-29,23:30 UTC,"New York Knicks vs Oklahoma City Thunder @ Paycom Center, 2026-03-29 23:30 UTC",100,111
+401810945,2026-03-30,Denver Nuggets,Golden State Warriors,Ball Arena,2026-03-30,02:00 UTC,"Golden State Warriors vs Denver Nuggets @ Ball Arena, 2026-03-30 02:00 UTC",93,116

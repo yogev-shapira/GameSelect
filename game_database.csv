@@ -2087,3 +2087,11 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810943,2026-03-29,New Orleans Pelicans,Houston Rockets,Smoothie King Center,2026-03-29,23:00 UTC,"Houston Rockets vs New Orleans Pelicans @ Smoothie King Center, 2026-03-29 23:00 UTC",134,102
 401810944,2026-03-29,Oklahoma City Thunder,New York Knicks,Paycom Center,2026-03-29,23:30 UTC,"New York Knicks vs Oklahoma City Thunder @ Paycom Center, 2026-03-29 23:30 UTC",100,111
 401810945,2026-03-30,Denver Nuggets,Golden State Warriors,Ball Arena,2026-03-30,02:00 UTC,"Golden State Warriors vs Denver Nuggets @ Ball Arena, 2026-03-30 02:00 UTC",93,116
+401810946,2026-03-30,Miami Heat,Philadelphia 76ers,Kaseya Center,2026-03-30,23:00 UTC,"Philadelphia 76ers vs Miami Heat @ Kaseya Center, 2026-03-30 23:00 UTC",109,119
+401810947,2026-03-30,Atlanta Hawks,Boston Celtics,State Farm Arena,2026-03-30,23:30 UTC,"Boston Celtics vs Atlanta Hawks @ State Farm Arena, 2026-03-30 23:30 UTC",102,112
+401810948,2026-03-31,Memphis Grizzlies,Phoenix Suns,FedExForum,2026-03-31,00:00 UTC,"Phoenix Suns vs Memphis Grizzlies @ FedExForum, 2026-03-31 00:00 UTC",131,105
+401810949,2026-03-31,San Antonio Spurs,Chicago Bulls,Frost Bank Center,2026-03-31,00:00 UTC,"Chicago Bulls vs San Antonio Spurs @ Frost Bank Center, 2026-03-31 00:00 UTC",114,129
+401810950,2026-03-31,Dallas Mavericks,Minnesota Timberwolves,American Airlines Center,2026-03-31,00:30 UTC,"Minnesota Timberwolves vs Dallas Mavericks @ American Airlines Center, 2026-03-31 00:30 UTC",124,94
+401810951,2026-03-31,Utah Jazz,Cleveland Cavaliers,Delta Center,2026-03-31,01:00 UTC,"Cleveland Cavaliers vs Utah Jazz @ Delta Center, 2026-03-31 01:00 UTC",122,113
+401810952,2026-03-31,Oklahoma City Thunder,Detroit Pistons,Paycom Center,2026-03-31,01:30 UTC,"Detroit Pistons vs Oklahoma City Thunder @ Paycom Center, 2026-03-31 01:30 UTC",110,114
+401810953,2026-03-31,Los Angeles Lakers,Washington Wizards,crypto.com Arena,2026-03-31,02:00 UTC,"Washington Wizards vs Los Angeles Lakers @ crypto.com Arena, 2026-03-31 02:00 UTC",101,120

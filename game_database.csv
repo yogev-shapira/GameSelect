@@ -2102,3 +2102,12 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401858694,2026-04-01,Milwaukee Bucks,Dallas Mavericks,Fiserv Forum,2026-04-01,00:00 UTC,"Dallas Mavericks vs Milwaukee Bucks @ Fiserv Forum, 2026-04-01 00:00 UTC",96,123
 401810958,2026-04-01,Los Angeles Lakers,Cleveland Cavaliers,crypto.com Arena,2026-04-01,02:30 UTC,"Cleveland Cavaliers vs Los Angeles Lakers @ crypto.com Arena, 2026-04-01 02:30 UTC",113,127
 401810959,2026-04-01,LA Clippers,Portland Trail Blazers,Intuit Dome,2026-04-01,03:00 UTC,"Portland Trail Blazers vs LA Clippers @ Intuit Dome, 2026-04-01 03:00 UTC",114,104
+401810960,2026-04-01,Washington Wizards,Philadelphia 76ers,Capital One Arena,2026-04-01,23:00 UTC,"Philadelphia 76ers vs Washington Wizards @ Capital One Arena, 2026-04-01 23:00 UTC",153,131
+401810962,2026-04-01,Orlando Magic,Atlanta Hawks,Kia Center,2026-04-01,23:00 UTC,"Atlanta Hawks vs Orlando Magic @ Kia Center, 2026-04-01 23:00 UTC",130,101
+401810961,2026-04-01,Miami Heat,Boston Celtics,Kaseya Center,2026-04-01,23:30 UTC,"Boston Celtics vs Miami Heat @ Kaseya Center, 2026-04-01 23:30 UTC",147,129
+401810858,2026-04-02,Memphis Grizzlies,New York Knicks,FedExForum,2026-04-02,00:00 UTC,"New York Knicks vs Memphis Grizzlies @ FedExForum, 2026-04-02 00:00 UTC",130,119
+401810963,2026-04-02,Toronto Raptors,Sacramento Kings,Scotiabank Arena,2026-04-02,00:00 UTC,"Sacramento Kings vs Toronto Raptors @ Scotiabank Arena, 2026-04-02 00:00 UTC",123,115
+401810964,2026-04-02,Chicago Bulls,Indiana Pacers,United Center,2026-04-02,00:00 UTC,"Indiana Pacers vs Chicago Bulls @ United Center, 2026-04-02 00:00 UTC",145,126
+401810965,2026-04-02,Houston Rockets,Milwaukee Bucks,Toyota Center (Houston),2026-04-02,00:00 UTC,"Milwaukee Bucks vs Houston Rockets @ Toyota Center (Houston), 2026-04-02 00:00 UTC",113,119
+401810967,2026-04-02,Utah Jazz,Denver Nuggets,Delta Center,2026-04-02,01:00 UTC,"Denver Nuggets vs Utah Jazz @ Delta Center, 2026-04-02 01:00 UTC",130,117
+401810968,2026-04-02,Golden State Warriors,San Antonio Spurs,Chase Center,2026-04-02,02:00 UTC,"San Antonio Spurs vs Golden State Warriors @ Chase Center, 2026-04-02 02:00 UTC",127,113

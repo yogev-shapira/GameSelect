@@ -2111,3 +2111,9 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810965,2026-04-02,Houston Rockets,Milwaukee Bucks,Toyota Center (Houston),2026-04-02,00:00 UTC,"Milwaukee Bucks vs Houston Rockets @ Toyota Center (Houston), 2026-04-02 00:00 UTC",113,119
 401810967,2026-04-02,Utah Jazz,Denver Nuggets,Delta Center,2026-04-02,01:00 UTC,"Denver Nuggets vs Utah Jazz @ Delta Center, 2026-04-02 01:00 UTC",130,117
 401810968,2026-04-02,Golden State Warriors,San Antonio Spurs,Chase Center,2026-04-02,02:00 UTC,"San Antonio Spurs vs Golden State Warriors @ Chase Center, 2026-04-02 02:00 UTC",127,113
+401810969,2026-04-02,Charlotte Hornets,Phoenix Suns,Spectrum Center,2026-04-02,23:00 UTC,"Phoenix Suns vs Charlotte Hornets @ Spectrum Center, 2026-04-02 23:00 UTC",107,127
+401810970,2026-04-02,Detroit Pistons,Minnesota Timberwolves,Little Caesars Arena,2026-04-02,23:00 UTC,"Minnesota Timberwolves vs Detroit Pistons @ Little Caesars Arena, 2026-04-02 23:00 UTC",108,113
+401810971,2026-04-03,Oklahoma City Thunder,Los Angeles Lakers,Paycom Center,2026-04-03,01:30 UTC,"Los Angeles Lakers vs Oklahoma City Thunder @ Paycom Center, 2026-04-03 01:30 UTC",96,139
+401810972,2026-04-03,Golden State Warriors,Cleveland Cavaliers,Chase Center,2026-04-03,02:00 UTC,"Cleveland Cavaliers vs Golden State Warriors @ Chase Center, 2026-04-03 02:00 UTC",118,111
+401810973,2026-04-03,Portland Trail Blazers,New Orleans Pelicans,Moda Center,2026-04-03,02:00 UTC,"New Orleans Pelicans vs Portland Trail Blazers @ Moda Center, 2026-04-03 02:00 UTC",106,118
+401810974,2026-04-03,LA Clippers,San Antonio Spurs,Intuit Dome,2026-04-03,02:30 UTC,"San Antonio Spurs vs LA Clippers @ Intuit Dome, 2026-04-03 02:30 UTC",118,99

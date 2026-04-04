@@ -2117,3 +2117,12 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810972,2026-04-03,Golden State Warriors,Cleveland Cavaliers,Chase Center,2026-04-03,02:00 UTC,"Cleveland Cavaliers vs Golden State Warriors @ Chase Center, 2026-04-03 02:00 UTC",118,111
 401810973,2026-04-03,Portland Trail Blazers,New Orleans Pelicans,Moda Center,2026-04-03,02:00 UTC,"New Orleans Pelicans vs Portland Trail Blazers @ Moda Center, 2026-04-03 02:00 UTC",106,118
 401810974,2026-04-03,LA Clippers,San Antonio Spurs,Intuit Dome,2026-04-03,02:30 UTC,"San Antonio Spurs vs LA Clippers @ Intuit Dome, 2026-04-03 02:30 UTC",118,99
+401810975,2026-04-03,Charlotte Hornets,Indiana Pacers,Spectrum Center,2026-04-03,23:00 UTC,"Indiana Pacers vs Charlotte Hornets @ Spectrum Center, 2026-04-03 23:00 UTC",108,129
+401810976,2026-04-03,Philadelphia 76ers,Minnesota Timberwolves,Xfinity Mobile Arena,2026-04-03,23:00 UTC,"Minnesota Timberwolves vs Philadelphia 76ers @ Xfinity Mobile Arena, 2026-04-03 23:00 UTC",103,115
+401810977,2026-04-03,Brooklyn Nets,Atlanta Hawks,Barclays Center,2026-04-03,23:30 UTC,"Atlanta Hawks vs Brooklyn Nets @ Barclays Center, 2026-04-03 23:30 UTC",141,107
+401810978,2026-04-03,New York Knicks,Chicago Bulls,Madison Square Garden,2026-04-03,23:30 UTC,"Chicago Bulls vs New York Knicks @ Madison Square Garden, 2026-04-03 23:30 UTC",96,136
+401810979,2026-04-04,Houston Rockets,Utah Jazz,Toyota Center (Houston),2026-04-04,00:00 UTC,"Utah Jazz vs Houston Rockets @ Toyota Center (Houston), 2026-04-04 00:00 UTC",106,140
+401810980,2026-04-04,Memphis Grizzlies,Toronto Raptors,FedExForum,2026-04-04,00:00 UTC,"Toronto Raptors vs Memphis Grizzlies @ FedExForum, 2026-04-04 00:00 UTC",128,96
+401810981,2026-04-04,Milwaukee Bucks,Boston Celtics,Fiserv Forum,2026-04-04,00:00 UTC,"Boston Celtics vs Milwaukee Bucks @ Fiserv Forum, 2026-04-04 00:00 UTC",133,101
+401810982,2026-04-04,Dallas Mavericks,Orlando Magic,American Airlines Center,2026-04-04,00:30 UTC,"Orlando Magic vs Dallas Mavericks @ American Airlines Center, 2026-04-04 00:30 UTC",138,127
+401810983,2026-04-04,Sacramento Kings,New Orleans Pelicans,Golden 1 Center,2026-04-04,02:00 UTC,"New Orleans Pelicans vs Sacramento Kings @ Golden 1 Center, 2026-04-04 02:00 UTC",113,117

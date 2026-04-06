@@ -2129,3 +2129,14 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810984,2026-04-04,Miami Heat,Washington Wizards,Kaseya Center,2026-04-04,19:00 UTC,"Washington Wizards vs Miami Heat @ Kaseya Center, 2026-04-04 19:00 UTC",136,152
 401810985,2026-04-04,Denver Nuggets,San Antonio Spurs,Ball Arena,2026-04-04,19:00 UTC,"San Antonio Spurs vs Denver Nuggets @ Ball Arena, 2026-04-04 19:00 UTC",134,136
 401810986,2026-04-04,Philadelphia 76ers,Detroit Pistons,Xfinity Mobile Arena,2026-04-04,23:00 UTC,"Detroit Pistons vs Philadelphia 76ers @ Xfinity Mobile Arena, 2026-04-04 23:00 UTC",116,93
+401810987,2026-04-05,Boston Celtics,Toronto Raptors,TD Garden,2026-04-05,19:30 UTC,"Toronto Raptors vs Boston Celtics @ TD Garden, 2026-04-05 19:30 UTC",101,115
+401810988,2026-04-05,Brooklyn Nets,Washington Wizards,Barclays Center,2026-04-05,19:30 UTC,"Washington Wizards vs Brooklyn Nets @ Barclays Center, 2026-04-05 19:30 UTC",115,121
+401810989,2026-04-05,Chicago Bulls,Phoenix Suns,United Center,2026-04-05,19:30 UTC,"Phoenix Suns vs Chicago Bulls @ United Center, 2026-04-05 19:30 UTC",120,110
+401810990,2026-04-05,Milwaukee Bucks,Memphis Grizzlies,Fiserv Forum,2026-04-05,19:30 UTC,"Memphis Grizzlies vs Milwaukee Bucks @ Fiserv Forum, 2026-04-05 19:30 UTC",115,129
+401810991,2026-04-05,Cleveland Cavaliers,Indiana Pacers,Rocket Arena,2026-04-05,22:00 UTC,"Indiana Pacers vs Cleveland Cavaliers @ Rocket Arena, 2026-04-05 22:00 UTC",108,117
+401810992,2026-04-05,Minnesota Timberwolves,Charlotte Hornets,Target Center,2026-04-05,23:00 UTC,"Charlotte Hornets vs Minnesota Timberwolves @ Target Center, 2026-04-05 23:00 UTC",122,108
+401810993,2026-04-05,New Orleans Pelicans,Orlando Magic,Smoothie King Center,2026-04-05,23:00 UTC,"Orlando Magic vs New Orleans Pelicans @ Smoothie King Center, 2026-04-05 23:00 UTC",112,108
+401810994,2026-04-05,Oklahoma City Thunder,Utah Jazz,Paycom Center,2026-04-05,23:00 UTC,"Utah Jazz vs Oklahoma City Thunder @ Paycom Center, 2026-04-05 23:00 UTC",111,146
+401810995,2026-04-05,Dallas Mavericks,Los Angeles Lakers,American Airlines Center,2026-04-05,23:30 UTC,"Los Angeles Lakers vs Dallas Mavericks @ American Airlines Center, 2026-04-05 23:30 UTC",128,134
+401810996,2026-04-06,Sacramento Kings,LA Clippers,Golden 1 Center,2026-04-06,01:00 UTC,"LA Clippers vs Sacramento Kings @ Golden 1 Center, 2026-04-06 01:00 UTC",138,109
+401810997,2026-04-06,Golden State Warriors,Houston Rockets,Chase Center,2026-04-06,02:00 UTC,"Houston Rockets vs Golden State Warriors @ Chase Center, 2026-04-06 02:00 UTC",117,116

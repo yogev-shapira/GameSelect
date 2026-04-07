@@ -2140,3 +2140,8 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401810995,2026-04-05,Dallas Mavericks,Los Angeles Lakers,American Airlines Center,2026-04-05,23:30 UTC,"Los Angeles Lakers vs Dallas Mavericks @ American Airlines Center, 2026-04-05 23:30 UTC",128,134
 401810996,2026-04-06,Sacramento Kings,LA Clippers,Golden 1 Center,2026-04-06,01:00 UTC,"LA Clippers vs Sacramento Kings @ Golden 1 Center, 2026-04-06 01:00 UTC",138,109
 401810997,2026-04-06,Golden State Warriors,Houston Rockets,Chase Center,2026-04-06,02:00 UTC,"Houston Rockets vs Golden State Warriors @ Chase Center, 2026-04-06 02:00 UTC",117,116
+401810998,2026-04-06,Atlanta Hawks,New York Knicks,State Farm Arena,2026-04-06,23:00 UTC,"New York Knicks vs Atlanta Hawks @ State Farm Arena, 2026-04-06 23:00 UTC",108,105
+401810999,2026-04-06,Orlando Magic,Detroit Pistons,Kia Center,2026-04-06,23:00 UTC,"Detroit Pistons vs Orlando Magic @ Kia Center, 2026-04-06 23:00 UTC",107,123
+401811000,2026-04-07,Memphis Grizzlies,Cleveland Cavaliers,FedExForum,2026-04-07,00:00 UTC,"Cleveland Cavaliers vs Memphis Grizzlies @ FedExForum, 2026-04-07 00:00 UTC",142,126
+401811001,2026-04-07,San Antonio Spurs,Philadelphia 76ers,Frost Bank Center,2026-04-07,00:00 UTC,"Philadelphia 76ers vs San Antonio Spurs @ Frost Bank Center, 2026-04-07 00:00 UTC",102,115
+401811002,2026-04-07,Denver Nuggets,Portland Trail Blazers,Ball Arena,2026-04-07,01:00 UTC,"Portland Trail Blazers vs Denver Nuggets @ Ball Arena, 2026-04-07 01:00 UTC",132,137

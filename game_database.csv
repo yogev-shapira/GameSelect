@@ -2145,3 +2145,13 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401811000,2026-04-07,Memphis Grizzlies,Cleveland Cavaliers,FedExForum,2026-04-07,00:00 UTC,"Cleveland Cavaliers vs Memphis Grizzlies @ FedExForum, 2026-04-07 00:00 UTC",142,126
 401811001,2026-04-07,San Antonio Spurs,Philadelphia 76ers,Frost Bank Center,2026-04-07,00:00 UTC,"Philadelphia 76ers vs San Antonio Spurs @ Frost Bank Center, 2026-04-07 00:00 UTC",102,115
 401811002,2026-04-07,Denver Nuggets,Portland Trail Blazers,Ball Arena,2026-04-07,01:00 UTC,"Portland Trail Blazers vs Denver Nuggets @ Ball Arena, 2026-04-07 01:00 UTC",132,137
+401811003,2026-04-07,Washington Wizards,Chicago Bulls,Capital One Arena,2026-04-07,23:00 UTC,"Chicago Bulls vs Washington Wizards @ Capital One Arena, 2026-04-07 23:00 UTC",129,98
+401811007,2026-04-07,Indiana Pacers,Minnesota Timberwolves,Gainbridge Fieldhouse,2026-04-07,23:00 UTC,"Minnesota Timberwolves vs Indiana Pacers @ Gainbridge Fieldhouse, 2026-04-07 23:00 UTC",124,104
+401811005,2026-04-07,Brooklyn Nets,Milwaukee Bucks,Barclays Center,2026-04-07,23:30 UTC,"Milwaukee Bucks vs Brooklyn Nets @ Barclays Center, 2026-04-07 23:30 UTC",90,96
+401811006,2026-04-07,Toronto Raptors,Miami Heat,Scotiabank Arena,2026-04-07,23:30 UTC,"Miami Heat vs Toronto Raptors @ Scotiabank Arena, 2026-04-07 23:30 UTC",95,121
+401811004,2026-04-08,Boston Celtics,Charlotte Hornets,TD Garden,2026-04-08,00:00 UTC,"Charlotte Hornets vs Boston Celtics @ TD Garden, 2026-04-08 00:00 UTC",102,113
+401811008,2026-04-08,New Orleans Pelicans,Utah Jazz,Smoothie King Center,2026-04-08,00:00 UTC,"Utah Jazz vs New Orleans Pelicans @ Smoothie King Center, 2026-04-08 00:00 UTC",137,156
+401811009,2026-04-08,Golden State Warriors,Sacramento Kings,Chase Center,2026-04-08,02:00 UTC,"Sacramento Kings vs Golden State Warriors @ Chase Center, 2026-04-08 02:00 UTC",105,110
+401811010,2026-04-08,Los Angeles Lakers,Oklahoma City Thunder,crypto.com Arena,2026-04-08,02:30 UTC,"Oklahoma City Thunder vs Los Angeles Lakers @ crypto.com Arena, 2026-04-08 02:30 UTC",123,87
+401811011,2026-04-08,LA Clippers,Dallas Mavericks,Intuit Dome,2026-04-08,02:30 UTC,"Dallas Mavericks vs LA Clippers @ Intuit Dome, 2026-04-08 02:30 UTC",103,116
+401811012,2026-04-08,Phoenix Suns,Houston Rockets,Mortgage Matchup Center,2026-04-08,03:00 UTC,"Houston Rockets vs Phoenix Suns @ Mortgage Matchup Center, 2026-04-08 03:00 UTC",119,105

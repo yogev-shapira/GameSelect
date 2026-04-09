@@ -2155,3 +2155,10 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401811010,2026-04-08,Los Angeles Lakers,Oklahoma City Thunder,crypto.com Arena,2026-04-08,02:30 UTC,"Oklahoma City Thunder vs Los Angeles Lakers @ crypto.com Arena, 2026-04-08 02:30 UTC",123,87
 401811011,2026-04-08,LA Clippers,Dallas Mavericks,Intuit Dome,2026-04-08,02:30 UTC,"Dallas Mavericks vs LA Clippers @ Intuit Dome, 2026-04-08 02:30 UTC",103,116
 401811012,2026-04-08,Phoenix Suns,Houston Rockets,Mortgage Matchup Center,2026-04-08,03:00 UTC,"Houston Rockets vs Phoenix Suns @ Mortgage Matchup Center, 2026-04-08 03:00 UTC",119,105
+401811013,2026-04-08,Cleveland Cavaliers,Atlanta Hawks,Rocket Arena,2026-04-08,23:00 UTC,"Atlanta Hawks vs Cleveland Cavaliers @ Rocket Arena, 2026-04-08 23:00 UTC",116,122
+401811014,2026-04-08,Orlando Magic,Minnesota Timberwolves,Kia Center,2026-04-08,23:00 UTC,"Minnesota Timberwolves vs Orlando Magic @ Kia Center, 2026-04-08 23:00 UTC",120,132
+401811015,2026-04-08,Detroit Pistons,Milwaukee Bucks,Little Caesars Arena,2026-04-08,23:00 UTC,"Milwaukee Bucks vs Detroit Pistons @ Little Caesars Arena, 2026-04-08 23:00 UTC",111,137
+401811017,2026-04-09,Denver Nuggets,Memphis Grizzlies,Ball Arena,2026-04-09,01:00 UTC,"Memphis Grizzlies vs Denver Nuggets @ Ball Arena, 2026-04-09 01:00 UTC",119,136
+401811016,2026-04-09,San Antonio Spurs,Portland Trail Blazers,Frost Bank Center,2026-04-09,01:30 UTC,"Portland Trail Blazers vs San Antonio Spurs @ Frost Bank Center, 2026-04-09 01:30 UTC",101,112
+401811018,2026-04-09,LA Clippers,Oklahoma City Thunder,Intuit Dome,2026-04-09,02:00 UTC,"Oklahoma City Thunder vs LA Clippers @ Intuit Dome, 2026-04-09 02:00 UTC",128,110
+401811019,2026-04-09,Phoenix Suns,Dallas Mavericks,Mortgage Matchup Center,2026-04-09,02:00 UTC,"Dallas Mavericks vs Phoenix Suns @ Mortgage Matchup Center, 2026-04-09 02:00 UTC",107,112

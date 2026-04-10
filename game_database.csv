@@ -2162,3 +2162,9 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401811016,2026-04-09,San Antonio Spurs,Portland Trail Blazers,Frost Bank Center,2026-04-09,01:30 UTC,"Portland Trail Blazers vs San Antonio Spurs @ Frost Bank Center, 2026-04-09 01:30 UTC",101,112
 401811018,2026-04-09,LA Clippers,Oklahoma City Thunder,Intuit Dome,2026-04-09,02:00 UTC,"Oklahoma City Thunder vs LA Clippers @ Intuit Dome, 2026-04-09 02:00 UTC",128,110
 401811019,2026-04-09,Phoenix Suns,Dallas Mavericks,Mortgage Matchup Center,2026-04-09,02:00 UTC,"Dallas Mavericks vs Phoenix Suns @ Mortgage Matchup Center, 2026-04-09 02:00 UTC",107,112
+401811020,2026-04-09,Toronto Raptors,Miami Heat,Scotiabank Arena,2026-04-09,23:00 UTC,"Miami Heat vs Toronto Raptors @ Scotiabank Arena, 2026-04-09 23:00 UTC",114,128
+401811021,2026-04-09,Washington Wizards,Chicago Bulls,Capital One Arena,2026-04-09,23:00 UTC,"Chicago Bulls vs Washington Wizards @ Capital One Arena, 2026-04-09 23:00 UTC",119,108
+401811022,2026-04-09,Brooklyn Nets,Indiana Pacers,Barclays Center,2026-04-09,23:30 UTC,"Indiana Pacers vs Brooklyn Nets @ Barclays Center, 2026-04-09 23:30 UTC",123,94
+401811023,2026-04-09,New York Knicks,Boston Celtics,Madison Square Garden,2026-04-09,23:30 UTC,"Boston Celtics vs New York Knicks @ Madison Square Garden, 2026-04-09 23:30 UTC",106,112
+401811024,2026-04-10,Houston Rockets,Philadelphia 76ers,Toyota Center (Houston),2026-04-10,00:00 UTC,"Philadelphia 76ers vs Houston Rockets @ Toyota Center (Houston), 2026-04-10 00:00 UTC",102,113
+401811025,2026-04-10,Golden State Warriors,Los Angeles Lakers,Chase Center,2026-04-10,02:00 UTC,"Los Angeles Lakers vs Golden State Warriors @ Chase Center, 2026-04-10 02:00 UTC",119,103

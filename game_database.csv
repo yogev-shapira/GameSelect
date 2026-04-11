@@ -2168,3 +2168,18 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401811023,2026-04-09,New York Knicks,Boston Celtics,Madison Square Garden,2026-04-09,23:30 UTC,"Boston Celtics vs New York Knicks @ Madison Square Garden, 2026-04-09 23:30 UTC",106,112
 401811024,2026-04-10,Houston Rockets,Philadelphia 76ers,Toyota Center (Houston),2026-04-10,00:00 UTC,"Philadelphia 76ers vs Houston Rockets @ Toyota Center (Houston), 2026-04-10 00:00 UTC",102,113
 401811025,2026-04-10,Golden State Warriors,Los Angeles Lakers,Chase Center,2026-04-10,02:00 UTC,"Los Angeles Lakers vs Golden State Warriors @ Chase Center, 2026-04-10 02:00 UTC",119,103
+401811026,2026-04-10,Charlotte Hornets,Detroit Pistons,Spectrum Center,2026-04-10,23:00 UTC,"Detroit Pistons vs Charlotte Hornets @ Spectrum Center, 2026-04-10 23:00 UTC",118,100
+401811027,2026-04-10,Washington Wizards,Miami Heat,Capital One Arena,2026-04-10,23:00 UTC,"Miami Heat vs Washington Wizards @ Capital One Arena, 2026-04-10 23:00 UTC",140,117
+401811028,2026-04-10,Atlanta Hawks,Cleveland Cavaliers,State Farm Arena,2026-04-10,23:00 UTC,"Cleveland Cavaliers vs Atlanta Hawks @ State Farm Arena, 2026-04-10 23:00 UTC",102,124
+401811029,2026-04-10,Boston Celtics,New Orleans Pelicans,TD Garden,2026-04-10,23:30 UTC,"New Orleans Pelicans vs Boston Celtics @ TD Garden, 2026-04-10 23:30 UTC",118,144
+401811030,2026-04-10,Indiana Pacers,Philadelphia 76ers,Gainbridge Fieldhouse,2026-04-10,23:30 UTC,"Philadelphia 76ers vs Indiana Pacers @ Gainbridge Fieldhouse, 2026-04-10 23:30 UTC",105,94
+401811031,2026-04-10,New York Knicks,Toronto Raptors,Madison Square Garden,2026-04-10,23:30 UTC,"Toronto Raptors vs New York Knicks @ Madison Square Garden, 2026-04-10 23:30 UTC",95,112
+401811032,2026-04-11,Chicago Bulls,Orlando Magic,United Center,2026-04-11,00:00 UTC,"Orlando Magic vs Chicago Bulls @ United Center, 2026-04-11 00:00 UTC",127,103
+401811034,2026-04-11,Milwaukee Bucks,Brooklyn Nets,Fiserv Forum,2026-04-11,00:00 UTC,"Brooklyn Nets vs Milwaukee Bucks @ Fiserv Forum, 2026-04-11 00:00 UTC",108,125
+401811035,2026-04-11,San Antonio Spurs,Dallas Mavericks,Frost Bank Center,2026-04-11,00:00 UTC,"Dallas Mavericks vs San Antonio Spurs @ Frost Bank Center, 2026-04-11 00:00 UTC",120,139
+401811037,2026-04-11,Denver Nuggets,Oklahoma City Thunder,Ball Arena,2026-04-11,01:00 UTC,"Oklahoma City Thunder vs Denver Nuggets @ Ball Arena, 2026-04-11 01:00 UTC",107,127
+401811033,2026-04-11,Houston Rockets,Minnesota Timberwolves,Toyota Center (Houston),2026-04-11,01:30 UTC,"Minnesota Timberwolves vs Houston Rockets @ Toyota Center (Houston), 2026-04-11 01:30 UTC",136,132
+401811036,2026-04-11,Utah Jazz,Memphis Grizzlies,Delta Center,2026-04-11,01:30 UTC,"Memphis Grizzlies vs Utah Jazz @ Delta Center, 2026-04-11 01:30 UTC",101,147
+401811038,2026-04-11,Portland Trail Blazers,LA Clippers,Moda Center,2026-04-11,02:00 UTC,"LA Clippers vs Portland Trail Blazers @ Moda Center, 2026-04-11 02:00 UTC",97,116
+401811039,2026-04-11,Sacramento Kings,Golden State Warriors,Golden 1 Center,2026-04-11,02:00 UTC,"Golden State Warriors vs Sacramento Kings @ Golden 1 Center, 2026-04-11 02:00 UTC",118,124
+401811040,2026-04-11,Los Angeles Lakers,Phoenix Suns,crypto.com Arena,2026-04-11,02:30 UTC,"Phoenix Suns vs Los Angeles Lakers @ crypto.com Arena, 2026-04-11 02:30 UTC",73,101

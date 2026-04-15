@@ -2198,3 +2198,5 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401811053,2026-04-13,Los Angeles Lakers,Utah Jazz,crypto.com Arena,2026-04-13,00:30 UTC,"Utah Jazz vs Los Angeles Lakers @ crypto.com Arena, 2026-04-13 00:30 UTC",107,131
 401811054,2026-04-13,LA Clippers,Golden State Warriors,Intuit Dome,2026-04-13,00:30 UTC,"Golden State Warriors vs LA Clippers @ Intuit Dome, 2026-04-13 00:30 UTC",110,115
 401811055,2026-04-13,Portland Trail Blazers,Sacramento Kings,Moda Center,2026-04-13,00:30 UTC,"Sacramento Kings vs Portland Trail Blazers @ Moda Center, 2026-04-13 00:30 UTC",110,122
+401866755,2026-04-14,Charlotte Hornets,Miami Heat,Spectrum Center,2026-04-14,23:30 UTC,"Miami Heat vs Charlotte Hornets @ Spectrum Center, 2026-04-14 23:30 UTC",126,127
+401866754,2026-04-15,Phoenix Suns,Portland Trail Blazers,Mortgage Matchup Center,2026-04-15,02:00 UTC,"Portland Trail Blazers vs Phoenix Suns @ Mortgage Matchup Center, 2026-04-15 02:00 UTC",114,110

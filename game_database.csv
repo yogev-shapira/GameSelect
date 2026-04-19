@@ -2204,3 +2204,7 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401866756,2026-04-16,LA Clippers,Golden State Warriors,Intuit Dome,2026-04-16,02:00 UTC,"Golden State Warriors vs LA Clippers @ Intuit Dome, 2026-04-16 02:00 UTC",126,121
 401866758,2026-04-17,Orlando Magic,Charlotte Hornets,Kia Center,2026-04-17,23:30 UTC,"Charlotte Hornets vs Orlando Magic @ Kia Center, 2026-04-17 23:30 UTC",90,121
 401866759,2026-04-18,Phoenix Suns,Golden State Warriors,Mortgage Matchup Center,2026-04-18,02:00 UTC,"Golden State Warriors vs Phoenix Suns @ Mortgage Matchup Center, 2026-04-18 02:00 UTC",96,111
+401869187,2026-04-18,Cleveland Cavaliers,Toronto Raptors,Rocket Arena,2026-04-18,17:00 UTC,"Toronto Raptors vs Cleveland Cavaliers @ Rocket Arena, 2026-04-18 17:00 UTC",113,126
+401869188,2026-04-18,Denver Nuggets,Minnesota Timberwolves,Ball Arena,2026-04-18,19:30 UTC,"Minnesota Timberwolves vs Denver Nuggets @ Ball Arena, 2026-04-18 19:30 UTC",105,116
+401869189,2026-04-18,New York Knicks,Atlanta Hawks,Madison Square Garden,2026-04-18,22:00 UTC,"Atlanta Hawks vs New York Knicks @ Madison Square Garden, 2026-04-18 22:00 UTC",102,113
+401869190,2026-04-19,Los Angeles Lakers,Houston Rockets,crypto.com Arena,2026-04-19,00:30 UTC,"Houston Rockets vs Los Angeles Lakers @ crypto.com Arena, 2026-04-19 00:30 UTC",98,107

@@ -2234,3 +2234,6 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401869385,2026-04-26,Portland Trail Blazers,San Antonio Spurs,Moda Center,2026-04-26,19:30 UTC,"San Antonio Spurs vs Portland Trail Blazers @ Moda Center, 2026-04-26 19:30 UTC",114,93
 401869406,2026-04-26,Philadelphia 76ers,Boston Celtics,Xfinity Mobile Arena,2026-04-26,23:00 UTC,"Boston Celtics vs Philadelphia 76ers @ Xfinity Mobile Arena, 2026-04-26 23:00 UTC",128,96
 401869405,2026-04-27,Houston Rockets,Los Angeles Lakers,Toyota Center (Houston),2026-04-27,01:30 UTC,"Los Angeles Lakers vs Houston Rockets @ Toyota Center (Houston), 2026-04-27 01:30 UTC",96,115
+401869415,2026-04-28,Orlando Magic,Detroit Pistons,Kia Center,2026-04-28,00:00 UTC,"Detroit Pistons vs Orlando Magic @ Kia Center, 2026-04-28 00:00 UTC",88,94
+401869373,2026-04-28,Phoenix Suns,Oklahoma City Thunder,Mortgage Matchup Center,2026-04-28,01:30 UTC,"Oklahoma City Thunder vs Phoenix Suns @ Mortgage Matchup Center, 2026-04-28 01:30 UTC",131,122
+401869401,2026-04-28,Denver Nuggets,Minnesota Timberwolves,Ball Arena,2026-04-28,02:30 UTC,"Minnesota Timberwolves vs Denver Nuggets @ Ball Arena, 2026-04-28 02:30 UTC",113,125

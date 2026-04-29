@@ -2237,3 +2237,6 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401869415,2026-04-28,Orlando Magic,Detroit Pistons,Kia Center,2026-04-28,00:00 UTC,"Detroit Pistons vs Orlando Magic @ Kia Center, 2026-04-28 00:00 UTC",88,94
 401869373,2026-04-28,Phoenix Suns,Oklahoma City Thunder,Mortgage Matchup Center,2026-04-28,01:30 UTC,"Oklahoma City Thunder vs Phoenix Suns @ Mortgage Matchup Center, 2026-04-28 01:30 UTC",131,122
 401869401,2026-04-28,Denver Nuggets,Minnesota Timberwolves,Ball Arena,2026-04-28,02:30 UTC,"Minnesota Timberwolves vs Denver Nuggets @ Ball Arena, 2026-04-28 02:30 UTC",113,125
+401869408,2026-04-28,Boston Celtics,Philadelphia 76ers,TD Garden,2026-04-28,23:00 UTC,"Philadelphia 76ers vs Boston Celtics @ TD Garden, 2026-04-28 23:00 UTC",113,97
+401869392,2026-04-29,New York Knicks,Atlanta Hawks,Madison Square Garden,2026-04-29,00:00 UTC,"Atlanta Hawks vs New York Knicks @ Madison Square Garden, 2026-04-29 00:00 UTC",97,126
+401869386,2026-04-29,San Antonio Spurs,Portland Trail Blazers,Frost Bank Center,2026-04-29,01:30 UTC,"Portland Trail Blazers vs San Antonio Spurs @ Frost Bank Center, 2026-04-29 01:30 UTC",95,114

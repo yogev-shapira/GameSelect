@@ -2243,3 +2243,6 @@ game_id,game_date,home_team,away_team,location,date,hour,game_string,away_score,
 401869416,2026-04-29,Detroit Pistons,Orlando Magic,Little Caesars Arena,2026-04-29,23:00 UTC,"Orlando Magic vs Detroit Pistons @ Little Caesars Arena, 2026-04-29 23:00 UTC",109,116
 401869380,2026-04-29,Cleveland Cavaliers,Toronto Raptors,Rocket Arena,2026-04-29,23:30 UTC,"Toronto Raptors vs Cleveland Cavaliers @ Rocket Arena, 2026-04-29 23:30 UTC",120,125
 401869407,2026-04-30,Los Angeles Lakers,Houston Rockets,crypto.com Arena,2026-04-30,02:00 UTC,"Houston Rockets vs Los Angeles Lakers @ crypto.com Arena, 2026-04-30 02:00 UTC",99,93
+401869393,2026-04-30,Atlanta Hawks,New York Knicks,State Farm Arena,2026-04-30,23:00 UTC,"New York Knicks vs Atlanta Hawks @ State Farm Arena, 2026-04-30 23:00 UTC",140,89
+401869410,2026-05-01,Philadelphia 76ers,Boston Celtics,Xfinity Mobile Arena,2026-05-01,00:00 UTC,"Boston Celtics vs Philadelphia 76ers @ Xfinity Mobile Arena, 2026-05-01 00:00 UTC",93,106
+401869402,2026-05-01,Minnesota Timberwolves,Denver Nuggets,Target Center,2026-05-01,01:30 UTC,"Denver Nuggets vs Minnesota Timberwolves @ Target Center, 2026-05-01 01:30 UTC",98,110
